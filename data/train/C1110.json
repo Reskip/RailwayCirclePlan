@@ -1,0 +1,63 @@
+{
+    "station_list": [
+        {
+            "arrive_day_str": "当日到达",
+            "station_name": "沈阳北",
+            "train_class_name": "动车",
+            "is_start": "Y",
+            "service_type": "2",
+            "end_station_name": "通辽",
+            "arrive_time": "----",
+            "start_station_name": "沈阳北",
+            "station_train_code": "C1110",
+            "arrive_day_diff": "0",
+            "start_time": "12:19",
+            "station_no": "01",
+            "wz_num": "--",
+            "running_time": "00:00"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "13:03",
+            "station_train_code": "C1111",
+            "station_name": "彰武",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "13:05",
+            "wz_num": "--",
+            "station_no": "02",
+            "running_time": "00:44"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "13:26",
+            "station_train_code": "C1111",
+            "station_name": "甘旗卡",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "13:28",
+            "wz_num": "--",
+            "station_no": "03",
+            "running_time": "01:07"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "13:53",
+            "station_train_code": "C1111",
+            "station_name": "通辽",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "13:53",
+            "wz_num": "--",
+            "station_no": "04",
+            "running_time": "01:34"
+        }
+    ],
+    "station_names": [
+        "沈阳北",
+        "彰武",
+        "甘旗卡",
+        "通辽"
+    ],
+    "train_search_no": "12000C111010"
+}

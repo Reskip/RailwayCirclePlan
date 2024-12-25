@@ -1,0 +1,128 @@
+{
+    "station_list": [
+        {
+            "arrive_day_str": "当日到达",
+            "station_name": "广州南",
+            "train_class_name": "动车",
+            "is_start": "Y",
+            "service_type": "1",
+            "end_station_name": "百色",
+            "arrive_time": "----",
+            "start_station_name": "广州南",
+            "station_train_code": "D3786",
+            "arrive_day_diff": "0",
+            "start_time": "13:48",
+            "station_no": "01",
+            "wz_num": "--",
+            "running_time": "00:00"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "14:07",
+            "station_train_code": "D3786",
+            "station_name": "佛山西",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "14:09",
+            "wz_num": "--",
+            "station_no": "02",
+            "running_time": "00:19"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "14:30",
+            "station_train_code": "D3786",
+            "station_name": "肇庆东",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "14:32",
+            "wz_num": "--",
+            "station_no": "03",
+            "running_time": "00:42"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "14:53",
+            "station_train_code": "D3786",
+            "station_name": "云浮东",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "14:55",
+            "wz_num": "--",
+            "station_no": "04",
+            "running_time": "01:05"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "15:19",
+            "station_train_code": "D3786",
+            "station_name": "郁南",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "15:21",
+            "wz_num": "--",
+            "station_no": "05",
+            "running_time": "01:31"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "16:18",
+            "station_train_code": "D3786",
+            "station_name": "贵港",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "16:20",
+            "wz_num": "--",
+            "station_no": "06",
+            "running_time": "02:30"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "17:01",
+            "station_train_code": "D3786",
+            "station_name": "南宁东",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "17:04",
+            "wz_num": "--",
+            "station_no": "07",
+            "running_time": "03:14"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "17:15",
+            "station_train_code": "D3787",
+            "station_name": "南宁",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "17:19",
+            "wz_num": "--",
+            "station_no": "08",
+            "running_time": "03:27"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "18:35",
+            "station_train_code": "D3787",
+            "station_name": "百色",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "18:34",
+            "wz_num": "--",
+            "station_no": "09",
+            "running_time": "04:46"
+        }
+    ],
+    "station_names": [
+        "广州南",
+        "佛山西",
+        "肇庆东",
+        "云浮东",
+        "郁南",
+        "贵港",
+        "南宁东",
+        "南宁",
+        "百色"
+    ],
+    "train_search_no": "6c000D37860A"
+}

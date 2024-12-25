@@ -1,0 +1,76 @@
+{
+    "station_list": [
+        {
+            "arrive_day_str": "当日到达",
+            "station_name": "上海",
+            "train_class_name": "高速",
+            "is_start": "Y",
+            "service_type": "2",
+            "end_station_name": "杭州",
+            "arrive_time": "----",
+            "start_station_name": "上海",
+            "station_train_code": "G7359",
+            "arrive_day_diff": "0",
+            "start_time": "17:51",
+            "station_no": "01",
+            "wz_num": "--",
+            "running_time": "00:00"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "18:20",
+            "station_train_code": "G7359",
+            "station_name": "上海虹桥",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "18:23",
+            "wz_num": "--",
+            "station_no": "02",
+            "running_time": "00:29"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "18:51",
+            "station_train_code": "G7359",
+            "station_name": "嘉兴南",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "18:53",
+            "wz_num": "--",
+            "station_no": "03",
+            "running_time": "01:00"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "19:11",
+            "station_train_code": "G7359",
+            "station_name": "临平南",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "19:13",
+            "wz_num": "--",
+            "station_no": "04",
+            "running_time": "01:20"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "19:29",
+            "station_train_code": "G7359",
+            "station_name": "杭州",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "19:29",
+            "wz_num": "--",
+            "station_no": "05",
+            "running_time": "01:38"
+        }
+    ],
+    "station_names": [
+        "上海",
+        "上海虹桥",
+        "嘉兴南",
+        "临平南",
+        "杭州"
+    ],
+    "train_search_no": "55000G735930"
+}

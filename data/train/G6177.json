@@ -1,0 +1,128 @@
+{
+    "station_list": [
+        {
+            "arrive_day_str": "当日到达",
+            "station_name": "汕头",
+            "train_class_name": "高速",
+            "is_start": "Y",
+            "service_type": "1",
+            "end_station_name": "广州南",
+            "arrive_time": "----",
+            "start_station_name": "汕头",
+            "station_train_code": "G6176",
+            "arrive_day_diff": "0",
+            "start_time": "18:20",
+            "station_no": "01",
+            "wz_num": "--",
+            "running_time": "00:00"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "18:43",
+            "station_train_code": "G6177",
+            "station_name": "潮汕",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "18:49",
+            "wz_num": "--",
+            "station_no": "02",
+            "running_time": "00:23"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "19:14",
+            "station_train_code": "G6177",
+            "station_name": "葵潭",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "19:16",
+            "wz_num": "--",
+            "station_no": "03",
+            "running_time": "00:54"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "19:37",
+            "station_train_code": "G6177",
+            "station_name": "汕尾",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "19:39",
+            "wz_num": "--",
+            "station_no": "04",
+            "running_time": "01:17"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "20:08",
+            "station_train_code": "G6177",
+            "station_name": "惠阳",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "20:10",
+            "wz_num": "--",
+            "station_no": "05",
+            "running_time": "01:48"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "20:19",
+            "station_train_code": "G6177",
+            "station_name": "深圳坪山",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "20:21",
+            "wz_num": "--",
+            "station_no": "06",
+            "running_time": "01:59"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "20:40",
+            "station_train_code": "G6176",
+            "station_name": "深圳北",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "20:44",
+            "wz_num": "--",
+            "station_no": "07",
+            "running_time": "02:20"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "21:01",
+            "station_train_code": "G6176",
+            "station_name": "虎门",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "21:03",
+            "wz_num": "--",
+            "station_no": "08",
+            "running_time": "02:41"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "21:22",
+            "station_train_code": "G6176",
+            "station_name": "广州南",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "21:22",
+            "wz_num": "--",
+            "station_no": "09",
+            "running_time": "03:02"
+        }
+    ],
+    "station_names": [
+        "汕头",
+        "潮汕",
+        "葵潭",
+        "汕尾",
+        "惠阳",
+        "深圳坪山",
+        "深圳北",
+        "虎门",
+        "广州南"
+    ],
+    "train_search_no": "67000G617603"
+}

@@ -1,0 +1,89 @@
+{
+    "station_list": [
+        {
+            "arrive_day_str": "当日到达",
+            "station_name": "南京",
+            "train_class_name": "高速",
+            "is_start": "Y",
+            "service_type": "2",
+            "end_station_name": "上海虹桥",
+            "arrive_time": "----",
+            "start_station_name": "南京",
+            "station_train_code": "G7111",
+            "arrive_day_diff": "0",
+            "start_time": "10:35",
+            "station_no": "01",
+            "wz_num": "--",
+            "running_time": "00:00"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "11:14",
+            "station_train_code": "G7111",
+            "station_name": "常州",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "11:16",
+            "wz_num": "--",
+            "station_no": "02",
+            "running_time": "00:39"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "11:35",
+            "station_train_code": "G7111",
+            "station_name": "无锡新区",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "11:37",
+            "wz_num": "--",
+            "station_no": "03",
+            "running_time": "01:00"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "11:48",
+            "station_train_code": "G7111",
+            "station_name": "苏州",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "11:50",
+            "wz_num": "--",
+            "station_no": "04",
+            "running_time": "01:13"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "11:57",
+            "station_train_code": "G7111",
+            "station_name": "苏州园区",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "11:59",
+            "wz_num": "--",
+            "station_no": "05",
+            "running_time": "01:22"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "12:24",
+            "station_train_code": "G7111",
+            "station_name": "上海虹桥",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "12:24",
+            "wz_num": "--",
+            "station_no": "06",
+            "running_time": "01:49"
+        }
+    ],
+    "station_names": [
+        "南京",
+        "常州",
+        "无锡新区",
+        "苏州",
+        "苏州园区",
+        "上海虹桥"
+    ],
+    "train_search_no": "54000G7111B0"
+}

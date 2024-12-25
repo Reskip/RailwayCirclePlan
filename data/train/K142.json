@@ -1,0 +1,128 @@
+{
+    "station_list": [
+        {
+            "arrive_day_str": "当日到达",
+            "station_name": "南宁",
+            "train_class_name": "快速",
+            "is_start": "Y",
+            "service_type": "2",
+            "end_station_name": "成都西",
+            "arrive_time": "----",
+            "start_station_name": "南宁",
+            "station_train_code": "K142",
+            "arrive_day_diff": "0",
+            "start_time": "18:12",
+            "station_no": "01",
+            "wz_num": "--",
+            "running_time": "00:00"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "19:40",
+            "station_train_code": "K142",
+            "station_name": "黎塘",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "19:43",
+            "wz_num": "--",
+            "station_no": "02",
+            "running_time": "01:28"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "21:16",
+            "station_train_code": "K143",
+            "station_name": "柳州",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "21:28",
+            "wz_num": "--",
+            "station_no": "03",
+            "running_time": "03:04"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "22:37",
+            "station_train_code": "K143",
+            "station_name": "宜州",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "22:42",
+            "wz_num": "--",
+            "station_no": "04",
+            "running_time": "04:25"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "23:28",
+            "station_train_code": "K143",
+            "station_name": "金城江",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "23:36",
+            "wz_num": "--",
+            "station_no": "05",
+            "running_time": "05:16"
+        },
+        {
+            "arrive_day_str": "次日到达",
+            "arrive_time": "00:25",
+            "station_train_code": "K143",
+            "station_name": "南丹",
+            "arrive_day_diff": "1",
+            "OT": [],
+            "start_time": "00:32",
+            "wz_num": "--",
+            "station_no": "06",
+            "running_time": "06:13"
+        },
+        {
+            "arrive_day_str": "次日到达",
+            "arrive_time": "04:19",
+            "station_train_code": "K142",
+            "station_name": "贵阳",
+            "arrive_day_diff": "1",
+            "OT": [],
+            "start_time": "04:52",
+            "wz_num": "--",
+            "station_no": "07",
+            "running_time": "10:07"
+        },
+        {
+            "arrive_day_str": "次日到达",
+            "arrive_time": "08:36",
+            "station_train_code": "K143",
+            "station_name": "重庆西",
+            "arrive_day_diff": "1",
+            "OT": [],
+            "start_time": "09:07",
+            "wz_num": "--",
+            "station_no": "08",
+            "running_time": "14:24"
+        },
+        {
+            "arrive_day_str": "次日到达",
+            "arrive_time": "12:32",
+            "station_train_code": "K143",
+            "station_name": "成都西",
+            "arrive_day_diff": "1",
+            "OT": [],
+            "start_time": "12:32",
+            "wz_num": "--",
+            "station_no": "09",
+            "running_time": "18:20"
+        }
+    ],
+    "station_names": [
+        "南宁",
+        "黎塘",
+        "柳州",
+        "宜州",
+        "金城江",
+        "南丹",
+        "贵阳",
+        "重庆西",
+        "成都西"
+    ],
+    "train_search_no": "710000K1420S"
+}

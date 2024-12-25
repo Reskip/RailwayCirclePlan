@@ -1,0 +1,115 @@
+{
+    "station_list": [
+        {
+            "arrive_day_str": "当日到达",
+            "station_name": "达州",
+            "train_class_name": "动车",
+            "is_start": "Y",
+            "service_type": "2",
+            "end_station_name": "成都东",
+            "arrive_time": "----",
+            "start_station_name": "达州",
+            "station_train_code": "C743",
+            "arrive_day_diff": "0",
+            "start_time": "16:52",
+            "station_no": "01",
+            "wz_num": "--",
+            "running_time": "00:00"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "17:20",
+            "station_train_code": "C743",
+            "station_name": "土溪",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "17:23",
+            "wz_num": "--",
+            "station_no": "02",
+            "running_time": "00:28"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "17:46",
+            "station_train_code": "C743",
+            "station_name": "营山",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "17:48",
+            "wz_num": "--",
+            "station_no": "03",
+            "running_time": "00:53"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "17:59",
+            "station_train_code": "C743",
+            "station_name": "蓬安",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "18:01",
+            "wz_num": "--",
+            "station_no": "04",
+            "running_time": "01:06"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "18:24",
+            "station_train_code": "C743",
+            "station_name": "南充",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "18:26",
+            "wz_num": "--",
+            "station_no": "05",
+            "running_time": "01:31"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "18:49",
+            "station_train_code": "C743",
+            "station_name": "蓬溪",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "18:52",
+            "wz_num": "--",
+            "station_no": "06",
+            "running_time": "01:56"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "19:21",
+            "station_train_code": "C743",
+            "station_name": "大英东",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "19:28",
+            "wz_num": "--",
+            "station_no": "07",
+            "running_time": "02:28"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "20:23",
+            "station_train_code": "C743",
+            "station_name": "成都东",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "20:23",
+            "wz_num": "--",
+            "station_no": "08",
+            "running_time": "03:30"
+        }
+    ],
+    "station_names": [
+        "达州",
+        "土溪",
+        "营山",
+        "蓬安",
+        "南充",
+        "蓬溪",
+        "大英东",
+        "成都东"
+    ],
+    "train_search_no": "770000C74306"
+}

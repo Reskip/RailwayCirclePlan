@@ -1,0 +1,141 @@
+{
+    "station_list": [
+        {
+            "arrive_day_str": "当日到达",
+            "station_name": "哈尔滨西",
+            "train_class_name": "快速",
+            "is_start": "Y",
+            "service_type": "1",
+            "end_station_name": "北京",
+            "arrive_time": "----",
+            "start_station_name": "哈尔滨西",
+            "station_train_code": "K340",
+            "arrive_day_diff": "0",
+            "start_time": "18:00",
+            "station_no": "01",
+            "wz_num": "--",
+            "running_time": "00:00"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "19:04",
+            "station_train_code": "K340",
+            "station_name": "扶余",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "19:07",
+            "wz_num": "--",
+            "station_no": "02",
+            "running_time": "01:04"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "20:40",
+            "station_train_code": "K340",
+            "station_name": "长春",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "20:50",
+            "wz_num": "--",
+            "station_no": "03",
+            "running_time": "02:40"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "21:27",
+            "station_train_code": "K340",
+            "station_name": "公主岭",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "21:30",
+            "wz_num": "--",
+            "station_no": "04",
+            "running_time": "03:27"
+        },
+        {
+            "arrive_day_str": "次日到达",
+            "arrive_time": "00:33",
+            "station_train_code": "K340",
+            "station_name": "沈阳北",
+            "arrive_day_diff": "1",
+            "OT": [],
+            "start_time": "00:41",
+            "wz_num": "--",
+            "station_no": "05",
+            "running_time": "06:33"
+        },
+        {
+            "arrive_day_str": "次日到达",
+            "arrive_time": "05:57",
+            "station_train_code": "K340",
+            "station_name": "秦皇岛",
+            "arrive_day_diff": "1",
+            "OT": [],
+            "start_time": "06:00",
+            "wz_num": "--",
+            "station_no": "06",
+            "running_time": "11:57"
+        },
+        {
+            "arrive_day_str": "次日到达",
+            "arrive_time": "06:17",
+            "station_train_code": "K340",
+            "station_name": "北戴河",
+            "arrive_day_diff": "1",
+            "OT": [],
+            "start_time": "06:19",
+            "wz_num": "--",
+            "station_no": "07",
+            "running_time": "12:17"
+        },
+        {
+            "arrive_day_str": "次日到达",
+            "arrive_time": "07:04",
+            "station_train_code": "K340",
+            "station_name": "滦县",
+            "arrive_day_diff": "1",
+            "OT": [],
+            "start_time": "07:06",
+            "wz_num": "--",
+            "station_no": "08",
+            "running_time": "13:04"
+        },
+        {
+            "arrive_day_str": "次日到达",
+            "arrive_time": "08:07",
+            "station_train_code": "K340",
+            "station_name": "玉田县",
+            "arrive_day_diff": "1",
+            "OT": [],
+            "start_time": "08:19",
+            "wz_num": "--",
+            "station_no": "09",
+            "running_time": "14:07"
+        },
+        {
+            "arrive_day_str": "次日到达",
+            "arrive_time": "09:41",
+            "station_train_code": "K340",
+            "station_name": "北京",
+            "arrive_day_diff": "1",
+            "OT": [],
+            "start_time": "09:41",
+            "wz_num": "--",
+            "station_no": "10",
+            "running_time": "15:41"
+        }
+    ],
+    "station_names": [
+        "哈尔滨西",
+        "扶余",
+        "长春",
+        "公主岭",
+        "沈阳北",
+        "秦皇岛",
+        "北戴河",
+        "滦县",
+        "玉田县",
+        "北京"
+    ],
+    "train_search_no": "0h0000K34000"
+}

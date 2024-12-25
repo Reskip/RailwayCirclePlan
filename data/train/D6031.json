@@ -1,0 +1,115 @@
+{
+    "station_list": [
+        {
+            "arrive_day_str": "当日到达",
+            "station_name": "济南西",
+            "train_class_name": "动车",
+            "is_start": "Y",
+            "service_type": "2",
+            "end_station_name": "烟台",
+            "arrive_time": "----",
+            "start_station_name": "济南西",
+            "station_train_code": "D6031",
+            "arrive_day_diff": "0",
+            "start_time": "15:28",
+            "station_no": "01",
+            "wz_num": "--",
+            "running_time": "00:00"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "15:44",
+            "station_train_code": "D6031",
+            "station_name": "济南",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "15:46",
+            "wz_num": "--",
+            "station_no": "02",
+            "running_time": "00:16"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "16:52",
+            "station_train_code": "D6031",
+            "station_name": "昌乐",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "16:54",
+            "wz_num": "--",
+            "station_no": "03",
+            "running_time": "01:24"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "17:05",
+            "station_train_code": "D6031",
+            "station_name": "潍坊",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "17:07",
+            "wz_num": "--",
+            "station_no": "04",
+            "running_time": "01:37"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "18:15",
+            "station_train_code": "D6031",
+            "station_name": "莱西",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "18:17",
+            "wz_num": "--",
+            "station_no": "05",
+            "running_time": "02:47"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "18:26",
+            "station_train_code": "D6031",
+            "station_name": "莱阳",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "18:29",
+            "wz_num": "--",
+            "station_no": "06",
+            "running_time": "02:58"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "18:45",
+            "station_train_code": "D6031",
+            "station_name": "桃村北",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "18:47",
+            "wz_num": "--",
+            "station_no": "07",
+            "running_time": "03:17"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "19:13",
+            "station_train_code": "D6031",
+            "station_name": "烟台",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "19:13",
+            "wz_num": "--",
+            "station_no": "08",
+            "running_time": "03:45"
+        }
+    ],
+    "station_names": [
+        "济南西",
+        "济南",
+        "昌乐",
+        "潍坊",
+        "莱西",
+        "莱阳",
+        "桃村北",
+        "烟台"
+    ],
+    "train_search_no": "4p000D603105"
+}

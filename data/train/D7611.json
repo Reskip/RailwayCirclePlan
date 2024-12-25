@@ -1,0 +1,76 @@
+{
+    "station_list": [
+        {
+            "arrive_day_str": "当日到达",
+            "station_name": "沈阳",
+            "train_class_name": "动车",
+            "is_start": "Y",
+            "service_type": "2",
+            "end_station_name": "丹东",
+            "arrive_time": "----",
+            "start_station_name": "沈阳",
+            "station_train_code": "D7611",
+            "arrive_day_diff": "0",
+            "start_time": "08:24",
+            "station_no": "01",
+            "wz_num": "--",
+            "running_time": "00:00"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "08:46",
+            "station_train_code": "D7611",
+            "station_name": "本溪新城",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "08:48",
+            "wz_num": "--",
+            "station_no": "02",
+            "running_time": "00:22"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "09:01",
+            "station_train_code": "D7611",
+            "station_name": "本溪",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "09:03",
+            "wz_num": "--",
+            "station_no": "03",
+            "running_time": "00:37"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "09:23",
+            "station_train_code": "D7611",
+            "station_name": "通远堡西",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "09:25",
+            "wz_num": "--",
+            "station_no": "04",
+            "running_time": "00:59"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "09:52",
+            "station_train_code": "D7611",
+            "station_name": "丹东",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "09:52",
+            "wz_num": "--",
+            "station_no": "05",
+            "running_time": "01:28"
+        }
+    ],
+    "station_names": [
+        "沈阳",
+        "本溪新城",
+        "本溪",
+        "通远堡西",
+        "丹东"
+    ],
+    "train_search_no": "12000D761107"
+}

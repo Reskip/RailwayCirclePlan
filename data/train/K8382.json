@@ -1,0 +1,102 @@
+{
+    "station_list": [
+        {
+            "arrive_day_str": "当日到达",
+            "station_name": "黄山",
+            "train_class_name": "快速",
+            "is_start": "Y",
+            "service_type": "2",
+            "end_station_name": "合肥",
+            "arrive_time": "----",
+            "start_station_name": "黄山",
+            "station_train_code": "K8382",
+            "arrive_day_diff": "0",
+            "start_time": "12:17",
+            "station_no": "01",
+            "wz_num": "--",
+            "running_time": "00:00"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "12:47",
+            "station_train_code": "K8382",
+            "station_name": "歙县",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "12:50",
+            "wz_num": "--",
+            "station_no": "02",
+            "running_time": "00:30"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "13:23",
+            "station_train_code": "K8382",
+            "station_name": "绩溪县",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "13:34",
+            "wz_num": "--",
+            "station_no": "03",
+            "running_time": "01:06"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "15:21",
+            "station_train_code": "K8382",
+            "station_name": "宁国南",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "15:24",
+            "wz_num": "--",
+            "station_no": "04",
+            "running_time": "03:04"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "16:34",
+            "station_train_code": "K8382",
+            "station_name": "宣城",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "16:37",
+            "wz_num": "--",
+            "station_no": "05",
+            "running_time": "04:17"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "17:30",
+            "station_train_code": "K8382",
+            "station_name": "芜湖",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "17:36",
+            "wz_num": "--",
+            "station_no": "06",
+            "running_time": "05:13"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "19:14",
+            "station_train_code": "K8382",
+            "station_name": "合肥",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "19:14",
+            "wz_num": "--",
+            "station_no": "07",
+            "running_time": "06:57"
+        }
+    ],
+    "station_names": [
+        "黄山",
+        "歙县",
+        "绩溪县",
+        "宁国南",
+        "宣城",
+        "芜湖",
+        "合肥"
+    ],
+    "train_search_no": "54000K838242"
+}

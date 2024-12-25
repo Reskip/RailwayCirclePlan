@@ -1,0 +1,76 @@
+{
+    "station_list": [
+        {
+            "arrive_day_str": "当日到达",
+            "station_name": "包头",
+            "train_class_name": "动车",
+            "is_start": "Y",
+            "service_type": "2",
+            "end_station_name": "呼和浩特东",
+            "arrive_time": "----",
+            "start_station_name": "包头",
+            "station_train_code": "D6758",
+            "arrive_day_diff": "0",
+            "start_time": "18:23",
+            "station_no": "01",
+            "wz_num": "--",
+            "running_time": "00:00"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "18:35",
+            "station_train_code": "D6758",
+            "station_name": "包头东",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "18:37",
+            "wz_num": "--",
+            "station_no": "02",
+            "running_time": "00:12"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "18:55",
+            "station_train_code": "D6758",
+            "station_name": "萨拉齐",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "18:57",
+            "wz_num": "--",
+            "station_no": "03",
+            "running_time": "00:32"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "19:35",
+            "station_train_code": "D6758",
+            "station_name": "呼和浩特",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "19:40",
+            "wz_num": "--",
+            "station_no": "04",
+            "running_time": "01:12"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "19:48",
+            "station_train_code": "D6758",
+            "station_name": "呼和浩特东",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "19:48",
+            "wz_num": "--",
+            "station_no": "05",
+            "running_time": "01:25"
+        }
+    ],
+    "station_names": [
+        "包头",
+        "包头东",
+        "萨拉齐",
+        "呼和浩特",
+        "呼和浩特东"
+    ],
+    "train_search_no": "33000D67580G"
+}

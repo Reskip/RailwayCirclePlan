@@ -1,0 +1,141 @@
+{
+    "station_list": [
+        {
+            "arrive_day_str": "当日到达",
+            "station_name": "北京西",
+            "train_class_name": "高速",
+            "is_start": "Y",
+            "service_type": "1",
+            "end_station_name": "哈尔滨西",
+            "arrive_time": "----",
+            "start_station_name": "北京西",
+            "station_train_code": "G935",
+            "arrive_day_diff": "0",
+            "start_time": "08:36",
+            "station_no": "01",
+            "wz_num": "--",
+            "running_time": "00:00"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "08:50",
+            "station_train_code": "G935",
+            "station_name": "北京",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "09:06",
+            "wz_num": "--",
+            "station_no": "02",
+            "running_time": "00:14"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "09:26",
+            "station_train_code": "G935",
+            "station_name": "北京朝阳",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "09:37",
+            "wz_num": "--",
+            "station_no": "03",
+            "running_time": "00:47"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "10:29",
+            "station_train_code": "G935",
+            "station_name": "承德南",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "10:36",
+            "wz_num": "--",
+            "station_no": "04",
+            "running_time": "01:53"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "10:55",
+            "station_train_code": "G935",
+            "station_name": "平泉北",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "11:02",
+            "wz_num": "--",
+            "station_no": "05",
+            "running_time": "02:19"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "11:42",
+            "station_train_code": "G935",
+            "station_name": "辽宁朝阳",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "11:44",
+            "wz_num": "--",
+            "station_no": "06",
+            "running_time": "03:06"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "12:58",
+            "station_train_code": "G935",
+            "station_name": "沈阳北",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "13:02",
+            "wz_num": "--",
+            "station_no": "07",
+            "running_time": "04:22"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "13:21",
+            "station_train_code": "G935",
+            "station_name": "铁岭西",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "13:23",
+            "wz_num": "--",
+            "station_no": "08",
+            "running_time": "04:45"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "14:15",
+            "station_train_code": "G935",
+            "station_name": "长春西",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "14:18",
+            "wz_num": "--",
+            "station_no": "09",
+            "running_time": "05:39"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "15:14",
+            "station_train_code": "G935",
+            "station_name": "哈尔滨西",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "15:14",
+            "wz_num": "--",
+            "station_no": "10",
+            "running_time": "06:38"
+        }
+    ],
+    "station_names": [
+        "北京西",
+        "北京",
+        "北京朝阳",
+        "承德南",
+        "平泉北",
+        "辽宁朝阳",
+        "沈阳北",
+        "铁岭西",
+        "长春西",
+        "哈尔滨西"
+    ],
+    "train_search_no": "240000G93530"
+}

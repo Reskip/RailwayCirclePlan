@@ -1,0 +1,141 @@
+{
+    "station_list": [
+        {
+            "arrive_day_str": "当日到达",
+            "station_name": "温岭",
+            "train_class_name": "高速",
+            "is_start": "Y",
+            "service_type": "2",
+            "end_station_name": "合肥南",
+            "arrive_time": "----",
+            "start_station_name": "温岭",
+            "station_train_code": "G7482",
+            "arrive_day_diff": "0",
+            "start_time": "16:59",
+            "station_no": "01",
+            "wz_num": "--",
+            "running_time": "00:00"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "17:09",
+            "station_train_code": "G7482",
+            "station_name": "台州",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "17:11",
+            "wz_num": "--",
+            "station_no": "02",
+            "running_time": "00:10"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "17:32",
+            "station_train_code": "G7482",
+            "station_name": "天台山",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "17:34",
+            "wz_num": "--",
+            "station_no": "03",
+            "running_time": "00:33"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "17:56",
+            "station_train_code": "G7482",
+            "station_name": "嵊州北",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "17:58",
+            "wz_num": "--",
+            "station_no": "04",
+            "running_time": "00:57"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "18:07",
+            "station_train_code": "G7482",
+            "station_name": "上虞南",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "18:09",
+            "wz_num": "--",
+            "station_no": "05",
+            "running_time": "01:08"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "18:21",
+            "station_train_code": "G7482",
+            "station_name": "绍兴北",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "18:23",
+            "wz_num": "--",
+            "station_no": "06",
+            "running_time": "01:22"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "18:45",
+            "station_train_code": "G7482",
+            "station_name": "杭州东",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "18:48",
+            "wz_num": "--",
+            "station_no": "07",
+            "running_time": "01:46"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "19:09",
+            "station_train_code": "G7482",
+            "station_name": "湖州",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "19:11",
+            "wz_num": "--",
+            "station_no": "08",
+            "running_time": "02:10"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "19:56",
+            "station_train_code": "G7483",
+            "station_name": "南京南",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "20:01",
+            "wz_num": "--",
+            "station_no": "09",
+            "running_time": "02:58"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "20:49",
+            "station_train_code": "G7483",
+            "station_name": "合肥南",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "20:49",
+            "wz_num": "--",
+            "station_no": "10",
+            "running_time": "03:50"
+        }
+    ],
+    "station_names": [
+        "温岭",
+        "台州",
+        "天台山",
+        "嵊州北",
+        "上虞南",
+        "绍兴北",
+        "杭州东",
+        "湖州",
+        "南京南",
+        "合肥南"
+    ],
+    "train_search_no": "5j000G748240"
+}

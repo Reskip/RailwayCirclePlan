@@ -1,0 +1,89 @@
+{
+    "station_list": [
+        {
+            "arrive_day_str": "当日到达",
+            "station_name": "济南",
+            "train_class_name": "快速",
+            "is_start": "Y",
+            "service_type": "2",
+            "end_station_name": "东营",
+            "arrive_time": "----",
+            "start_station_name": "济南",
+            "station_train_code": "K8291",
+            "arrive_day_diff": "0",
+            "start_time": "07:17",
+            "station_no": "01",
+            "wz_num": "--",
+            "running_time": "00:00"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "07:48",
+            "station_train_code": "K8291",
+            "station_name": "章丘",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "07:50",
+            "wz_num": "--",
+            "station_no": "02",
+            "running_time": "00:31"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "08:24",
+            "station_train_code": "K8291",
+            "station_name": "淄博",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "08:35",
+            "wz_num": "--",
+            "station_no": "03",
+            "running_time": "01:07"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "09:01",
+            "station_train_code": "K8291",
+            "station_name": "桓台",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "09:04",
+            "wz_num": "--",
+            "station_no": "04",
+            "running_time": "01:44"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "09:23",
+            "station_train_code": "K8291",
+            "station_name": "博兴",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "09:26",
+            "wz_num": "--",
+            "station_no": "05",
+            "running_time": "02:06"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "10:06",
+            "station_train_code": "K8291",
+            "station_name": "东营",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "10:06",
+            "wz_num": "--",
+            "station_no": "06",
+            "running_time": "02:49"
+        }
+    ],
+    "station_names": [
+        "济南",
+        "章丘",
+        "淄博",
+        "桓台",
+        "博兴",
+        "东营"
+    ],
+    "train_search_no": "47000K82910D"
+}

@@ -1,0 +1,115 @@
+{
+    "station_list": [
+        {
+            "arrive_day_str": "当日到达",
+            "station_name": "沈阳北",
+            "train_class_name": "普快",
+            "is_start": "Y",
+            "service_type": "0",
+            "end_station_name": "广元",
+            "arrive_time": "----",
+            "start_station_name": "沈阳北",
+            "station_train_code": "Y446",
+            "arrive_day_diff": "0",
+            "start_time": "22:12",
+            "station_no": "01",
+            "wz_num": "--",
+            "running_time": "00:00"
+        },
+        {
+            "arrive_day_str": "次日到达",
+            "arrive_time": "05:03",
+            "station_train_code": "Y446",
+            "station_name": "山海关",
+            "arrive_day_diff": "1",
+            "OT": [],
+            "start_time": "05:38",
+            "wz_num": "--",
+            "station_no": "02",
+            "running_time": "06:51"
+        },
+        {
+            "arrive_day_str": "次日到达",
+            "arrive_time": "13:13",
+            "station_train_code": "Y446",
+            "station_name": "天津",
+            "arrive_day_diff": "1",
+            "OT": [],
+            "start_time": "13:38",
+            "wz_num": "--",
+            "station_no": "03",
+            "running_time": "15:01"
+        },
+        {
+            "arrive_day_str": "次日到达",
+            "arrive_time": "15:01",
+            "station_train_code": "Y446",
+            "station_name": "霸州",
+            "arrive_day_diff": "1",
+            "OT": [],
+            "start_time": "15:40",
+            "wz_num": "--",
+            "station_no": "04",
+            "running_time": "16:49"
+        },
+        {
+            "arrive_day_str": "次日到达",
+            "arrive_time": "17:52",
+            "station_train_code": "Y446",
+            "station_name": "衡水",
+            "arrive_day_diff": "1",
+            "OT": [],
+            "start_time": "18:28",
+            "wz_num": "--",
+            "station_no": "05",
+            "running_time": "19:40"
+        },
+        {
+            "arrive_day_str": "第四日到达",
+            "arrive_time": "00:03",
+            "station_train_code": "Y446",
+            "station_name": "兰州",
+            "arrive_day_diff": "3",
+            "OT": [],
+            "start_time": "00:20",
+            "wz_num": "--",
+            "station_no": "06",
+            "running_time": "49:51"
+        },
+        {
+            "arrive_day_str": "第四日到达",
+            "arrive_time": "04:40",
+            "station_train_code": "Y446",
+            "station_name": "陇南",
+            "arrive_day_diff": "3",
+            "OT": [],
+            "start_time": "04:46",
+            "wz_num": "--",
+            "station_no": "07",
+            "running_time": "54:28"
+        },
+        {
+            "arrive_day_str": "第四日到达",
+            "arrive_time": "06:16",
+            "station_train_code": "Y446",
+            "station_name": "广元",
+            "arrive_day_diff": "3",
+            "OT": [],
+            "start_time": "06:16",
+            "wz_num": "--",
+            "station_no": "08",
+            "running_time": "56:04"
+        }
+    ],
+    "station_names": [
+        "沈阳北",
+        "山海关",
+        "天津",
+        "霸州",
+        "衡水",
+        "兰州",
+        "陇南",
+        "广元"
+    ],
+    "train_search_no": "120000Y44610"
+}

@@ -1,0 +1,128 @@
+{
+    "station_list": [
+        {
+            "arrive_day_str": "当日到达",
+            "station_name": "呼和浩特",
+            "train_class_name": "快速",
+            "is_start": "Y",
+            "service_type": "1",
+            "end_station_name": "银川",
+            "arrive_time": "----",
+            "start_station_name": "呼和浩特",
+            "station_train_code": "K193",
+            "arrive_day_diff": "0",
+            "start_time": "23:25",
+            "station_no": "01",
+            "wz_num": "--",
+            "running_time": "00:00"
+        },
+        {
+            "arrive_day_str": "次日到达",
+            "arrive_time": "01:09",
+            "station_train_code": "K193",
+            "station_name": "包头",
+            "arrive_day_diff": "1",
+            "OT": [],
+            "start_time": "01:17",
+            "wz_num": "--",
+            "station_no": "02",
+            "running_time": "01:44"
+        },
+        {
+            "arrive_day_str": "次日到达",
+            "arrive_time": "04:18",
+            "station_train_code": "K193",
+            "station_name": "巴彦淖尔",
+            "arrive_day_diff": "1",
+            "OT": [],
+            "start_time": "04:24",
+            "wz_num": "--",
+            "station_no": "03",
+            "running_time": "04:53"
+        },
+        {
+            "arrive_day_str": "次日到达",
+            "arrive_time": "05:11",
+            "station_train_code": "K193",
+            "station_name": "巴彦高勒",
+            "arrive_day_diff": "1",
+            "OT": [],
+            "start_time": "05:14",
+            "wz_num": "--",
+            "station_no": "04",
+            "running_time": "05:46"
+        },
+        {
+            "arrive_day_str": "次日到达",
+            "arrive_time": "06:34",
+            "station_train_code": "K193",
+            "station_name": "乌海东",
+            "arrive_day_diff": "1",
+            "OT": [],
+            "start_time": "06:40",
+            "wz_num": "--",
+            "station_no": "05",
+            "running_time": "07:09"
+        },
+        {
+            "arrive_day_str": "次日到达",
+            "arrive_time": "07:09",
+            "station_train_code": "K193",
+            "station_name": "乌海西",
+            "arrive_day_diff": "1",
+            "OT": [],
+            "start_time": "07:15",
+            "wz_num": "--",
+            "station_no": "06",
+            "running_time": "07:44"
+        },
+        {
+            "arrive_day_str": "次日到达",
+            "arrive_time": "07:35",
+            "station_train_code": "K193",
+            "station_name": "惠农",
+            "arrive_day_diff": "1",
+            "OT": [],
+            "start_time": "07:41",
+            "wz_num": "--",
+            "station_no": "07",
+            "running_time": "08:10"
+        },
+        {
+            "arrive_day_str": "次日到达",
+            "arrive_time": "08:14",
+            "station_train_code": "K193",
+            "station_name": "石嘴山南",
+            "arrive_day_diff": "1",
+            "OT": [],
+            "start_time": "08:17",
+            "wz_num": "--",
+            "station_no": "08",
+            "running_time": "08:49"
+        },
+        {
+            "arrive_day_str": "次日到达",
+            "arrive_time": "09:00",
+            "station_train_code": "K193",
+            "station_name": "银川",
+            "arrive_day_diff": "1",
+            "OT": [],
+            "start_time": "09:00",
+            "wz_num": "--",
+            "station_no": "09",
+            "running_time": "09:35"
+        }
+    ],
+    "station_names": [
+        "呼和浩特",
+        "包头",
+        "巴彦淖尔",
+        "巴彦高勒",
+        "乌海东",
+        "乌海西",
+        "惠农",
+        "石嘴山南",
+        "银川"
+    ],
+    "train_search_no": "330000K19301"
+}

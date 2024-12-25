@@ -1,0 +1,115 @@
+{
+    "station_list": [
+        {
+            "arrive_day_str": "当日到达",
+            "station_name": "青岛北",
+            "train_class_name": "动车",
+            "is_start": "Y",
+            "service_type": "2",
+            "end_station_name": "上海虹桥",
+            "arrive_time": "----",
+            "start_station_name": "青岛北",
+            "station_train_code": "D2911",
+            "arrive_day_diff": "0",
+            "start_time": "18:19",
+            "station_no": "01",
+            "wz_num": "--",
+            "running_time": "00:00"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "18:53",
+            "station_train_code": "D2911",
+            "station_name": "青岛西",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "18:56",
+            "wz_num": "--",
+            "station_no": "02",
+            "running_time": "00:34"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "19:26",
+            "station_train_code": "D2911",
+            "station_name": "日照西",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "19:28",
+            "wz_num": "--",
+            "station_no": "03",
+            "running_time": "01:07"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "20:07",
+            "station_train_code": "D2911",
+            "station_name": "连云港",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "20:11",
+            "wz_num": "--",
+            "station_no": "04",
+            "running_time": "01:48"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "21:15",
+            "station_train_code": "D2911",
+            "station_name": "盐城",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "21:17",
+            "wz_num": "--",
+            "station_no": "05",
+            "running_time": "02:56"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "21:36",
+            "station_train_code": "D2911",
+            "station_name": "东台",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "21:38",
+            "wz_num": "--",
+            "station_no": "06",
+            "running_time": "03:17"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "22:20",
+            "station_train_code": "D2911",
+            "station_name": "张家港",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "22:22",
+            "wz_num": "--",
+            "station_no": "07",
+            "running_time": "04:01"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "23:13",
+            "station_train_code": "D2911",
+            "station_name": "上海虹桥",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "23:13",
+            "wz_num": "--",
+            "station_no": "08",
+            "running_time": "04:54"
+        }
+    ],
+    "station_names": [
+        "青岛北",
+        "青岛西",
+        "日照西",
+        "连云港",
+        "盐城",
+        "东台",
+        "张家港",
+        "上海虹桥"
+    ],
+    "train_search_no": "49000D291101"
+}

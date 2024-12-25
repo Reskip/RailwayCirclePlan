@@ -1,0 +1,115 @@
+{
+    "station_list": [
+        {
+            "arrive_day_str": "当日到达",
+            "station_name": "青岛",
+            "train_class_name": "高速",
+            "is_start": "Y",
+            "service_type": "2",
+            "end_station_name": "北京南",
+            "arrive_time": "----",
+            "start_station_name": "青岛",
+            "station_train_code": "G1074",
+            "arrive_day_diff": "0",
+            "start_time": "14:35",
+            "station_no": "01",
+            "wz_num": "--",
+            "running_time": "00:00"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "16:05",
+            "station_train_code": "G1074",
+            "station_name": "青州市",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "16:07",
+            "wz_num": "--",
+            "station_no": "02",
+            "running_time": "01:30"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "16:24",
+            "station_train_code": "G1074",
+            "station_name": "淄博",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "16:26",
+            "wz_num": "--",
+            "station_no": "03",
+            "running_time": "01:49"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "16:51",
+            "station_train_code": "G1074",
+            "station_name": "章丘",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "16:53",
+            "wz_num": "--",
+            "station_no": "04",
+            "running_time": "02:16"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "17:19",
+            "station_train_code": "G1074",
+            "station_name": "济南",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "17:21",
+            "wz_num": "--",
+            "station_no": "05",
+            "running_time": "02:44"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "17:37",
+            "station_train_code": "G1074",
+            "station_name": "济南西",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "17:40",
+            "wz_num": "--",
+            "station_no": "06",
+            "running_time": "03:02"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "18:45",
+            "station_train_code": "G1074",
+            "station_name": "天津南",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "18:47",
+            "wz_num": "--",
+            "station_no": "07",
+            "running_time": "04:10"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "19:23",
+            "station_train_code": "G1074",
+            "station_name": "北京南",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "19:23",
+            "wz_num": "--",
+            "station_no": "08",
+            "running_time": "04:48"
+        }
+    ],
+    "station_names": [
+        "青岛",
+        "青州市",
+        "淄博",
+        "章丘",
+        "济南",
+        "济南西",
+        "天津南",
+        "北京南"
+    ],
+    "train_search_no": "49000G107403"
+}

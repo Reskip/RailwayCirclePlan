@@ -1,0 +1,50 @@
+{
+    "station_list": [
+        {
+            "arrive_day_str": "当日到达",
+            "station_name": "黄冈东",
+            "train_class_name": "动车",
+            "is_start": "Y",
+            "service_type": "2",
+            "end_station_name": "汉口",
+            "arrive_time": "----",
+            "start_station_name": "黄冈东",
+            "station_train_code": "C5622",
+            "arrive_day_diff": "0",
+            "start_time": "21:14",
+            "station_no": "01",
+            "wz_num": "--",
+            "running_time": "00:00"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "21:45",
+            "station_train_code": "C5622",
+            "station_name": "武汉",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "21:49",
+            "wz_num": "--",
+            "station_no": "02",
+            "running_time": "00:30"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "22:10",
+            "station_train_code": "C5622",
+            "station_name": "汉口",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "22:08",
+            "wz_num": "--",
+            "station_no": "03",
+            "running_time": "00:55"
+        }
+    ],
+    "station_names": [
+        "黄冈东",
+        "武汉",
+        "汉口"
+    ],
+    "train_search_no": "39000C56220J"
+}

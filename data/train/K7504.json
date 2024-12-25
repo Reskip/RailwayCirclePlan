@@ -1,0 +1,102 @@
+{
+    "station_list": [
+        {
+            "arrive_day_str": "当日到达",
+            "station_name": "沈阳北",
+            "train_class_name": "快速",
+            "is_start": "Y",
+            "service_type": "2",
+            "end_station_name": "锦州",
+            "arrive_time": "----",
+            "start_station_name": "沈阳北",
+            "station_train_code": "K7504",
+            "arrive_day_diff": "0",
+            "start_time": "13:37",
+            "station_no": "01",
+            "wz_num": "--",
+            "running_time": "00:00"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "15:10",
+            "station_train_code": "K7504",
+            "station_name": "新立屯",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "15:13",
+            "wz_num": "--",
+            "station_no": "02",
+            "running_time": "01:33"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "15:41",
+            "station_train_code": "K7504",
+            "station_name": "新邱",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "15:43",
+            "wz_num": "--",
+            "station_no": "03",
+            "running_time": "02:04"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "15:59",
+            "station_train_code": "K7504",
+            "station_name": "阜新南",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "16:05",
+            "wz_num": "--",
+            "station_no": "04",
+            "running_time": "02:22"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "16:32",
+            "station_train_code": "K7504",
+            "station_name": "清河门北",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "16:34",
+            "wz_num": "--",
+            "station_no": "05",
+            "running_time": "02:55"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "17:13",
+            "station_train_code": "K7504",
+            "station_name": "义县",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "17:16",
+            "wz_num": "--",
+            "station_no": "06",
+            "running_time": "03:36"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "18:06",
+            "station_train_code": "K7504",
+            "station_name": "锦州",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "18:06",
+            "wz_num": "--",
+            "station_no": "07",
+            "running_time": "04:29"
+        }
+    ],
+    "station_names": [
+        "沈阳北",
+        "新立屯",
+        "新邱",
+        "阜新南",
+        "清河门北",
+        "义县",
+        "锦州"
+    ],
+    "train_search_no": "12000K750400"
+}

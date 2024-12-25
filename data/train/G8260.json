@@ -1,0 +1,115 @@
+{
+    "station_list": [
+        {
+            "arrive_day_str": "当日到达",
+            "station_name": "上海",
+            "train_class_name": "高速",
+            "is_start": "Y",
+            "service_type": "2",
+            "end_station_name": "连云港",
+            "arrive_time": "----",
+            "start_station_name": "上海",
+            "station_train_code": "G8260",
+            "arrive_day_diff": "0",
+            "start_time": "19:26",
+            "station_no": "01",
+            "wz_num": "--",
+            "running_time": "00:00"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "19:47",
+            "station_train_code": "G8260",
+            "station_name": "昆山南",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "19:49",
+            "wz_num": "--",
+            "station_no": "02",
+            "running_time": "00:21"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "19:59",
+            "station_train_code": "G8260",
+            "station_name": "苏州园区",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "20:01",
+            "wz_num": "--",
+            "station_no": "03",
+            "running_time": "00:33"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "20:07",
+            "station_train_code": "G8260",
+            "station_name": "苏州",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "20:09",
+            "wz_num": "--",
+            "station_no": "04",
+            "running_time": "00:41"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "20:24",
+            "station_train_code": "G8260",
+            "station_name": "无锡",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "20:26",
+            "wz_num": "--",
+            "station_no": "05",
+            "running_time": "00:58"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "20:40",
+            "station_train_code": "G8260",
+            "station_name": "常州",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "20:42",
+            "wz_num": "--",
+            "station_no": "06",
+            "running_time": "01:14"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "21:23",
+            "station_train_code": "G8260",
+            "station_name": "扬州东",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "21:25",
+            "wz_num": "--",
+            "station_no": "07",
+            "running_time": "01:57"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "22:44",
+            "station_train_code": "G8260",
+            "station_name": "连云港",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "22:44",
+            "wz_num": "--",
+            "station_no": "08",
+            "running_time": "03:18"
+        }
+    ],
+    "station_names": [
+        "上海",
+        "昆山南",
+        "苏州园区",
+        "苏州",
+        "无锡",
+        "常州",
+        "扬州东",
+        "连云港"
+    ],
+    "train_search_no": "55000G826004"
+}

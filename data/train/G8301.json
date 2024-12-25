@@ -1,0 +1,141 @@
+{
+    "station_list": [
+        {
+            "arrive_day_str": "当日到达",
+            "station_name": "徐州东",
+            "train_class_name": "高速",
+            "is_start": "Y",
+            "service_type": "2",
+            "end_station_name": "上海虹桥",
+            "arrive_time": "----",
+            "start_station_name": "徐州东",
+            "station_train_code": "G8301",
+            "arrive_day_diff": "0",
+            "start_time": "16:25",
+            "station_no": "01",
+            "wz_num": "--",
+            "running_time": "00:00"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "17:21",
+            "station_train_code": "G8301",
+            "station_name": "淮安东",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "17:28",
+            "wz_num": "--",
+            "station_no": "02",
+            "running_time": "00:56"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "17:44",
+            "station_train_code": "G8301",
+            "station_name": "宝应",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "17:46",
+            "wz_num": "--",
+            "station_no": "03",
+            "running_time": "01:19"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "18:14",
+            "station_train_code": "G8301",
+            "station_name": "扬州东",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "18:19",
+            "wz_num": "--",
+            "station_no": "04",
+            "running_time": "01:49"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "18:36",
+            "station_train_code": "G8301",
+            "station_name": "大港南",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "18:44",
+            "wz_num": "--",
+            "station_no": "05",
+            "running_time": "02:11"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "19:11",
+            "station_train_code": "G8301",
+            "station_name": "常州",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "19:13",
+            "wz_num": "--",
+            "station_no": "06",
+            "running_time": "02:46"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "19:27",
+            "station_train_code": "G8301",
+            "station_name": "无锡",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "19:29",
+            "wz_num": "--",
+            "station_no": "07",
+            "running_time": "03:02"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "19:44",
+            "station_train_code": "G8301",
+            "station_name": "苏州",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "19:47",
+            "wz_num": "--",
+            "station_no": "08",
+            "running_time": "03:19"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "19:59",
+            "station_train_code": "G8301",
+            "station_name": "昆山南",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "20:07",
+            "wz_num": "--",
+            "station_no": "09",
+            "running_time": "03:34"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "20:27",
+            "station_train_code": "G8301",
+            "station_name": "上海虹桥",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "20:27",
+            "wz_num": "--",
+            "station_no": "10",
+            "running_time": "04:02"
+        }
+    ],
+    "station_names": [
+        "徐州东",
+        "淮安东",
+        "宝应",
+        "扬州东",
+        "大港南",
+        "常州",
+        "无锡",
+        "苏州",
+        "昆山南",
+        "上海虹桥"
+    ],
+    "train_search_no": "5l000G830110"
+}

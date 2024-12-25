@@ -1,0 +1,50 @@
+{
+    "station_list": [
+        {
+            "arrive_day_str": "当日到达",
+            "station_name": "乌鲁木齐",
+            "train_class_name": "特快",
+            "is_start": "Y",
+            "service_type": "2",
+            "end_station_name": "阿克苏",
+            "arrive_time": "----",
+            "start_station_name": "乌鲁木齐",
+            "station_train_code": "T9536",
+            "arrive_day_diff": "0",
+            "start_time": "22:52",
+            "station_no": "01",
+            "wz_num": "--",
+            "running_time": "00:00"
+        },
+        {
+            "arrive_day_str": "次日到达",
+            "arrive_time": "06:38",
+            "station_train_code": "T9537",
+            "station_name": "库车",
+            "arrive_day_diff": "1",
+            "OT": [],
+            "start_time": "06:40",
+            "wz_num": "--",
+            "station_no": "02",
+            "running_time": "07:46"
+        },
+        {
+            "arrive_day_str": "次日到达",
+            "arrive_time": "08:45",
+            "station_train_code": "T9537",
+            "station_name": "阿克苏",
+            "arrive_day_diff": "1",
+            "OT": [],
+            "start_time": "08:45",
+            "wz_num": "--",
+            "station_no": "03",
+            "running_time": "09:53"
+        }
+    ],
+    "station_names": [
+        "乌鲁木齐",
+        "库车",
+        "阿克苏"
+    ],
+    "train_search_no": "93000T953601"
+}

@@ -1,0 +1,63 @@
+{
+    "station_list": [
+        {
+            "arrive_day_str": "当日到达",
+            "station_name": "成都西",
+            "train_class_name": "动车",
+            "is_start": "Y",
+            "service_type": "2",
+            "end_station_name": "雅安",
+            "arrive_time": "----",
+            "start_station_name": "成都西",
+            "station_train_code": "C6615",
+            "arrive_day_diff": "0",
+            "start_time": "12:10",
+            "station_no": "01",
+            "wz_num": "--",
+            "running_time": "00:00"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "12:31",
+            "station_train_code": "C6615",
+            "station_name": "大邑",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "12:33",
+            "wz_num": "--",
+            "station_no": "02",
+            "running_time": "00:21"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "12:52",
+            "station_train_code": "C6615",
+            "station_name": "朝阳湖",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "12:54",
+            "wz_num": "--",
+            "station_no": "03",
+            "running_time": "00:42"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "13:16",
+            "station_train_code": "C6615",
+            "station_name": "雅安",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "13:16",
+            "wz_num": "--",
+            "station_no": "04",
+            "running_time": "01:06"
+        }
+    ],
+    "station_names": [
+        "成都西",
+        "大邑",
+        "朝阳湖",
+        "雅安"
+    ],
+    "train_search_no": "76000C661507"
+}

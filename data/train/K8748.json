@@ -1,0 +1,128 @@
+{
+    "station_list": [
+        {
+            "arrive_day_str": "当日到达",
+            "station_name": "福州",
+            "train_class_name": "快速",
+            "is_start": "Y",
+            "service_type": "2",
+            "end_station_name": "松溪",
+            "arrive_time": "----",
+            "start_station_name": "福州",
+            "station_train_code": "K8748",
+            "arrive_day_diff": "0",
+            "start_time": "17:52",
+            "station_no": "01",
+            "wz_num": "--",
+            "running_time": "00:00"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "18:20",
+            "station_train_code": "K8748",
+            "station_name": "连江",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "18:23",
+            "wz_num": "--",
+            "station_no": "02",
+            "running_time": "00:28"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "18:43",
+            "station_train_code": "K8748",
+            "station_name": "罗源",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "18:46",
+            "wz_num": "--",
+            "station_no": "03",
+            "running_time": "00:51"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "19:02",
+            "station_train_code": "K8748",
+            "station_name": "宁德",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "19:05",
+            "wz_num": "--",
+            "station_no": "04",
+            "running_time": "01:10"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "19:26",
+            "station_train_code": "K8748",
+            "station_name": "支提山",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "19:29",
+            "wz_num": "--",
+            "station_no": "05",
+            "running_time": "01:34"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "19:41",
+            "station_train_code": "K8748",
+            "station_name": "周宁",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "19:44",
+            "wz_num": "--",
+            "station_no": "06",
+            "running_time": "01:49"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "20:06",
+            "station_train_code": "K8748",
+            "station_name": "屏南",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "20:09",
+            "wz_num": "--",
+            "station_no": "07",
+            "running_time": "02:14"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "21:04",
+            "station_train_code": "K8748",
+            "station_name": "政和",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "21:16",
+            "wz_num": "--",
+            "station_no": "09",
+            "running_time": "03:12"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "21:35",
+            "station_train_code": "K8748",
+            "station_name": "松溪",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "21:35",
+            "wz_num": "--",
+            "station_no": "10",
+            "running_time": "03:43"
+        }
+    ],
+    "station_names": [
+        "福州",
+        "连江",
+        "罗源",
+        "宁德",
+        "支提山",
+        "周宁",
+        "屏南",
+        "政和",
+        "松溪"
+    ],
+    "train_search_no": "58000K874804"
+}

@@ -1,0 +1,63 @@
+{
+    "station_list": [
+        {
+            "arrive_day_str": "当日到达",
+            "station_name": "吕梁",
+            "train_class_name": "快速",
+            "is_start": "Y",
+            "service_type": "1",
+            "end_station_name": "太原",
+            "arrive_time": "----",
+            "start_station_name": "吕梁",
+            "station_train_code": "K7832",
+            "arrive_day_diff": "0",
+            "start_time": "12:20",
+            "station_no": "01",
+            "wz_num": "--",
+            "running_time": "00:00"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "13:10",
+            "station_train_code": "K7832",
+            "station_name": "汾阳",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "13:12",
+            "wz_num": "--",
+            "station_no": "02",
+            "running_time": "00:50"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "13:27",
+            "station_train_code": "K7832",
+            "station_name": "文水",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "13:29",
+            "wz_num": "--",
+            "station_no": "03",
+            "running_time": "01:07"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "14:24",
+            "station_train_code": "K7832",
+            "station_name": "太原",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "14:24",
+            "wz_num": "--",
+            "station_no": "04",
+            "running_time": "02:04"
+        }
+    ],
+    "station_names": [
+        "吕梁",
+        "汾阳",
+        "文水",
+        "太原"
+    ],
+    "train_search_no": "27000K783201"
+}

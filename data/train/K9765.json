@@ -1,0 +1,89 @@
+{
+    "station_list": [
+        {
+            "arrive_day_str": "当日到达",
+            "station_name": "乌鲁木齐",
+            "train_class_name": "快速",
+            "is_start": "Y",
+            "service_type": "2",
+            "end_station_name": "富蕴",
+            "arrive_time": "----",
+            "start_station_name": "乌鲁木齐",
+            "station_train_code": "K9765",
+            "arrive_day_diff": "0",
+            "start_time": "23:20",
+            "station_no": "01",
+            "wz_num": "--",
+            "running_time": "00:00"
+        },
+        {
+            "arrive_day_str": "次日到达",
+            "arrive_time": "01:53",
+            "station_train_code": "K9765",
+            "station_name": "奎屯",
+            "arrive_day_diff": "1",
+            "OT": [],
+            "start_time": "01:58",
+            "wz_num": "--",
+            "station_no": "02",
+            "running_time": "02:33"
+        },
+        {
+            "arrive_day_str": "次日到达",
+            "arrive_time": "07:29",
+            "station_train_code": "K9765",
+            "station_name": "福海",
+            "arrive_day_diff": "1",
+            "OT": [],
+            "start_time": "07:31",
+            "wz_num": "--",
+            "station_no": "03",
+            "running_time": "08:09"
+        },
+        {
+            "arrive_day_str": "次日到达",
+            "arrive_time": "07:56",
+            "station_train_code": "K9765",
+            "station_name": "北屯市",
+            "arrive_day_diff": "1",
+            "OT": [],
+            "start_time": "08:16",
+            "wz_num": "--",
+            "station_no": "04",
+            "running_time": "08:36"
+        },
+        {
+            "arrive_day_str": "次日到达",
+            "arrive_time": "09:08",
+            "station_train_code": "K9768",
+            "station_name": "阿勒泰",
+            "arrive_day_diff": "1",
+            "OT": [],
+            "start_time": "09:18",
+            "wz_num": "--",
+            "station_no": "05",
+            "running_time": "09:48"
+        },
+        {
+            "arrive_day_str": "次日到达",
+            "arrive_time": "11:05",
+            "station_train_code": "K9768",
+            "station_name": "富蕴",
+            "arrive_day_diff": "1",
+            "OT": [],
+            "start_time": "11:05",
+            "wz_num": "--",
+            "station_no": "06",
+            "running_time": "11:45"
+        }
+    ],
+    "station_names": [
+        "乌鲁木齐",
+        "奎屯",
+        "福海",
+        "北屯市",
+        "阿勒泰",
+        "富蕴"
+    ],
+    "train_search_no": "93000K976506"
+}

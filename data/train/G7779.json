@@ -1,0 +1,102 @@
+{
+    "station_list": [
+        {
+            "arrive_day_str": "当日到达",
+            "station_name": "砀山南",
+            "train_class_name": "高速",
+            "is_start": "Y",
+            "service_type": "2",
+            "end_station_name": "六安",
+            "arrive_time": "----",
+            "start_station_name": "砀山南",
+            "station_train_code": "G7782",
+            "arrive_day_diff": "0",
+            "start_time": "19:10",
+            "station_no": "01",
+            "wz_num": "--",
+            "running_time": "00:00"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "19:42",
+            "station_train_code": "G7779",
+            "station_name": "徐州东",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "19:45",
+            "wz_num": "--",
+            "station_no": "02",
+            "running_time": "00:32"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "20:03",
+            "station_train_code": "G7779",
+            "station_name": "宿州东",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "20:05",
+            "wz_num": "--",
+            "station_no": "03",
+            "running_time": "00:53"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "20:28",
+            "station_train_code": "G7779",
+            "station_name": "蚌埠南",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "20:30",
+            "wz_num": "--",
+            "station_no": "04",
+            "running_time": "01:18"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "20:46",
+            "station_train_code": "G7779",
+            "station_name": "淮南东",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "20:48",
+            "wz_num": "--",
+            "station_no": "05",
+            "running_time": "01:36"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "21:17",
+            "station_train_code": "G7779",
+            "station_name": "合肥",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "21:40",
+            "wz_num": "--",
+            "station_no": "06",
+            "running_time": "02:07"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "22:22",
+            "station_train_code": "G7779",
+            "station_name": "六安",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "22:22",
+            "wz_num": "--",
+            "station_no": "07",
+            "running_time": "03:12"
+        }
+    ],
+    "station_names": [
+        "砀山南",
+        "徐州东",
+        "宿州东",
+        "蚌埠南",
+        "淮南东",
+        "合肥",
+        "六安"
+    ],
+    "train_search_no": "5o000G778211"
+}

@@ -1,0 +1,76 @@
+{
+    "station_list": [
+        {
+            "arrive_day_str": "当日到达",
+            "station_name": "北京丰台",
+            "train_class_name": "高速",
+            "is_start": "Y",
+            "service_type": "1",
+            "end_station_name": "太原南",
+            "arrive_time": "----",
+            "start_station_name": "北京丰台",
+            "station_train_code": "G613",
+            "arrive_day_diff": "0",
+            "start_time": "18:47",
+            "station_no": "01",
+            "wz_num": "--",
+            "running_time": "00:00"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "19:39",
+            "station_train_code": "G613",
+            "station_name": "定州东",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "19:54",
+            "wz_num": "--",
+            "station_no": "02",
+            "running_time": "00:52"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "20:16",
+            "station_train_code": "G613",
+            "station_name": "石家庄",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "20:20",
+            "wz_num": "--",
+            "station_no": "03",
+            "running_time": "01:29"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "21:00",
+            "station_train_code": "G613",
+            "station_name": "阳泉北",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "21:02",
+            "wz_num": "--",
+            "station_no": "04",
+            "running_time": "02:13"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "21:50",
+            "station_train_code": "G613",
+            "station_name": "太原南",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "21:50",
+            "wz_num": "--",
+            "station_no": "05",
+            "running_time": "03:03"
+        }
+    ],
+    "station_names": [
+        "北京丰台",
+        "定州东",
+        "石家庄",
+        "阳泉北",
+        "太原南"
+    ],
+    "train_search_no": "240000G6130K"
+}

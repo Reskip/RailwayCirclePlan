@@ -1,0 +1,128 @@
+{
+    "station_list": [
+        {
+            "arrive_day_str": "当日到达",
+            "station_name": "广州白云",
+            "train_class_name": "特快",
+            "is_start": "Y",
+            "service_type": "1",
+            "end_station_name": "南昌",
+            "arrive_time": "----",
+            "start_station_name": "广州白云",
+            "station_train_code": "T172",
+            "arrive_day_diff": "0",
+            "start_time": "18:45",
+            "station_no": "01",
+            "wz_num": "--",
+            "running_time": "00:00"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "21:05",
+            "station_train_code": "T172",
+            "station_name": "韶关东",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "21:10",
+            "wz_num": "--",
+            "station_no": "02",
+            "running_time": "02:20"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "22:53",
+            "station_train_code": "T172",
+            "station_name": "郴州",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "22:58",
+            "wz_num": "--",
+            "station_no": "03",
+            "running_time": "04:08"
+        },
+        {
+            "arrive_day_str": "次日到达",
+            "arrive_time": "01:58",
+            "station_train_code": "T172",
+            "station_name": "株洲",
+            "arrive_day_diff": "1",
+            "OT": [],
+            "start_time": "02:36",
+            "wz_num": "--",
+            "station_no": "04",
+            "running_time": "07:13"
+        },
+        {
+            "arrive_day_str": "次日到达",
+            "arrive_time": "04:02",
+            "station_train_code": "T172",
+            "station_name": "宜春",
+            "arrive_day_diff": "1",
+            "OT": [],
+            "start_time": "04:07",
+            "wz_num": "--",
+            "station_no": "05",
+            "running_time": "09:17"
+        },
+        {
+            "arrive_day_str": "次日到达",
+            "arrive_time": "04:38",
+            "station_train_code": "T172",
+            "station_name": "新余",
+            "arrive_day_diff": "1",
+            "OT": [],
+            "start_time": "04:42",
+            "wz_num": "--",
+            "station_no": "06",
+            "running_time": "09:53"
+        },
+        {
+            "arrive_day_str": "次日到达",
+            "arrive_time": "05:22",
+            "station_train_code": "T172",
+            "station_name": "樟树",
+            "arrive_day_diff": "1",
+            "OT": [],
+            "start_time": "05:26",
+            "wz_num": "--",
+            "station_no": "07",
+            "running_time": "10:37"
+        },
+        {
+            "arrive_day_str": "次日到达",
+            "arrive_time": "05:42",
+            "station_train_code": "T172",
+            "station_name": "丰城",
+            "arrive_day_diff": "1",
+            "OT": [],
+            "start_time": "05:45",
+            "wz_num": "--",
+            "station_no": "08",
+            "running_time": "10:57"
+        },
+        {
+            "arrive_day_str": "次日到达",
+            "arrive_time": "06:41",
+            "station_train_code": "T172",
+            "station_name": "南昌",
+            "arrive_day_diff": "1",
+            "OT": [],
+            "start_time": "06:41",
+            "wz_num": "--",
+            "station_no": "09",
+            "running_time": "11:56"
+        }
+    ],
+    "station_names": [
+        "广州白云",
+        "韶关东",
+        "郴州",
+        "株洲",
+        "宜春",
+        "新余",
+        "樟树",
+        "丰城",
+        "南昌"
+    ],
+    "train_search_no": "650000T17200"
+}

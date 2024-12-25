@@ -1,0 +1,89 @@
+{
+    "station_list": [
+        {
+            "arrive_day_str": "当日到达",
+            "station_name": "太原南",
+            "train_class_name": "动车",
+            "is_start": "Y",
+            "service_type": "1",
+            "end_station_name": "柳林南",
+            "arrive_time": "----",
+            "start_station_name": "太原南",
+            "station_train_code": "C155",
+            "arrive_day_diff": "0",
+            "start_time": "15:33",
+            "station_no": "01",
+            "wz_num": "--",
+            "running_time": "00:00"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "16:03",
+            "station_train_code": "C155",
+            "station_name": "交城",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "16:05",
+            "wz_num": "--",
+            "station_no": "02",
+            "running_time": "00:30"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "16:15",
+            "station_train_code": "C155",
+            "station_name": "文水",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "16:17",
+            "wz_num": "--",
+            "station_no": "03",
+            "running_time": "00:42"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "16:29",
+            "station_train_code": "C155",
+            "station_name": "汾阳",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "16:31",
+            "wz_num": "--",
+            "station_no": "04",
+            "running_time": "00:56"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "17:12",
+            "station_train_code": "C155",
+            "station_name": "吕梁",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "17:15",
+            "wz_num": "--",
+            "station_no": "05",
+            "running_time": "01:39"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "17:33",
+            "station_train_code": "C155",
+            "station_name": "柳林南",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "17:33",
+            "wz_num": "--",
+            "station_no": "06",
+            "running_time": "02:00"
+        }
+    ],
+    "station_names": [
+        "太原南",
+        "交城",
+        "文水",
+        "汾阳",
+        "吕梁",
+        "柳林南"
+    ],
+    "train_search_no": "270000C15501"
+}

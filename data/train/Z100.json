@@ -1,0 +1,50 @@
+{
+    "station_list": [
+        {
+            "arrive_day_str": "当日到达",
+            "station_name": "广州",
+            "train_class_name": "直特",
+            "is_start": "Y",
+            "service_type": "1",
+            "end_station_name": "上海",
+            "arrive_time": "----",
+            "start_station_name": "广州",
+            "station_train_code": "Z100",
+            "arrive_day_diff": "0",
+            "start_time": "18:10",
+            "station_no": "01",
+            "wz_num": "--",
+            "running_time": "00:00"
+        },
+        {
+            "arrive_day_str": "次日到达",
+            "arrive_time": "07:24",
+            "station_train_code": "Z100",
+            "station_name": "金华",
+            "arrive_day_diff": "1",
+            "OT": [],
+            "start_time": "07:30",
+            "wz_num": "--",
+            "station_no": "02",
+            "running_time": "13:14"
+        },
+        {
+            "arrive_day_str": "次日到达",
+            "arrive_time": "10:40",
+            "station_train_code": "Z100",
+            "station_name": "上海",
+            "arrive_day_diff": "1",
+            "OT": [],
+            "start_time": "10:40",
+            "wz_num": "--",
+            "station_no": "03",
+            "running_time": "16:30"
+        }
+    ],
+    "station_names": [
+        "广州",
+        "金华",
+        "上海"
+    ],
+    "train_search_no": "630000Z10000"
+}

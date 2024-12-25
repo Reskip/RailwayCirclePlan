@@ -1,0 +1,63 @@
+{
+    "station_list": [
+        {
+            "arrive_day_str": "当日到达",
+            "station_name": "佳木斯",
+            "train_class_name": "动车",
+            "is_start": "Y",
+            "service_type": "1",
+            "end_station_name": "哈尔滨",
+            "arrive_time": "----",
+            "start_station_name": "佳木斯",
+            "station_train_code": "D7826",
+            "arrive_day_diff": "0",
+            "start_time": "16:35",
+            "station_no": "01",
+            "wz_num": "--",
+            "running_time": "00:00"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "17:21",
+            "station_train_code": "D7826",
+            "station_name": "高楞",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "17:23",
+            "wz_num": "--",
+            "station_no": "02",
+            "running_time": "00:46"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "17:40",
+            "station_train_code": "D7826",
+            "station_name": "方正",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "17:43",
+            "wz_num": "--",
+            "station_no": "03",
+            "running_time": "01:05"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "18:46",
+            "station_train_code": "D7826",
+            "station_name": "哈尔滨",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "18:46",
+            "wz_num": "--",
+            "station_no": "04",
+            "running_time": "02:11"
+        }
+    ],
+    "station_names": [
+        "佳木斯",
+        "高楞",
+        "方正",
+        "哈尔滨"
+    ],
+    "train_search_no": "02000D78260D"
+}

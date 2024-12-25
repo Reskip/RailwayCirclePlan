@@ -1,0 +1,63 @@
+{
+    "station_list": [
+        {
+            "arrive_day_str": "当日到达",
+            "station_name": "兰州",
+            "train_class_name": "动车",
+            "is_start": "Y",
+            "service_type": "2",
+            "end_station_name": "陇南",
+            "arrive_time": "----",
+            "start_station_name": "兰州",
+            "station_train_code": "C688",
+            "arrive_day_diff": "0",
+            "start_time": "21:03",
+            "station_no": "01",
+            "wz_num": "--",
+            "running_time": "00:00"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "22:08",
+            "station_train_code": "C688",
+            "station_name": "渭源",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "22:10",
+            "wz_num": "--",
+            "station_no": "02",
+            "running_time": "01:05"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "22:58",
+            "station_train_code": "C688",
+            "station_name": "哈达铺",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "23:00",
+            "wz_num": "--",
+            "station_no": "03",
+            "running_time": "01:55"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "23:57",
+            "station_train_code": "C688",
+            "station_name": "陇南",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "23:57",
+            "wz_num": "--",
+            "station_no": "04",
+            "running_time": "02:54"
+        }
+    ],
+    "station_names": [
+        "兰州",
+        "渭源",
+        "哈达铺",
+        "陇南"
+    ],
+    "train_search_no": "850000C68802"
+}

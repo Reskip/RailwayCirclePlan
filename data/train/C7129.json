@@ -1,0 +1,102 @@
+{
+    "station_list": [
+        {
+            "arrive_day_str": "当日到达",
+            "station_name": "广州白云",
+            "train_class_name": "动车",
+            "is_start": "Y",
+            "service_type": "1",
+            "end_station_name": "深圳",
+            "arrive_time": "----",
+            "start_station_name": "广州白云",
+            "station_train_code": "C7129",
+            "arrive_day_diff": "0",
+            "start_time": "12:03",
+            "station_no": "01",
+            "wz_num": "--",
+            "running_time": "00:00"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "12:13",
+            "station_train_code": "C7129",
+            "station_name": "广州",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "12:16",
+            "wz_num": "--",
+            "station_no": "02",
+            "running_time": "00:10"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "12:26",
+            "station_train_code": "C7129",
+            "station_name": "广州东",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "12:31",
+            "wz_num": "--",
+            "station_no": "03",
+            "running_time": "00:23"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "12:45",
+            "station_train_code": "C7129",
+            "station_name": "新塘",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "12:47",
+            "wz_num": "--",
+            "station_no": "04",
+            "running_time": "00:42"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "13:04",
+            "station_train_code": "C7129",
+            "station_name": "东莞",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "13:06",
+            "wz_num": "--",
+            "station_no": "05",
+            "running_time": "01:01"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "13:17",
+            "station_train_code": "C7129",
+            "station_name": "常平",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "13:27",
+            "wz_num": "--",
+            "station_no": "06",
+            "running_time": "01:14"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "13:59",
+            "station_train_code": "C7129",
+            "station_name": "深圳",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "13:59",
+            "wz_num": "--",
+            "station_no": "07",
+            "running_time": "01:56"
+        }
+    ],
+    "station_names": [
+        "广州白云",
+        "广州",
+        "广州东",
+        "新塘",
+        "东莞",
+        "常平",
+        "深圳"
+    ],
+    "train_search_no": "65000C71290K"
+}

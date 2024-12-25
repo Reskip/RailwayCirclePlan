@@ -1,0 +1,63 @@
+{
+    "station_list": [
+        {
+            "arrive_day_str": "当日到达",
+            "station_name": "广州南",
+            "train_class_name": "高速",
+            "is_start": "Y",
+            "service_type": "1",
+            "end_station_name": "香港西九龙",
+            "arrive_time": "----",
+            "start_station_name": "广州南",
+            "station_train_code": "G6585",
+            "arrive_day_diff": "0",
+            "start_time": "18:02",
+            "station_no": "01",
+            "wz_num": "--",
+            "running_time": "00:00"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "18:15",
+            "station_train_code": "G6585",
+            "station_name": "庆盛",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "18:17",
+            "wz_num": "--",
+            "station_no": "02",
+            "running_time": "00:13"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "18:40",
+            "station_train_code": "G6585",
+            "station_name": "深圳北",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "18:47",
+            "wz_num": "--",
+            "station_no": "03",
+            "running_time": "00:38"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "19:06",
+            "station_train_code": "G6585",
+            "station_name": "香港西九龙",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "19:06",
+            "wz_num": "--",
+            "station_no": "04",
+            "running_time": "01:04"
+        }
+    ],
+    "station_names": [
+        "广州南",
+        "庆盛",
+        "深圳北",
+        "香港西九龙"
+    ],
+    "train_search_no": "6c000G65850A"
+}

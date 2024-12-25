@@ -1,0 +1,128 @@
+{
+    "station_list": [
+        {
+            "arrive_day_str": "当日到达",
+            "station_name": "锡林浩特",
+            "train_class_name": "快速",
+            "is_start": "Y",
+            "service_type": "1",
+            "end_station_name": "包头",
+            "arrive_time": "----",
+            "start_station_name": "锡林浩特",
+            "station_train_code": "K7918",
+            "arrive_day_diff": "0",
+            "start_time": "23:15",
+            "station_no": "01",
+            "wz_num": "--",
+            "running_time": "00:00"
+        },
+        {
+            "arrive_day_str": "次日到达",
+            "arrive_time": "01:02",
+            "station_train_code": "K7918",
+            "station_name": "桑根达来",
+            "arrive_day_diff": "1",
+            "OT": [],
+            "start_time": "01:15",
+            "wz_num": "--",
+            "station_no": "02",
+            "running_time": "01:47"
+        },
+        {
+            "arrive_day_str": "次日到达",
+            "arrive_time": "02:28",
+            "station_train_code": "K7918",
+            "station_name": "正镶白旗",
+            "arrive_day_diff": "1",
+            "OT": [],
+            "start_time": "02:34",
+            "wz_num": "--",
+            "station_no": "03",
+            "running_time": "03:13"
+        },
+        {
+            "arrive_day_str": "次日到达",
+            "arrive_time": "03:53",
+            "station_train_code": "K7918",
+            "station_name": "化德",
+            "arrive_day_diff": "1",
+            "OT": [],
+            "start_time": "03:56",
+            "wz_num": "--",
+            "station_no": "04",
+            "running_time": "04:38"
+        },
+        {
+            "arrive_day_str": "次日到达",
+            "arrive_time": "04:42",
+            "station_train_code": "K7918",
+            "station_name": "商都",
+            "arrive_day_diff": "1",
+            "OT": [],
+            "start_time": "04:45",
+            "wz_num": "--",
+            "station_no": "05",
+            "running_time": "05:27"
+        },
+        {
+            "arrive_day_str": "次日到达",
+            "arrive_time": "05:59",
+            "station_train_code": "K7915",
+            "station_name": "集宁南",
+            "arrive_day_diff": "1",
+            "OT": [],
+            "start_time": "06:15",
+            "wz_num": "--",
+            "station_no": "06",
+            "running_time": "06:44"
+        },
+        {
+            "arrive_day_str": "次日到达",
+            "arrive_time": "07:39",
+            "station_train_code": "K7915",
+            "station_name": "呼和浩特东",
+            "arrive_day_diff": "1",
+            "OT": [],
+            "start_time": "08:07",
+            "wz_num": "--",
+            "station_no": "07",
+            "running_time": "08:24"
+        },
+        {
+            "arrive_day_str": "次日到达",
+            "arrive_time": "08:19",
+            "station_train_code": "K7915",
+            "station_name": "呼和浩特",
+            "arrive_day_diff": "1",
+            "OT": [],
+            "start_time": "08:29",
+            "wz_num": "--",
+            "station_no": "08",
+            "running_time": "09:04"
+        },
+        {
+            "arrive_day_str": "次日到达",
+            "arrive_time": "10:20",
+            "station_train_code": "K7915",
+            "station_name": "包头",
+            "arrive_day_diff": "1",
+            "OT": [],
+            "start_time": "10:20",
+            "wz_num": "--",
+            "station_no": "09",
+            "running_time": "11:05"
+        }
+    ],
+    "station_names": [
+        "锡林浩特",
+        "桑根达来",
+        "正镶白旗",
+        "化德",
+        "商都",
+        "集宁南",
+        "呼和浩特东",
+        "呼和浩特",
+        "包头"
+    ],
+    "train_search_no": "34000K79180W"
+}

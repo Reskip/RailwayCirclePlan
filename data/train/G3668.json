@@ -1,0 +1,102 @@
+{
+    "station_list": [
+        {
+            "arrive_day_str": "当日到达",
+            "station_name": "赤峰",
+            "train_class_name": "高速",
+            "is_start": "Y",
+            "service_type": "2",
+            "end_station_name": "北京朝阳",
+            "arrive_time": "----",
+            "start_station_name": "赤峰",
+            "station_train_code": "G3668",
+            "arrive_day_diff": "0",
+            "start_time": "10:14",
+            "station_no": "01",
+            "wz_num": "--",
+            "running_time": "00:00"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "10:45",
+            "station_train_code": "G3668",
+            "station_name": "宁城",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "10:47",
+            "wz_num": "--",
+            "station_no": "02",
+            "running_time": "00:31"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "11:00",
+            "station_train_code": "G3668",
+            "station_name": "建平",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "11:02",
+            "wz_num": "--",
+            "station_no": "03",
+            "running_time": "00:46"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "11:35",
+            "station_train_code": "G3668",
+            "station_name": "平泉北",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "11:37",
+            "wz_num": "--",
+            "station_no": "04",
+            "running_time": "01:21"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "11:56",
+            "station_train_code": "G3668",
+            "station_name": "承德南",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "11:59",
+            "wz_num": "--",
+            "station_no": "05",
+            "running_time": "01:42"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "12:18",
+            "station_train_code": "G3668",
+            "station_name": "兴隆县西",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "12:20",
+            "wz_num": "--",
+            "station_no": "06",
+            "running_time": "02:04"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "12:57",
+            "station_train_code": "G3668",
+            "station_name": "北京朝阳",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "12:58",
+            "wz_num": "--",
+            "station_no": "07",
+            "running_time": "02:44"
+        }
+    ],
+    "station_names": [
+        "赤峰",
+        "宁城",
+        "建平",
+        "平泉北",
+        "承德南",
+        "兴隆县西",
+        "北京朝阳"
+    ],
+    "train_search_no": "16000G366802"
+}

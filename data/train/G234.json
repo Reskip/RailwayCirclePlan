@@ -1,0 +1,115 @@
+{
+    "station_list": [
+        {
+            "arrive_day_str": "当日到达",
+            "station_name": "上海虹桥",
+            "train_class_name": "高速",
+            "is_start": "Y",
+            "service_type": "2",
+            "end_station_name": "青岛",
+            "arrive_time": "----",
+            "start_station_name": "上海虹桥",
+            "station_train_code": "G234",
+            "arrive_day_diff": "0",
+            "start_time": "16:32",
+            "station_no": "01",
+            "wz_num": "--",
+            "running_time": "00:00"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "17:12",
+            "station_train_code": "G234",
+            "station_name": "常州北",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "17:14",
+            "wz_num": "--",
+            "station_no": "02",
+            "running_time": "00:40"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "17:45",
+            "station_train_code": "G234",
+            "station_name": "南京南",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "17:49",
+            "wz_num": "--",
+            "station_no": "03",
+            "running_time": "01:13"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "19:04",
+            "station_train_code": "G234",
+            "station_name": "徐州东",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "19:15",
+            "wz_num": "--",
+            "station_no": "04",
+            "running_time": "02:32"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "20:25",
+            "station_train_code": "G235",
+            "station_name": "济南",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "20:27",
+            "wz_num": "--",
+            "station_no": "05",
+            "running_time": "03:53"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "21:10",
+            "station_train_code": "G235",
+            "station_name": "淄博",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "21:12",
+            "wz_num": "--",
+            "station_no": "06",
+            "running_time": "04:38"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "21:46",
+            "station_train_code": "G235",
+            "station_name": "潍坊",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "21:48",
+            "wz_num": "--",
+            "station_no": "07",
+            "running_time": "05:14"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "23:03",
+            "station_train_code": "G235",
+            "station_name": "青岛",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "23:03",
+            "wz_num": "--",
+            "station_no": "08",
+            "running_time": "06:31"
+        }
+    ],
+    "station_names": [
+        "上海虹桥",
+        "常州北",
+        "南京南",
+        "徐州东",
+        "济南",
+        "淄博",
+        "潍坊",
+        "青岛"
+    ],
+    "train_search_no": "5l0000G234B1"
+}

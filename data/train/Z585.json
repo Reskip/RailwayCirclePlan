@@ -1,0 +1,141 @@
+{
+    "station_list": [
+        {
+            "arrive_day_str": "当日到达",
+            "station_name": "成都西",
+            "train_class_name": "直特",
+            "is_start": "Y",
+            "service_type": "2",
+            "end_station_name": "深圳东",
+            "arrive_time": "----",
+            "start_station_name": "成都西",
+            "station_train_code": "Z588",
+            "arrive_day_diff": "0",
+            "start_time": "20:38",
+            "station_no": "01",
+            "wz_num": "--",
+            "running_time": "00:00"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "23:29",
+            "station_train_code": "Z585",
+            "station_name": "重庆北",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "23:59",
+            "wz_num": "--",
+            "station_no": "02",
+            "running_time": "02:51"
+        },
+        {
+            "arrive_day_str": "次日到达",
+            "arrive_time": "08:04",
+            "station_train_code": "Z585",
+            "station_name": "怀化南",
+            "arrive_day_diff": "1",
+            "OT": [],
+            "start_time": "08:12",
+            "wz_num": "--",
+            "station_no": "03",
+            "running_time": "11:26"
+        },
+        {
+            "arrive_day_str": "次日到达",
+            "arrive_time": "09:37",
+            "station_train_code": "Z585",
+            "station_name": "邵阳",
+            "arrive_day_diff": "1",
+            "OT": [],
+            "start_time": "09:43",
+            "wz_num": "--",
+            "station_no": "04",
+            "running_time": "12:59"
+        },
+        {
+            "arrive_day_str": "次日到达",
+            "arrive_time": "11:10",
+            "station_train_code": "Z585",
+            "station_name": "衡阳",
+            "arrive_day_diff": "1",
+            "OT": [],
+            "start_time": "11:18",
+            "wz_num": "--",
+            "station_no": "05",
+            "running_time": "14:32"
+        },
+        {
+            "arrive_day_str": "次日到达",
+            "arrive_time": "12:58",
+            "station_train_code": "Z585",
+            "station_name": "郴州",
+            "arrive_day_diff": "1",
+            "OT": [],
+            "start_time": "13:02",
+            "wz_num": "--",
+            "station_no": "06",
+            "running_time": "16:20"
+        },
+        {
+            "arrive_day_str": "次日到达",
+            "arrive_time": "14:44",
+            "station_train_code": "Z585",
+            "station_name": "韶关东",
+            "arrive_day_diff": "1",
+            "OT": [],
+            "start_time": "14:50",
+            "wz_num": "--",
+            "station_no": "07",
+            "running_time": "18:06"
+        },
+        {
+            "arrive_day_str": "次日到达",
+            "arrive_time": "16:48",
+            "station_train_code": "Z585",
+            "station_name": "广州北",
+            "arrive_day_diff": "1",
+            "OT": [],
+            "start_time": "16:54",
+            "wz_num": "--",
+            "station_no": "08",
+            "running_time": "20:10"
+        },
+        {
+            "arrive_day_str": "次日到达",
+            "arrive_time": "17:53",
+            "station_train_code": "Z585",
+            "station_name": "东莞",
+            "arrive_day_diff": "1",
+            "OT": [],
+            "start_time": "17:58",
+            "wz_num": "--",
+            "station_no": "09",
+            "running_time": "21:15"
+        },
+        {
+            "arrive_day_str": "次日到达",
+            "arrive_time": "19:03",
+            "station_train_code": "Z585",
+            "station_name": "深圳东",
+            "arrive_day_diff": "1",
+            "OT": [],
+            "start_time": "19:03",
+            "wz_num": "--",
+            "station_no": "10",
+            "running_time": "22:25"
+        }
+    ],
+    "station_names": [
+        "成都西",
+        "重庆北",
+        "怀化南",
+        "邵阳",
+        "衡阳",
+        "郴州",
+        "韶关东",
+        "广州北",
+        "东莞",
+        "深圳东"
+    ],
+    "train_search_no": "760000Z58802"
+}

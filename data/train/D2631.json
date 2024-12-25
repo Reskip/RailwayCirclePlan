@@ -1,0 +1,141 @@
+{
+    "station_list": [
+        {
+            "arrive_day_str": "当日到达",
+            "station_name": "西安北",
+            "train_class_name": "动车",
+            "is_start": "Y",
+            "service_type": "2",
+            "end_station_name": "武威东",
+            "arrive_time": "----",
+            "start_station_name": "西安北",
+            "station_train_code": "D2631",
+            "arrive_day_diff": "0",
+            "start_time": "13:41",
+            "station_no": "01",
+            "wz_num": "--",
+            "running_time": "00:00"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "13:54",
+            "station_train_code": "D2631",
+            "station_name": "咸阳西",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "13:56",
+            "wz_num": "--",
+            "station_no": "02",
+            "running_time": "00:13"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "14:26",
+            "station_train_code": "D2631",
+            "station_name": "岐山",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "14:28",
+            "wz_num": "--",
+            "station_no": "03",
+            "running_time": "00:45"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "14:42",
+            "station_train_code": "D2631",
+            "station_name": "宝鸡南",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "14:44",
+            "wz_num": "--",
+            "station_no": "04",
+            "running_time": "01:01"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "15:27",
+            "station_train_code": "D2631",
+            "station_name": "天水南",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "15:29",
+            "wz_num": "--",
+            "station_no": "05",
+            "running_time": "01:46"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "15:44",
+            "station_train_code": "D2631",
+            "station_name": "秦安",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "15:46",
+            "wz_num": "--",
+            "station_no": "06",
+            "running_time": "02:03"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "16:51",
+            "station_train_code": "D2631",
+            "station_name": "兰州西",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "16:57",
+            "wz_num": "--",
+            "station_no": "07",
+            "running_time": "03:10"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "17:47",
+            "station_train_code": "D2631",
+            "station_name": "永登北",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "17:49",
+            "wz_num": "--",
+            "station_no": "08",
+            "running_time": "04:06"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "18:19",
+            "station_train_code": "D2631",
+            "station_name": "古浪北",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "18:21",
+            "wz_num": "--",
+            "station_no": "09",
+            "running_time": "04:38"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "18:40",
+            "station_train_code": "D2631",
+            "station_name": "武威东",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "18:40",
+            "wz_num": "--",
+            "station_no": "10",
+            "running_time": "04:59"
+        }
+    ],
+    "station_names": [
+        "西安北",
+        "咸阳西",
+        "岐山",
+        "宝鸡南",
+        "天水南",
+        "秦安",
+        "兰州西",
+        "永登北",
+        "古浪北",
+        "武威东"
+    ],
+    "train_search_no": "4f000D263101"
+}

@@ -1,0 +1,89 @@
+{
+    "station_list": [
+        {
+            "arrive_day_str": "当日到达",
+            "station_name": "炎陵",
+            "train_class_name": "快速",
+            "is_start": "Y",
+            "service_type": "1",
+            "end_station_name": "长沙",
+            "arrive_time": "----",
+            "start_station_name": "炎陵",
+            "station_train_code": "K9235",
+            "arrive_day_diff": "0",
+            "start_time": "15:00",
+            "station_no": "01",
+            "wz_num": "--",
+            "running_time": "00:00"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "15:34",
+            "station_train_code": "K9235",
+            "station_name": "茶陵南",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "15:37",
+            "wz_num": "--",
+            "station_no": "02",
+            "running_time": "00:34"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "16:20",
+            "station_train_code": "K9234",
+            "station_name": "攸县",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "16:25",
+            "wz_num": "--",
+            "station_no": "03",
+            "running_time": "01:20"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "17:47",
+            "station_train_code": "K9235",
+            "station_name": "醴陵",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "17:51",
+            "wz_num": "--",
+            "station_no": "04",
+            "running_time": "02:47"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "18:19",
+            "station_train_code": "K9234",
+            "station_name": "株洲",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "18:25",
+            "wz_num": "--",
+            "station_no": "05",
+            "running_time": "03:19"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "19:05",
+            "station_train_code": "K9234",
+            "station_name": "长沙",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "19:05",
+            "wz_num": "--",
+            "station_no": "06",
+            "running_time": "04:05"
+        }
+    ],
+    "station_names": [
+        "炎陵",
+        "茶陵南",
+        "攸县",
+        "醴陵",
+        "株洲",
+        "长沙"
+    ],
+    "train_search_no": "62000K923507"
+}

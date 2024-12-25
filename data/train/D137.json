@@ -1,0 +1,76 @@
+{
+    "station_list": [
+        {
+            "arrive_day_str": "当日到达",
+            "station_name": "北京丰台",
+            "train_class_name": "动车",
+            "is_start": "Y",
+            "service_type": "1",
+            "end_station_name": "南昌",
+            "arrive_time": "----",
+            "start_station_name": "北京丰台",
+            "station_train_code": "D137",
+            "arrive_day_diff": "0",
+            "start_time": "20:01",
+            "station_no": "01",
+            "wz_num": "--",
+            "running_time": "00:00"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "21:09",
+            "station_train_code": "D137",
+            "station_name": "任丘",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "21:11",
+            "wz_num": "--",
+            "station_no": "02",
+            "running_time": "01:08"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "22:13",
+            "station_train_code": "D137",
+            "station_name": "衡水",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "22:15",
+            "wz_num": "--",
+            "station_no": "03",
+            "running_time": "02:12"
+        },
+        {
+            "arrive_day_str": "次日到达",
+            "arrive_time": "06:53",
+            "station_train_code": "D137",
+            "station_name": "九江",
+            "arrive_day_diff": "1",
+            "OT": [],
+            "start_time": "06:55",
+            "wz_num": "--",
+            "station_no": "04",
+            "running_time": "10:52"
+        },
+        {
+            "arrive_day_str": "次日到达",
+            "arrive_time": "08:01",
+            "station_train_code": "D137",
+            "station_name": "南昌",
+            "arrive_day_diff": "1",
+            "OT": [],
+            "start_time": "08:01",
+            "wz_num": "--",
+            "station_no": "05",
+            "running_time": "12:00"
+        }
+    ],
+    "station_names": [
+        "北京丰台",
+        "任丘",
+        "衡水",
+        "九江",
+        "南昌"
+    ],
+    "train_search_no": "240000D13700"
+}

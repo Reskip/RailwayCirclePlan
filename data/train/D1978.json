@@ -1,0 +1,141 @@
+{
+    "station_list": [
+        {
+            "arrive_day_str": "当日到达",
+            "station_name": "西安北",
+            "train_class_name": "动车",
+            "is_start": "Y",
+            "service_type": "2",
+            "end_station_name": "重庆北",
+            "arrive_time": "----",
+            "start_station_name": "西安北",
+            "station_train_code": "D1979",
+            "arrive_day_diff": "0",
+            "start_time": "12:05",
+            "station_no": "01",
+            "wz_num": "--",
+            "running_time": "00:00"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "12:22",
+            "station_train_code": "D1979",
+            "station_name": "鄠邑",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "12:24",
+            "wz_num": "--",
+            "station_no": "02",
+            "running_time": "00:17"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "13:27",
+            "station_train_code": "D1979",
+            "station_name": "汉中",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "13:29",
+            "wz_num": "--",
+            "station_no": "03",
+            "running_time": "01:22"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "14:02",
+            "station_train_code": "D1979",
+            "station_name": "朝天",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "14:04",
+            "wz_num": "--",
+            "station_no": "04",
+            "running_time": "01:57"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "14:19",
+            "station_train_code": "D1978",
+            "station_name": "广元",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "14:23",
+            "wz_num": "--",
+            "station_no": "05",
+            "running_time": "02:14"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "15:11",
+            "station_train_code": "D1978",
+            "station_name": "阆中",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "15:18",
+            "wz_num": "--",
+            "station_no": "06",
+            "running_time": "03:06"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "15:56",
+            "station_train_code": "D1978",
+            "station_name": "南充北",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "15:58",
+            "wz_num": "--",
+            "station_no": "07",
+            "running_time": "03:51"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "16:26",
+            "station_train_code": "D1978",
+            "station_name": "武胜",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "16:28",
+            "wz_num": "--",
+            "station_no": "08",
+            "running_time": "04:21"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "16:52",
+            "station_train_code": "D1978",
+            "station_name": "合川",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "16:54",
+            "wz_num": "--",
+            "station_no": "09",
+            "running_time": "04:47"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "17:20",
+            "station_train_code": "D1978",
+            "station_name": "重庆北",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "17:20",
+            "wz_num": "--",
+            "station_no": "10",
+            "running_time": "05:15"
+        }
+    ],
+    "station_names": [
+        "西安北",
+        "鄠邑",
+        "汉中",
+        "朝天",
+        "广元",
+        "阆中",
+        "南充北",
+        "武胜",
+        "合川",
+        "重庆北"
+    ],
+    "train_search_no": "4f000D19790E"
+}

@@ -1,0 +1,102 @@
+{
+    "station_list": [
+        {
+            "arrive_day_str": "当日到达",
+            "station_name": "西安",
+            "train_class_name": "普客",
+            "is_start": "Y",
+            "service_type": "2",
+            "end_station_name": "商南",
+            "arrive_time": "----",
+            "start_station_name": "西安",
+            "station_train_code": "7008",
+            "arrive_day_diff": "0",
+            "start_time": "16:05",
+            "station_no": "01",
+            "wz_num": "--",
+            "running_time": "00:00"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "16:27",
+            "station_train_code": "7008",
+            "station_name": "临潼",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "16:36",
+            "wz_num": "--",
+            "station_no": "02",
+            "running_time": "00:22"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "17:01",
+            "station_train_code": "7008",
+            "station_name": "渭南西",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "17:06",
+            "wz_num": "--",
+            "station_no": "03",
+            "running_time": "00:56"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "18:19",
+            "station_train_code": "7008",
+            "station_name": "砚川",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "18:20",
+            "wz_num": "--",
+            "station_no": "04",
+            "running_time": "02:14"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "18:40",
+            "station_train_code": "7008",
+            "station_name": "商洛",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "18:43",
+            "wz_num": "--",
+            "station_no": "05",
+            "running_time": "02:35"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "19:16",
+            "station_train_code": "7008",
+            "station_name": "丹凤",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "19:19",
+            "wz_num": "--",
+            "station_no": "06",
+            "running_time": "03:11"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "20:15",
+            "station_train_code": "7008",
+            "station_name": "商南",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "20:15",
+            "wz_num": "--",
+            "station_no": "07",
+            "running_time": "04:10"
+        }
+    ],
+    "station_names": [
+        "西安",
+        "临潼",
+        "渭南西",
+        "砚川",
+        "商洛",
+        "丹凤",
+        "商南"
+    ],
+    "train_search_no": "41000070080X"
+}

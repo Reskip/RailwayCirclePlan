@@ -1,0 +1,102 @@
+{
+    "station_list": [
+        {
+            "arrive_day_str": "当日到达",
+            "station_name": "广州",
+            "train_class_name": "特快",
+            "is_start": "Y",
+            "service_type": "1",
+            "end_station_name": "张家界",
+            "arrive_time": "----",
+            "start_station_name": "广州",
+            "station_train_code": "Z8302",
+            "arrive_day_diff": "0",
+            "start_time": "20:50",
+            "station_no": "01",
+            "wz_num": "--",
+            "running_time": "00:00"
+        },
+        {
+            "arrive_day_str": "次日到达",
+            "arrive_time": "02:30",
+            "station_train_code": "Z8302",
+            "station_name": "衡阳",
+            "arrive_day_diff": "1",
+            "OT": [],
+            "start_time": "02:34",
+            "wz_num": "--",
+            "station_no": "02",
+            "running_time": "05:40"
+        },
+        {
+            "arrive_day_str": "次日到达",
+            "arrive_time": "04:36",
+            "station_train_code": "Z8302",
+            "station_name": "长沙",
+            "arrive_day_diff": "1",
+            "OT": [],
+            "start_time": "04:43",
+            "wz_num": "--",
+            "station_no": "03",
+            "running_time": "07:46"
+        },
+        {
+            "arrive_day_str": "次日到达",
+            "arrive_time": "06:39",
+            "station_train_code": "Z8302",
+            "station_name": "常德",
+            "arrive_day_diff": "1",
+            "OT": [],
+            "start_time": "06:43",
+            "wz_num": "--",
+            "station_no": "04",
+            "running_time": "09:49"
+        },
+        {
+            "arrive_day_str": "次日到达",
+            "arrive_time": "07:40",
+            "station_train_code": "Z8303",
+            "station_name": "石门县北",
+            "arrive_day_diff": "1",
+            "OT": [],
+            "start_time": "08:14",
+            "wz_num": "--",
+            "station_no": "05",
+            "running_time": "10:50"
+        },
+        {
+            "arrive_day_str": "次日到达",
+            "arrive_time": "08:46",
+            "station_train_code": "Z8303",
+            "station_name": "慈利",
+            "arrive_day_diff": "1",
+            "OT": [],
+            "start_time": "08:49",
+            "wz_num": "--",
+            "station_no": "06",
+            "running_time": "11:56"
+        },
+        {
+            "arrive_day_str": "次日到达",
+            "arrive_time": "10:05",
+            "station_train_code": "Z8303",
+            "station_name": "张家界",
+            "arrive_day_diff": "1",
+            "OT": [],
+            "start_time": "10:05",
+            "wz_num": "--",
+            "station_no": "07",
+            "running_time": "13:15"
+        }
+    ],
+    "station_names": [
+        "广州",
+        "衡阳",
+        "长沙",
+        "常德",
+        "石门县北",
+        "慈利",
+        "张家界"
+    ],
+    "train_search_no": "63000Z830200"
+}

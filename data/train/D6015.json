@@ -1,0 +1,89 @@
+{
+    "station_list": [
+        {
+            "arrive_day_str": "当日到达",
+            "station_name": "济南东",
+            "train_class_name": "动车",
+            "is_start": "Y",
+            "service_type": "2",
+            "end_station_name": "青岛",
+            "arrive_time": "----",
+            "start_station_name": "济南东",
+            "station_train_code": "D6018",
+            "arrive_day_diff": "0",
+            "start_time": "07:56",
+            "station_no": "01",
+            "wz_num": "--",
+            "running_time": "00:00"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "08:19",
+            "station_train_code": "D6015",
+            "station_name": "济南西",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "08:24",
+            "wz_num": "--",
+            "station_no": "02",
+            "running_time": "00:23"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "08:41",
+            "station_train_code": "D6015",
+            "station_name": "济南",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "08:44",
+            "wz_num": "--",
+            "station_no": "03",
+            "running_time": "00:45"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "09:58",
+            "station_train_code": "D6015",
+            "station_name": "潍坊",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "10:01",
+            "wz_num": "--",
+            "station_no": "04",
+            "running_time": "02:02"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "10:28",
+            "station_train_code": "D6015",
+            "station_name": "高密",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "10:30",
+            "wz_num": "--",
+            "station_no": "05",
+            "running_time": "02:32"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "11:21",
+            "station_train_code": "D6015",
+            "station_name": "青岛",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "11:21",
+            "wz_num": "--",
+            "station_no": "06",
+            "running_time": "03:25"
+        }
+    ],
+    "station_names": [
+        "济南东",
+        "济南西",
+        "济南",
+        "潍坊",
+        "高密",
+        "青岛"
+    ],
+    "train_search_no": "47000D60180C"
+}

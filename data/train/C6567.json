@@ -1,0 +1,76 @@
+{
+    "station_list": [
+        {
+            "arrive_day_str": "当日到达",
+            "station_name": "烟台",
+            "train_class_name": "动车",
+            "is_start": "Y",
+            "service_type": "2",
+            "end_station_name": "青岛",
+            "arrive_time": "----",
+            "start_station_name": "烟台",
+            "station_train_code": "C6566",
+            "arrive_day_diff": "0",
+            "start_time": "08:13",
+            "station_no": "01",
+            "wz_num": "--",
+            "running_time": "00:00"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "09:04",
+            "station_train_code": "C6566",
+            "station_name": "莱西",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "09:06",
+            "wz_num": "--",
+            "station_no": "03",
+            "running_time": "00:51"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "09:22",
+            "station_train_code": "C6566",
+            "station_name": "即墨北",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "09:24",
+            "wz_num": "--",
+            "station_no": "04",
+            "running_time": "01:09"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "09:41",
+            "station_train_code": "C6567",
+            "station_name": "青岛北",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "09:43",
+            "wz_num": "--",
+            "station_no": "05",
+            "running_time": "01:28"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "10:04",
+            "station_train_code": "C6567",
+            "station_name": "青岛",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "10:04",
+            "wz_num": "--",
+            "station_no": "06",
+            "running_time": "01:51"
+        }
+    ],
+    "station_names": [
+        "烟台",
+        "莱西",
+        "即墨北",
+        "青岛北",
+        "青岛"
+    ],
+    "train_search_no": "49000C656602"
+}

@@ -1,0 +1,128 @@
+{
+    "station_list": [
+        {
+            "arrive_day_str": "当日到达",
+            "station_name": "成都东",
+            "train_class_name": "动车",
+            "is_start": "Y",
+            "service_type": "2",
+            "end_station_name": "西宁",
+            "arrive_time": "----",
+            "start_station_name": "成都东",
+            "station_train_code": "D168",
+            "arrive_day_diff": "0",
+            "start_time": "13:39",
+            "station_no": "01",
+            "wz_num": "--",
+            "running_time": "00:00"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "14:45",
+            "station_train_code": "D168",
+            "station_name": "遂宁",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "14:47",
+            "wz_num": "--",
+            "station_no": "02",
+            "running_time": "01:06"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "15:57",
+            "station_train_code": "D165",
+            "station_name": "阆中",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "15:59",
+            "wz_num": "--",
+            "station_no": "03",
+            "running_time": "02:18"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "16:13",
+            "station_train_code": "D165",
+            "station_name": "苍溪",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "16:15",
+            "wz_num": "--",
+            "station_no": "04",
+            "running_time": "02:34"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "16:59",
+            "station_train_code": "D165",
+            "station_name": "广元",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "17:05",
+            "wz_num": "--",
+            "station_no": "05",
+            "running_time": "03:20"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "18:08",
+            "station_train_code": "D165",
+            "station_name": "陇南",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "18:11",
+            "wz_num": "--",
+            "station_no": "06",
+            "running_time": "04:29"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "19:08",
+            "station_train_code": "D165",
+            "station_name": "哈达铺",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "19:10",
+            "wz_num": "--",
+            "station_no": "07",
+            "running_time": "05:29"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "20:58",
+            "station_train_code": "D165",
+            "station_name": "兰州",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "21:06",
+            "wz_num": "--",
+            "station_no": "08",
+            "running_time": "07:19"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "22:44",
+            "station_train_code": "D165",
+            "station_name": "西宁",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "22:44",
+            "wz_num": "--",
+            "station_no": "09",
+            "running_time": "09:05"
+        }
+    ],
+    "station_names": [
+        "成都东",
+        "遂宁",
+        "阆中",
+        "苍溪",
+        "广元",
+        "陇南",
+        "哈达铺",
+        "兰州",
+        "西宁"
+    ],
+    "train_search_no": "760000D16802"
+}

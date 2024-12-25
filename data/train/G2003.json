@@ -1,0 +1,141 @@
+{
+    "station_list": [
+        {
+            "arrive_day_str": "当日到达",
+            "station_name": "济南东",
+            "train_class_name": "高速",
+            "is_start": "Y",
+            "service_type": "2",
+            "end_station_name": "兰州西",
+            "arrive_time": "----",
+            "start_station_name": "济南东",
+            "station_train_code": "G2006",
+            "arrive_day_diff": "0",
+            "start_time": "07:45",
+            "station_no": "01",
+            "wz_num": "--",
+            "running_time": "00:00"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "08:08",
+            "station_train_code": "G2003",
+            "station_name": "济南西",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "08:11",
+            "wz_num": "--",
+            "station_no": "02",
+            "running_time": "00:23"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "08:43",
+            "station_train_code": "G2003",
+            "station_name": "聊城西",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "08:47",
+            "wz_num": "--",
+            "station_no": "03",
+            "running_time": "00:58"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "09:14",
+            "station_train_code": "G2003",
+            "station_name": "濮阳东",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "09:16",
+            "wz_num": "--",
+            "station_no": "04",
+            "running_time": "01:29"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "10:08",
+            "station_train_code": "G2003",
+            "station_name": "郑州东",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "10:12",
+            "wz_num": "--",
+            "station_no": "05",
+            "running_time": "02:23"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "10:48",
+            "station_train_code": "G2003",
+            "station_name": "洛阳龙门",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "10:54",
+            "wz_num": "--",
+            "station_no": "06",
+            "running_time": "03:03"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "12:10",
+            "station_train_code": "G2003",
+            "station_name": "西安北",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "12:20",
+            "wz_num": "--",
+            "station_no": "07",
+            "running_time": "04:25"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "13:09",
+            "station_train_code": "G2003",
+            "station_name": "宝鸡南",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "13:11",
+            "wz_num": "--",
+            "station_no": "08",
+            "running_time": "05:24"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "13:54",
+            "station_train_code": "G2003",
+            "station_name": "天水南",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "13:56",
+            "wz_num": "--",
+            "station_no": "09",
+            "running_time": "06:09"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "15:12",
+            "station_train_code": "G2003",
+            "station_name": "兰州西",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "15:12",
+            "wz_num": "--",
+            "station_no": "10",
+            "running_time": "07:27"
+        }
+    ],
+    "station_names": [
+        "济南东",
+        "济南西",
+        "聊城西",
+        "濮阳东",
+        "郑州东",
+        "洛阳龙门",
+        "西安北",
+        "宝鸡南",
+        "天水南",
+        "兰州西"
+    ],
+    "train_search_no": "47000G200600"
+}

@@ -1,0 +1,89 @@
+{
+    "station_list": [
+        {
+            "arrive_day_str": "当日到达",
+            "station_name": "杭州",
+            "train_class_name": "直特",
+            "is_start": "Y",
+            "service_type": "2",
+            "end_station_name": "武昌",
+            "arrive_time": "----",
+            "start_station_name": "杭州",
+            "station_train_code": "Z47",
+            "arrive_day_diff": "0",
+            "start_time": "22:22",
+            "station_no": "01",
+            "wz_num": "--",
+            "running_time": "00:00"
+        },
+        {
+            "arrive_day_str": "次日到达",
+            "arrive_time": "00:01",
+            "station_train_code": "Z47",
+            "station_name": "金华",
+            "arrive_day_diff": "1",
+            "OT": [],
+            "start_time": "00:07",
+            "wz_num": "--",
+            "station_no": "02",
+            "running_time": "01:39"
+        },
+        {
+            "arrive_day_str": "次日到达",
+            "arrive_time": "00:45",
+            "station_train_code": "Z47",
+            "station_name": "衢州",
+            "arrive_day_diff": "1",
+            "OT": [],
+            "start_time": "00:51",
+            "wz_num": "--",
+            "station_no": "03",
+            "running_time": "02:23"
+        },
+        {
+            "arrive_day_str": "次日到达",
+            "arrive_time": "05:18",
+            "station_train_code": "Z46",
+            "station_name": "黄石",
+            "arrive_day_diff": "1",
+            "OT": [],
+            "start_time": "05:23",
+            "wz_num": "--",
+            "station_no": "04",
+            "running_time": "06:56"
+        },
+        {
+            "arrive_day_str": "次日到达",
+            "arrive_time": "05:38",
+            "station_train_code": "Z46",
+            "station_name": "鄂州",
+            "arrive_day_diff": "1",
+            "OT": [],
+            "start_time": "05:43",
+            "wz_num": "--",
+            "station_no": "05",
+            "running_time": "07:16"
+        },
+        {
+            "arrive_day_str": "次日到达",
+            "arrive_time": "06:37",
+            "station_train_code": "Z46",
+            "station_name": "武昌",
+            "arrive_day_diff": "1",
+            "OT": [],
+            "start_time": "06:37",
+            "wz_num": "--",
+            "station_no": "06",
+            "running_time": "08:15"
+        }
+    ],
+    "station_names": [
+        "杭州",
+        "金华",
+        "衢州",
+        "黄石",
+        "鄂州",
+        "武昌"
+    ],
+    "train_search_no": "5600000Z4705"
+}

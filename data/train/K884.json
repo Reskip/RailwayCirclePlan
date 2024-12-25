@@ -1,0 +1,102 @@
+{
+    "station_list": [
+        {
+            "arrive_day_str": "当日到达",
+            "station_name": "太原",
+            "train_class_name": "快速",
+            "is_start": "Y",
+            "service_type": "1",
+            "end_station_name": "青岛北",
+            "arrive_time": "----",
+            "start_station_name": "太原",
+            "station_train_code": "K884",
+            "arrive_day_diff": "0",
+            "start_time": "21:41",
+            "station_no": "01",
+            "wz_num": "--",
+            "running_time": "00:00"
+        },
+        {
+            "arrive_day_str": "次日到达",
+            "arrive_time": "01:12",
+            "station_train_code": "K884",
+            "station_name": "衡水",
+            "arrive_day_diff": "1",
+            "OT": [],
+            "start_time": "01:23",
+            "wz_num": "--",
+            "station_no": "03",
+            "running_time": "03:31"
+        },
+        {
+            "arrive_day_str": "次日到达",
+            "arrive_time": "02:38",
+            "station_train_code": "K881",
+            "station_name": "德州",
+            "arrive_day_diff": "1",
+            "OT": [],
+            "start_time": "02:40",
+            "wz_num": "--",
+            "station_no": "04",
+            "running_time": "04:57"
+        },
+        {
+            "arrive_day_str": "次日到达",
+            "arrive_time": "04:08",
+            "station_train_code": "K881",
+            "station_name": "大明湖",
+            "arrive_day_diff": "1",
+            "OT": [],
+            "start_time": "04:14",
+            "wz_num": "--",
+            "station_no": "05",
+            "running_time": "06:27"
+        },
+        {
+            "arrive_day_str": "次日到达",
+            "arrive_time": "05:37",
+            "station_train_code": "K881",
+            "station_name": "青州市",
+            "arrive_day_diff": "1",
+            "OT": [],
+            "start_time": "05:40",
+            "wz_num": "--",
+            "station_no": "06",
+            "running_time": "07:56"
+        },
+        {
+            "arrive_day_str": "次日到达",
+            "arrive_time": "06:12",
+            "station_train_code": "K881",
+            "station_name": "潍坊",
+            "arrive_day_diff": "1",
+            "OT": [],
+            "start_time": "06:15",
+            "wz_num": "--",
+            "station_no": "07",
+            "running_time": "08:31"
+        },
+        {
+            "arrive_day_str": "次日到达",
+            "arrive_time": "07:46",
+            "station_train_code": "K881",
+            "station_name": "青岛北",
+            "arrive_day_diff": "1",
+            "OT": [],
+            "start_time": "07:46",
+            "wz_num": "--",
+            "station_no": "08",
+            "running_time": "10:05"
+        }
+    ],
+    "station_names": [
+        "太原",
+        "衡水",
+        "德州",
+        "大明湖",
+        "青州市",
+        "潍坊",
+        "青岛北"
+    ],
+    "train_search_no": "270000K8842D"
+}

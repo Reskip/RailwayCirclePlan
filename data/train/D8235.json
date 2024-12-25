@@ -1,0 +1,76 @@
+{
+    "station_list": [
+        {
+            "arrive_day_str": "当日到达",
+            "station_name": "河池西",
+            "train_class_name": "动车",
+            "is_start": "Y",
+            "service_type": "2",
+            "end_station_name": "南宁东",
+            "arrive_time": "----",
+            "start_station_name": "河池西",
+            "station_train_code": "D8235",
+            "arrive_day_diff": "0",
+            "start_time": "17:10",
+            "station_no": "01",
+            "wz_num": "--",
+            "running_time": "00:00"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "17:36",
+            "station_train_code": "D8235",
+            "station_name": "都安",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "17:38",
+            "wz_num": "--",
+            "station_no": "02",
+            "running_time": "00:26"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "17:50",
+            "station_train_code": "D8235",
+            "station_name": "马山县",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "17:52",
+            "wz_num": "--",
+            "station_no": "03",
+            "running_time": "00:40"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "18:13",
+            "station_train_code": "D8235",
+            "station_name": "南宁北",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "18:16",
+            "wz_num": "--",
+            "station_no": "04",
+            "running_time": "01:03"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "18:36",
+            "station_train_code": "D8235",
+            "station_name": "南宁东",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "18:36",
+            "wz_num": "--",
+            "station_no": "05",
+            "running_time": "01:26"
+        }
+    ],
+    "station_names": [
+        "河池西",
+        "都安",
+        "马山县",
+        "南宁北",
+        "南宁东"
+    ],
+    "train_search_no": "71000D823508"
+}

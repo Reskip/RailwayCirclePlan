@@ -1,0 +1,102 @@
+{
+    "station_list": [
+        {
+            "arrive_day_str": "当日到达",
+            "station_name": "吉林",
+            "train_class_name": "直特",
+            "is_start": "Y",
+            "service_type": "2",
+            "end_station_name": "北京",
+            "arrive_time": "----",
+            "start_station_name": "吉林",
+            "station_train_code": "Z118",
+            "arrive_day_diff": "0",
+            "start_time": "21:22",
+            "station_no": "01",
+            "wz_num": "--",
+            "running_time": "00:00"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "22:21",
+            "station_train_code": "Z118",
+            "station_name": "九台",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "22:26",
+            "wz_num": "--",
+            "station_no": "02",
+            "running_time": "00:59"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "23:10",
+            "station_train_code": "Z118",
+            "station_name": "长春",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "23:43",
+            "wz_num": "--",
+            "station_no": "03",
+            "running_time": "01:48"
+        },
+        {
+            "arrive_day_str": "次日到达",
+            "arrive_time": "02:12",
+            "station_train_code": "Z118",
+            "station_name": "沈阳北",
+            "arrive_day_diff": "1",
+            "OT": [],
+            "start_time": "02:18",
+            "wz_num": "--",
+            "station_no": "04",
+            "running_time": "04:50"
+        },
+        {
+            "arrive_day_str": "次日到达",
+            "arrive_time": "05:38",
+            "station_train_code": "Z118",
+            "station_name": "秦皇岛",
+            "arrive_day_diff": "1",
+            "OT": [],
+            "start_time": "05:40",
+            "wz_num": "--",
+            "station_no": "05",
+            "running_time": "08:16"
+        },
+        {
+            "arrive_day_str": "次日到达",
+            "arrive_time": "06:54",
+            "station_train_code": "Z118",
+            "station_name": "唐山北",
+            "arrive_day_diff": "1",
+            "OT": [],
+            "start_time": "06:57",
+            "wz_num": "--",
+            "station_no": "06",
+            "running_time": "09:32"
+        },
+        {
+            "arrive_day_str": "次日到达",
+            "arrive_time": "08:27",
+            "station_train_code": "Z118",
+            "station_name": "北京",
+            "arrive_day_diff": "1",
+            "OT": [],
+            "start_time": "08:20",
+            "wz_num": "--",
+            "station_no": "07",
+            "running_time": "10:58"
+        }
+    ],
+    "station_names": [
+        "吉林",
+        "九台",
+        "长春",
+        "沈阳北",
+        "秦皇岛",
+        "唐山北",
+        "北京"
+    ],
+    "train_search_no": "180000Z1180B"
+}

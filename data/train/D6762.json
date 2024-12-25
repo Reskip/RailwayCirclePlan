@@ -1,0 +1,63 @@
+{
+    "station_list": [
+        {
+            "arrive_day_str": "当日到达",
+            "station_name": "包头",
+            "train_class_name": "动车",
+            "is_start": "Y",
+            "service_type": "1",
+            "end_station_name": "呼和浩特东",
+            "arrive_time": "----",
+            "start_station_name": "包头",
+            "station_train_code": "D6762",
+            "arrive_day_diff": "0",
+            "start_time": "20:55",
+            "station_no": "01",
+            "wz_num": "--",
+            "running_time": "00:00"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "21:07",
+            "station_train_code": "D6762",
+            "station_name": "包头东",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "21:09",
+            "wz_num": "--",
+            "station_no": "02",
+            "running_time": "00:12"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "22:01",
+            "station_train_code": "D6762",
+            "station_name": "呼和浩特",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "22:03",
+            "wz_num": "--",
+            "station_no": "03",
+            "running_time": "01:06"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "22:11",
+            "station_train_code": "D6762",
+            "station_name": "呼和浩特东",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "22:11",
+            "wz_num": "--",
+            "station_no": "04",
+            "running_time": "01:16"
+        }
+    ],
+    "station_names": [
+        "包头",
+        "包头东",
+        "呼和浩特",
+        "呼和浩特东"
+    ],
+    "train_search_no": "33000D67620F"
+}

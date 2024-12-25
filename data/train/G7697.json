@@ -1,0 +1,141 @@
+{
+    "station_list": [
+        {
+            "arrive_day_str": "当日到达",
+            "station_name": "衢州",
+            "train_class_name": "高速",
+            "is_start": "Y",
+            "service_type": "2",
+            "end_station_name": "淮北",
+            "arrive_time": "----",
+            "start_station_name": "衢州",
+            "station_train_code": "G7696",
+            "arrive_day_diff": "0",
+            "start_time": "15:28",
+            "station_no": "01",
+            "wz_num": "--",
+            "running_time": "00:00"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "15:49",
+            "station_train_code": "G7696",
+            "station_name": "金华",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "15:51",
+            "wz_num": "--",
+            "station_no": "02",
+            "running_time": "00:21"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "16:07",
+            "station_train_code": "G7696",
+            "station_name": "义乌",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "16:09",
+            "wz_num": "--",
+            "station_no": "03",
+            "running_time": "00:39"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "16:43",
+            "station_train_code": "G7696",
+            "station_name": "杭州东",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "16:48",
+            "wz_num": "--",
+            "station_no": "04",
+            "running_time": "01:15"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "17:09",
+            "station_train_code": "G7696",
+            "station_name": "湖州",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "17:14",
+            "wz_num": "--",
+            "station_no": "05",
+            "running_time": "01:41"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "17:31",
+            "station_train_code": "G7696",
+            "station_name": "宜兴",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "17:33",
+            "wz_num": "--",
+            "station_no": "06",
+            "running_time": "02:03"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "17:55",
+            "station_train_code": "G7696",
+            "station_name": "溧水",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "17:57",
+            "wz_num": "--",
+            "station_no": "07",
+            "running_time": "02:27"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "18:13",
+            "station_train_code": "G7696",
+            "station_name": "南京南",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "18:19",
+            "wz_num": "--",
+            "station_no": "08",
+            "running_time": "02:45"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "19:32",
+            "station_train_code": "G7697",
+            "station_name": "徐州东",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "19:37",
+            "wz_num": "--",
+            "station_no": "09",
+            "running_time": "04:04"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "20:12",
+            "station_train_code": "G7697",
+            "station_name": "淮北",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "20:12",
+            "wz_num": "--",
+            "station_no": "10",
+            "running_time": "04:44"
+        }
+    ],
+    "station_names": [
+        "衢州",
+        "金华",
+        "义乌",
+        "杭州东",
+        "湖州",
+        "宜兴",
+        "溧水",
+        "南京南",
+        "徐州东",
+        "淮北"
+    ],
+    "train_search_no": "56000G769690"
+}

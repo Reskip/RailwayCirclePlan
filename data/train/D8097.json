@@ -1,0 +1,89 @@
+{
+    "station_list": [
+        {
+            "arrive_day_str": "当日到达",
+            "station_name": "沈阳北",
+            "train_class_name": "动车",
+            "is_start": "Y",
+            "service_type": "2",
+            "end_station_name": "白城",
+            "arrive_time": "----",
+            "start_station_name": "沈阳北",
+            "station_train_code": "D8097",
+            "arrive_day_diff": "0",
+            "start_time": "08:50",
+            "station_no": "01",
+            "wz_num": "--",
+            "running_time": "00:00"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "09:43",
+            "station_train_code": "D8097",
+            "station_name": "四平东",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "09:49",
+            "wz_num": "--",
+            "station_no": "02",
+            "running_time": "00:53"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "10:05",
+            "station_train_code": "D8097",
+            "station_name": "公主岭南",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "10:17",
+            "wz_num": "--",
+            "station_no": "03",
+            "running_time": "01:16"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "10:42",
+            "station_train_code": "D8097",
+            "station_name": "长春",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "10:53",
+            "wz_num": "--",
+            "station_no": "04",
+            "running_time": "01:52"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "12:01",
+            "station_train_code": "D8097",
+            "station_name": "松原",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "12:03",
+            "wz_num": "--",
+            "station_no": "05",
+            "running_time": "03:11"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "13:19",
+            "station_train_code": "D8097",
+            "station_name": "白城",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "13:19",
+            "wz_num": "--",
+            "station_no": "06",
+            "running_time": "04:29"
+        }
+    ],
+    "station_names": [
+        "沈阳北",
+        "四平东",
+        "公主岭南",
+        "长春",
+        "松原",
+        "白城"
+    ],
+    "train_search_no": "12000D809720"
+}

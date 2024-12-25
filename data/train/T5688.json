@@ -1,0 +1,76 @@
+{
+    "station_list": [
+        {
+            "arrive_day_str": "当日到达",
+            "station_name": "秦皇岛",
+            "train_class_name": "特快",
+            "is_start": "Y",
+            "service_type": "1",
+            "end_station_name": "北京",
+            "arrive_time": "----",
+            "start_station_name": "秦皇岛",
+            "station_train_code": "T5688",
+            "arrive_day_diff": "0",
+            "start_time": "16:14",
+            "station_no": "01",
+            "wz_num": "--",
+            "running_time": "00:00"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "16:31",
+            "station_train_code": "T5688",
+            "station_name": "北戴河",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "16:38",
+            "wz_num": "--",
+            "station_no": "02",
+            "running_time": "00:17"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "16:57",
+            "station_train_code": "T5688",
+            "station_name": "昌黎",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "17:00",
+            "wz_num": "--",
+            "station_no": "03",
+            "running_time": "00:43"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "17:52",
+            "station_train_code": "T5688",
+            "station_name": "唐山北",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "18:08",
+            "wz_num": "--",
+            "station_no": "04",
+            "running_time": "01:38"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "19:36",
+            "station_train_code": "T5688",
+            "station_name": "北京",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "19:36",
+            "wz_num": "--",
+            "station_no": "05",
+            "running_time": "03:22"
+        }
+    ],
+    "station_names": [
+        "秦皇岛",
+        "北戴河",
+        "昌黎",
+        "唐山北",
+        "北京"
+    ],
+    "train_search_no": "25000T56880Z"
+}

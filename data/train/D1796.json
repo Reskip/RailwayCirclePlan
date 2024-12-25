@@ -1,0 +1,128 @@
+{
+    "station_list": [
+        {
+            "arrive_day_str": "当日到达",
+            "station_name": "柳州",
+            "train_class_name": "动车",
+            "is_start": "Y",
+            "service_type": "2",
+            "end_station_name": "成都南",
+            "arrive_time": "----",
+            "start_station_name": "柳州",
+            "station_train_code": "D1796",
+            "arrive_day_diff": "0",
+            "start_time": "14:00",
+            "station_no": "01",
+            "wz_num": "--",
+            "running_time": "00:00"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "15:06",
+            "station_train_code": "D1796",
+            "station_name": "桂林北",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "15:10",
+            "wz_num": "--",
+            "station_no": "02",
+            "running_time": "01:06"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "15:46",
+            "station_train_code": "D1796",
+            "station_name": "三江南",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "15:53",
+            "wz_num": "--",
+            "station_no": "03",
+            "running_time": "01:46"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "16:59",
+            "station_train_code": "D1796",
+            "station_name": "都匀东",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "17:01",
+            "wz_num": "--",
+            "station_no": "04",
+            "running_time": "02:59"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "17:17",
+            "station_train_code": "D1796",
+            "station_name": "贵定县",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "17:19",
+            "wz_num": "--",
+            "station_no": "05",
+            "running_time": "03:17"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "17:32",
+            "station_train_code": "D1796",
+            "station_name": "龙里北",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "17:36",
+            "wz_num": "--",
+            "station_no": "06",
+            "running_time": "03:32"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "17:54",
+            "station_train_code": "D1796",
+            "station_name": "贵阳东",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "17:59",
+            "wz_num": "--",
+            "station_no": "07",
+            "running_time": "03:54"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "19:44",
+            "station_train_code": "D1796",
+            "station_name": "宜宾西",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "19:49",
+            "wz_num": "--",
+            "station_no": "08",
+            "running_time": "05:44"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "21:06",
+            "station_train_code": "D1796",
+            "station_name": "成都南",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "21:06",
+            "wz_num": "--",
+            "station_no": "09",
+            "running_time": "07:06"
+        }
+    ],
+    "station_names": [
+        "柳州",
+        "桂林北",
+        "三江南",
+        "都匀东",
+        "贵定县",
+        "龙里北",
+        "贵阳东",
+        "宜宾西",
+        "成都南"
+    ],
+    "train_search_no": "71000D17960A"
+}

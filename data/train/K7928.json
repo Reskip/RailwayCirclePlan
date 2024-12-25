@@ -1,0 +1,115 @@
+{
+    "station_list": [
+        {
+            "arrive_day_str": "当日到达",
+            "station_name": "乌海西",
+            "train_class_name": "快速",
+            "is_start": "Y",
+            "service_type": "1",
+            "end_station_name": "呼和浩特",
+            "arrive_time": "----",
+            "start_station_name": "乌海西",
+            "station_train_code": "K7928",
+            "arrive_day_diff": "0",
+            "start_time": "08:41",
+            "station_no": "01",
+            "wz_num": "--",
+            "running_time": "00:00"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "09:04",
+            "station_train_code": "K7928",
+            "station_name": "乌海东",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "09:12",
+            "wz_num": "--",
+            "station_no": "02",
+            "running_time": "00:23"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "10:08",
+            "station_train_code": "K7928",
+            "station_name": "巴彦高勒",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "10:11",
+            "wz_num": "--",
+            "station_no": "03",
+            "running_time": "01:27"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "10:48",
+            "station_train_code": "K7928",
+            "station_name": "巴彦淖尔",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "10:54",
+            "wz_num": "--",
+            "station_no": "04",
+            "running_time": "02:07"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "11:38",
+            "station_train_code": "K7928",
+            "station_name": "刘召",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "11:41",
+            "wz_num": "--",
+            "station_no": "05",
+            "running_time": "02:57"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "12:23",
+            "station_train_code": "K7928",
+            "station_name": "乌拉山西",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "12:26",
+            "wz_num": "--",
+            "station_no": "06",
+            "running_time": "03:42"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "13:47",
+            "station_train_code": "K7928",
+            "station_name": "包头",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "13:59",
+            "wz_num": "--",
+            "station_no": "07",
+            "running_time": "05:06"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "16:15",
+            "station_train_code": "K7928",
+            "station_name": "呼和浩特",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "16:15",
+            "wz_num": "--",
+            "station_no": "08",
+            "running_time": "07:34"
+        }
+    ],
+    "station_names": [
+        "乌海西",
+        "乌海东",
+        "巴彦高勒",
+        "巴彦淖尔",
+        "刘召",
+        "乌拉山西",
+        "包头",
+        "呼和浩特"
+    ],
+    "train_search_no": "33000K79280A"
+}

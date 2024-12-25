@@ -1,0 +1,3082 @@
+[
+    {
+        "source": "北京南",
+        "destination": "北京丰台",
+        "type": "K"
+    },
+    {
+        "source": "北京南",
+        "destination": "北京",
+        "type": "K"
+    },
+    {
+        "source": "北京南",
+        "destination": "亦庄",
+        "type": "G"
+    },
+    {
+        "source": "北京南",
+        "destination": "廊坊",
+        "type": "G"
+    },
+    {
+        "source": "廊坊",
+        "destination": "北京南",
+        "type": "G"
+    },
+    {
+        "source": "廊坊",
+        "destination": "天津南",
+        "type": "G"
+    },
+    {
+        "source": "天津南",
+        "destination": "廊坊",
+        "type": "G"
+    },
+    {
+        "source": "天津南",
+        "destination": "沧州西",
+        "type": "G"
+    },
+    {
+        "source": "沧州西",
+        "destination": "天津南",
+        "type": "G"
+    },
+    {
+        "source": "沧州西",
+        "destination": "德州东",
+        "type": "G"
+    },
+    {
+        "source": "德州东",
+        "destination": "沧州西",
+        "type": "G"
+    },
+    {
+        "source": "德州东",
+        "destination": "济南西",
+        "type": "G"
+    },
+    {
+        "source": "济南西",
+        "destination": "德州东",
+        "type": "G"
+    },
+    {
+        "source": "北京西",
+        "destination": "良乡",
+        "type": "K"
+    },
+    {
+        "source": "北京西",
+        "destination": "涿州",
+        "type": "G"
+    },
+    {
+        "source": "涿州",
+        "destination": "北京西",
+        "type": "G"
+    },
+    {
+        "source": "涿州",
+        "destination": "高碑店",
+        "type": "K"
+    },
+    {
+        "source": "涿州",
+        "destination": "琉璃河南",
+        "type": "K"
+    },
+    {
+        "source": "涿州",
+        "destination": "高碑店东",
+        "type": "G"
+    },
+    {
+        "source": "高碑店东",
+        "destination": "涿州",
+        "type": "G"
+    },
+    {
+        "source": "高碑店东",
+        "destination": "保定东",
+        "type": "G"
+    },
+    {
+        "source": "保定东",
+        "destination": "高碑店东",
+        "type": "G"
+    },
+    {
+        "source": "保定东",
+        "destination": "定州东",
+        "type": "G"
+    },
+    {
+        "source": "定州东",
+        "destination": "保定东",
+        "type": "G"
+    },
+    {
+        "source": "定州东",
+        "destination": "正定机场",
+        "type": "G"
+    },
+    {
+        "source": "正定机场",
+        "destination": "定州东",
+        "type": "G"
+    },
+    {
+        "source": "正定机场",
+        "destination": "石家庄",
+        "type": "G"
+    },
+    {
+        "source": "石家庄",
+        "destination": "正定机场",
+        "type": "G"
+    },
+    {
+        "source": "石家庄",
+        "destination": "元氏",
+        "type": "K"
+    },
+    {
+        "source": "石家庄",
+        "destination": "正定",
+        "type": "K"
+    },
+    {
+        "source": "石家庄",
+        "destination": "高邑西",
+        "type": "G"
+    },
+    {
+        "source": "石家庄",
+        "destination": "石家庄西",
+        "type": "G"
+    },
+    {
+        "source": "高邑西",
+        "destination": "石家庄",
+        "type": "G"
+    },
+    {
+        "source": "高邑西",
+        "destination": "邢台东",
+        "type": "G"
+    },
+    {
+        "source": "邢台东",
+        "destination": "高邑西",
+        "type": "G"
+    },
+    {
+        "source": "邢台东",
+        "destination": "邯郸东",
+        "type": "G"
+    },
+    {
+        "source": "邯郸东",
+        "destination": "邢台东",
+        "type": "G"
+    },
+    {
+        "source": "邯郸东",
+        "destination": "安阳东",
+        "type": "G"
+    },
+    {
+        "source": "安阳东",
+        "destination": "邯郸东",
+        "type": "G"
+    },
+    {
+        "source": "安阳东",
+        "destination": "鹤壁东",
+        "type": "G"
+    },
+    {
+        "source": "鹤壁东",
+        "destination": "安阳东",
+        "type": "G"
+    },
+    {
+        "source": "鹤壁东",
+        "destination": "新乡东",
+        "type": "G"
+    },
+    {
+        "source": "新乡东",
+        "destination": "鹤壁东",
+        "type": "G"
+    },
+    {
+        "source": "新乡东",
+        "destination": "郑州东",
+        "type": "G"
+    },
+    {
+        "source": "郑州东",
+        "destination": "新乡东",
+        "type": "G"
+    },
+    {
+        "source": "郑州东",
+        "destination": "许昌东",
+        "type": "G"
+    },
+    {
+        "source": "许昌东",
+        "destination": "郑州东",
+        "type": "G"
+    },
+    {
+        "source": "许昌东",
+        "destination": "漯河西",
+        "type": "G"
+    },
+    {
+        "source": "漯河西",
+        "destination": "许昌东",
+        "type": "G"
+    },
+    {
+        "source": "漯河西",
+        "destination": "驻马店西",
+        "type": "G"
+    },
+    {
+        "source": "驻马店西",
+        "destination": "漯河西",
+        "type": "G"
+    },
+    {
+        "source": "驻马店西",
+        "destination": "明港东",
+        "type": "G"
+    },
+    {
+        "source": "明港东",
+        "destination": "驻马店西",
+        "type": "G"
+    },
+    {
+        "source": "明港东",
+        "destination": "信阳东",
+        "type": "G"
+    },
+    {
+        "source": "信阳东",
+        "destination": "明港东",
+        "type": "G"
+    },
+    {
+        "source": "信阳东",
+        "destination": "孝感北",
+        "type": "G"
+    },
+    {
+        "source": "孝感北",
+        "destination": "信阳东",
+        "type": "G"
+    },
+    {
+        "source": "孝感北",
+        "destination": "武汉",
+        "type": "G"
+    },
+    {
+        "source": "武汉",
+        "destination": "孝感北",
+        "type": "G"
+    },
+    {
+        "source": "武汉",
+        "destination": "咸宁北",
+        "type": "G"
+    },
+    {
+        "source": "咸宁北",
+        "destination": "武汉",
+        "type": "G"
+    },
+    {
+        "source": "咸宁北",
+        "destination": "赤壁北",
+        "type": "G"
+    },
+    {
+        "source": "赤壁北",
+        "destination": "咸宁北",
+        "type": "G"
+    },
+    {
+        "source": "赤壁北",
+        "destination": "岳阳东",
+        "type": "G"
+    },
+    {
+        "source": "岳阳东",
+        "destination": "赤壁北",
+        "type": "G"
+    },
+    {
+        "source": "岳阳东",
+        "destination": "汨罗东",
+        "type": "G"
+    },
+    {
+        "source": "汨罗东",
+        "destination": "岳阳东",
+        "type": "G"
+    },
+    {
+        "source": "汨罗东",
+        "destination": "长沙南",
+        "type": "G"
+    },
+    {
+        "source": "长沙南",
+        "destination": "汨罗东",
+        "type": "G"
+    },
+    {
+        "source": "长沙南",
+        "destination": "株洲西",
+        "type": "G"
+    },
+    {
+        "source": "株洲西",
+        "destination": "长沙南",
+        "type": "G"
+    },
+    {
+        "source": "株洲西",
+        "destination": "衡山西",
+        "type": "G"
+    },
+    {
+        "source": "衡山西",
+        "destination": "株洲西",
+        "type": "G"
+    },
+    {
+        "source": "衡山西",
+        "destination": "衡阳东",
+        "type": "G"
+    },
+    {
+        "source": "衡阳东",
+        "destination": "衡山西",
+        "type": "G"
+    },
+    {
+        "source": "衡阳东",
+        "destination": "耒阳西",
+        "type": "G"
+    },
+    {
+        "source": "耒阳西",
+        "destination": "衡阳东",
+        "type": "G"
+    },
+    {
+        "source": "耒阳西",
+        "destination": "郴州西",
+        "type": "G"
+    },
+    {
+        "source": "郴州西",
+        "destination": "耒阳西",
+        "type": "G"
+    },
+    {
+        "source": "郴州西",
+        "destination": "乐昌东",
+        "type": "G"
+    },
+    {
+        "source": "乐昌东",
+        "destination": "郴州西",
+        "type": "G"
+    },
+    {
+        "source": "乐昌东",
+        "destination": "韶关",
+        "type": "G"
+    },
+    {
+        "source": "韶关",
+        "destination": "乐昌东",
+        "type": "G"
+    },
+    {
+        "source": "韶关",
+        "destination": "英德西",
+        "type": "G"
+    },
+    {
+        "source": "英德西",
+        "destination": "韶关",
+        "type": "G"
+    },
+    {
+        "source": "英德西",
+        "destination": "清远",
+        "type": "G"
+    },
+    {
+        "source": "清远",
+        "destination": "英德西",
+        "type": "G"
+    },
+    {
+        "source": "清远",
+        "destination": "广州北",
+        "type": "G"
+    },
+    {
+        "source": "广州北",
+        "destination": "清远",
+        "type": "G"
+    },
+    {
+        "source": "广州北",
+        "destination": "广州南",
+        "type": "G"
+    },
+    {
+        "source": "广州南",
+        "destination": "广州北",
+        "type": "G"
+    },
+    {
+        "source": "广州南",
+        "destination": "碧江",
+        "type": "G"
+    },
+    {
+        "source": "广州南",
+        "destination": "庆盛",
+        "type": "G"
+    },
+    {
+        "source": "张家口",
+        "destination": "孔家庄",
+        "type": "K"
+    },
+    {
+        "source": "张家口",
+        "destination": "张家口南",
+        "type": "K"
+    },
+    {
+        "source": "贵阳东",
+        "destination": "贵阳北",
+        "type": "G"
+    },
+    {
+        "source": "贵阳东",
+        "destination": "白云北",
+        "type": "G"
+    },
+    {
+        "source": "贵阳北",
+        "destination": "贵阳东",
+        "type": "G"
+    },
+    {
+        "source": "昆明南",
+        "destination": "昆明东",
+        "type": "K"
+    },
+    {
+        "source": "青岛北",
+        "destination": "红岛",
+        "type": "G"
+    },
+    {
+        "source": "青岛北",
+        "destination": "娄山",
+        "type": "K"
+    },
+    {
+        "source": "红岛",
+        "destination": "青岛北",
+        "type": "G"
+    },
+    {
+        "source": "红岛",
+        "destination": "青岛机场",
+        "type": "G"
+    },
+    {
+        "source": "青岛机场",
+        "destination": "红岛",
+        "type": "G"
+    },
+    {
+        "source": "青岛机场",
+        "destination": "胶州北",
+        "type": "G"
+    },
+    {
+        "source": "胶州北",
+        "destination": "青岛机场",
+        "type": "G"
+    },
+    {
+        "source": "胶州北",
+        "destination": "高密北",
+        "type": "G"
+    },
+    {
+        "source": "高密北",
+        "destination": "胶州北",
+        "type": "G"
+    },
+    {
+        "source": "高密北",
+        "destination": "潍坊北",
+        "type": "G"
+    },
+    {
+        "source": "潍坊北",
+        "destination": "高密北",
+        "type": "G"
+    },
+    {
+        "source": "潍坊北",
+        "destination": "青州市北",
+        "type": "G"
+    },
+    {
+        "source": "青州市北",
+        "destination": "潍坊北",
+        "type": "G"
+    },
+    {
+        "source": "青州市北",
+        "destination": "临淄北",
+        "type": "G"
+    },
+    {
+        "source": "临淄北",
+        "destination": "青州市北",
+        "type": "G"
+    },
+    {
+        "source": "临淄北",
+        "destination": "邹平",
+        "type": "G"
+    },
+    {
+        "source": "邹平",
+        "destination": "临淄北",
+        "type": "G"
+    },
+    {
+        "source": "邹平",
+        "destination": "章丘北",
+        "type": "G"
+    },
+    {
+        "source": "章丘北",
+        "destination": "邹平",
+        "type": "G"
+    },
+    {
+        "source": "章丘北",
+        "destination": "济南东",
+        "type": "G"
+    },
+    {
+        "source": "济南东",
+        "destination": "章丘北",
+        "type": "G"
+    },
+    {
+        "source": "济南东",
+        "destination": "大明湖",
+        "type": "K"
+    },
+    {
+        "source": "石家庄西",
+        "destination": "石家庄",
+        "type": "G"
+    },
+    {
+        "source": "石家庄西",
+        "destination": "井陉北",
+        "type": "G"
+    },
+    {
+        "source": "井陉北",
+        "destination": "石家庄西",
+        "type": "G"
+    },
+    {
+        "source": "井陉北",
+        "destination": "阳泉北",
+        "type": "G"
+    },
+    {
+        "source": "阳泉北",
+        "destination": "井陉北",
+        "type": "G"
+    },
+    {
+        "source": "阳泉北",
+        "destination": "东凌井",
+        "type": "G"
+    },
+    {
+        "source": "东凌井",
+        "destination": "阳泉北",
+        "type": "G"
+    },
+    {
+        "source": "东凌井",
+        "destination": "太原东",
+        "type": "G"
+    },
+    {
+        "source": "太原东",
+        "destination": "东凌井",
+        "type": "G"
+    },
+    {
+        "source": "太原东",
+        "destination": "太原",
+        "type": "G"
+    },
+    {
+        "source": "太原",
+        "destination": "太原东",
+        "type": "G"
+    },
+    {
+        "source": "太原",
+        "destination": "太原南",
+        "type": "G"
+    },
+    {
+        "source": "太原南",
+        "destination": "太原",
+        "type": "G"
+    },
+    {
+        "source": "太原南",
+        "destination": "阳曲西",
+        "type": "G"
+    },
+    {
+        "source": "大明湖",
+        "destination": "济南东",
+        "type": "K"
+    },
+    {
+        "source": "大明湖",
+        "destination": "济南",
+        "type": "K"
+    },
+    {
+        "source": "大明湖",
+        "destination": "黄台",
+        "type": "K"
+    },
+    {
+        "source": "章丘",
+        "destination": "权庄",
+        "type": "K"
+    },
+    {
+        "source": "章丘",
+        "destination": "周村",
+        "type": "K"
+    },
+    {
+        "source": "淄博",
+        "destination": "马尚",
+        "type": "K"
+    },
+    {
+        "source": "淄博",
+        "destination": "湖田",
+        "type": "K"
+    },
+    {
+        "source": "昌乐",
+        "destination": "谭家坊",
+        "type": "K"
+    },
+    {
+        "source": "昌乐",
+        "destination": "潍坊",
+        "type": "K"
+    },
+    {
+        "source": "潍坊",
+        "destination": "昌乐",
+        "type": "K"
+    },
+    {
+        "source": "潍坊",
+        "destination": "潍坊东",
+        "type": "K"
+    },
+    {
+        "source": "高密",
+        "destination": "峡山",
+        "type": "K"
+    },
+    {
+        "source": "高密",
+        "destination": "姚哥庄",
+        "type": "K"
+    },
+    {
+        "source": "城阳",
+        "destination": "即墨",
+        "type": "K"
+    },
+    {
+        "source": "城阳",
+        "destination": "娄山",
+        "type": "K"
+    },
+    {
+        "source": "大同南",
+        "destination": "怀仁东",
+        "type": "G"
+    },
+    {
+        "source": "怀仁东",
+        "destination": "大同南",
+        "type": "G"
+    },
+    {
+        "source": "怀仁东",
+        "destination": "应县西",
+        "type": "G"
+    },
+    {
+        "source": "应县西",
+        "destination": "怀仁东",
+        "type": "G"
+    },
+    {
+        "source": "应县西",
+        "destination": "山阴南",
+        "type": "G"
+    },
+    {
+        "source": "山阴南",
+        "destination": "应县西",
+        "type": "G"
+    },
+    {
+        "source": "山阴南",
+        "destination": "朔州东",
+        "type": "G"
+    },
+    {
+        "source": "朔州东",
+        "destination": "山阴南",
+        "type": "G"
+    },
+    {
+        "source": "朔州东",
+        "destination": "代县西",
+        "type": "G"
+    },
+    {
+        "source": "代县西",
+        "destination": "朔州东",
+        "type": "G"
+    },
+    {
+        "source": "代县西",
+        "destination": "原平西",
+        "type": "G"
+    },
+    {
+        "source": "原平西",
+        "destination": "代县西",
+        "type": "G"
+    },
+    {
+        "source": "原平西",
+        "destination": "忻州西",
+        "type": "G"
+    },
+    {
+        "source": "忻州西",
+        "destination": "原平西",
+        "type": "G"
+    },
+    {
+        "source": "忻州西",
+        "destination": "阳曲西",
+        "type": "G"
+    },
+    {
+        "source": "阳曲西",
+        "destination": "太原南",
+        "type": "G"
+    },
+    {
+        "source": "阳曲西",
+        "destination": "忻州西",
+        "type": "G"
+    },
+    {
+        "source": "成都东",
+        "destination": "成都南",
+        "type": "G"
+    },
+    {
+        "source": "成都南",
+        "destination": "成都东",
+        "type": "G"
+    },
+    {
+        "source": "成都南",
+        "destination": "双流机场",
+        "type": "G"
+    },
+    {
+        "source": "双流机场",
+        "destination": "成都南",
+        "type": "G"
+    },
+    {
+        "source": "双流机场",
+        "destination": "双流西",
+        "type": "G"
+    },
+    {
+        "source": "双流西",
+        "destination": "双流机场",
+        "type": "G"
+    },
+    {
+        "source": "双流西",
+        "destination": "新津",
+        "type": "G"
+    },
+    {
+        "source": "新津",
+        "destination": "双流西",
+        "type": "G"
+    },
+    {
+        "source": "新津",
+        "destination": "新津南",
+        "type": "G"
+    },
+    {
+        "source": "新津南",
+        "destination": "新津",
+        "type": "G"
+    },
+    {
+        "source": "新津南",
+        "destination": "彭山北",
+        "type": "G"
+    },
+    {
+        "source": "彭山北",
+        "destination": "新津南",
+        "type": "G"
+    },
+    {
+        "source": "彭山北",
+        "destination": "眉山东",
+        "type": "G"
+    },
+    {
+        "source": "眉山东",
+        "destination": "彭山北",
+        "type": "G"
+    },
+    {
+        "source": "眉山东",
+        "destination": "青神",
+        "type": "G"
+    },
+    {
+        "source": "青神",
+        "destination": "眉山东",
+        "type": "G"
+    },
+    {
+        "source": "青神",
+        "destination": "乐山",
+        "type": "G"
+    },
+    {
+        "source": "乐山",
+        "destination": "青神",
+        "type": "G"
+    },
+    {
+        "source": "乐山",
+        "destination": "犍为",
+        "type": "G"
+    },
+    {
+        "source": "犍为",
+        "destination": "乐山",
+        "type": "G"
+    },
+    {
+        "source": "犍为",
+        "destination": "泥溪",
+        "type": "G"
+    },
+    {
+        "source": "泥溪",
+        "destination": "犍为",
+        "type": "G"
+    },
+    {
+        "source": "泥溪",
+        "destination": "屏山",
+        "type": "G"
+    },
+    {
+        "source": "屏山",
+        "destination": "泥溪",
+        "type": "G"
+    },
+    {
+        "source": "屏山",
+        "destination": "宜宾西",
+        "type": "G"
+    },
+    {
+        "source": "宜宾西",
+        "destination": "屏山",
+        "type": "G"
+    },
+    {
+        "source": "宜宾西",
+        "destination": "长宁",
+        "type": "G"
+    },
+    {
+        "source": "长宁",
+        "destination": "宜宾西",
+        "type": "G"
+    },
+    {
+        "source": "长宁",
+        "destination": "兴文",
+        "type": "G"
+    },
+    {
+        "source": "兴文",
+        "destination": "长宁",
+        "type": "G"
+    },
+    {
+        "source": "兴文",
+        "destination": "威信",
+        "type": "G"
+    },
+    {
+        "source": "威信",
+        "destination": "兴文",
+        "type": "G"
+    },
+    {
+        "source": "威信",
+        "destination": "镇雄",
+        "type": "G"
+    },
+    {
+        "source": "镇雄",
+        "destination": "威信",
+        "type": "G"
+    },
+    {
+        "source": "镇雄",
+        "destination": "毕节",
+        "type": "G"
+    },
+    {
+        "source": "毕节",
+        "destination": "镇雄",
+        "type": "G"
+    },
+    {
+        "source": "毕节",
+        "destination": "大方",
+        "type": "G"
+    },
+    {
+        "source": "大方",
+        "destination": "毕节",
+        "type": "G"
+    },
+    {
+        "source": "大方",
+        "destination": "黔西",
+        "type": "G"
+    },
+    {
+        "source": "黔西",
+        "destination": "大方",
+        "type": "G"
+    },
+    {
+        "source": "黔西",
+        "destination": "清镇西",
+        "type": "G"
+    },
+    {
+        "source": "清镇西",
+        "destination": "黔西",
+        "type": "G"
+    },
+    {
+        "source": "清镇西",
+        "destination": "白云北",
+        "type": "G"
+    },
+    {
+        "source": "白云北",
+        "destination": "贵阳东",
+        "type": "G"
+    },
+    {
+        "source": "白云北",
+        "destination": "清镇西",
+        "type": "G"
+    },
+    {
+        "source": "郑州",
+        "destination": "五里堡",
+        "type": "K"
+    },
+    {
+        "source": "郑州",
+        "destination": "海棠寺",
+        "type": "K"
+    },
+    {
+        "source": "海棠寺",
+        "destination": "郑州",
+        "type": "K"
+    },
+    {
+        "source": "海棠寺",
+        "destination": "广武",
+        "type": "K"
+    },
+    {
+        "source": "亦庄",
+        "destination": "北京南",
+        "type": "G"
+    },
+    {
+        "source": "亦庄",
+        "destination": "武清",
+        "type": "G"
+    },
+    {
+        "source": "武清",
+        "destination": "亦庄",
+        "type": "G"
+    },
+    {
+        "source": "武清",
+        "destination": "天津",
+        "type": "G"
+    },
+    {
+        "source": "天津",
+        "destination": "武清",
+        "type": "G"
+    },
+    {
+        "source": "天津",
+        "destination": "天津西",
+        "type": "G"
+    },
+    {
+        "source": "天津西",
+        "destination": "天津",
+        "type": "G"
+    },
+    {
+        "source": "庆盛",
+        "destination": "广州南",
+        "type": "G"
+    },
+    {
+        "source": "庆盛",
+        "destination": "虎门",
+        "type": "G"
+    },
+    {
+        "source": "虎门",
+        "destination": "庆盛",
+        "type": "G"
+    },
+    {
+        "source": "虎门",
+        "destination": "光明城",
+        "type": "G"
+    },
+    {
+        "source": "光明城",
+        "destination": "虎门",
+        "type": "G"
+    },
+    {
+        "source": "光明城",
+        "destination": "深圳北",
+        "type": "G"
+    },
+    {
+        "source": "深圳北",
+        "destination": "光明城",
+        "type": "G"
+    },
+    {
+        "source": "深圳北",
+        "destination": "深圳坪山",
+        "type": "G"
+    },
+    {
+        "source": "碧江",
+        "destination": "广州南",
+        "type": "G"
+    },
+    {
+        "source": "碧江",
+        "destination": "北滘",
+        "type": "G"
+    },
+    {
+        "source": "北滘",
+        "destination": "碧江",
+        "type": "G"
+    },
+    {
+        "source": "北滘",
+        "destination": "顺德",
+        "type": "G"
+    },
+    {
+        "source": "顺德",
+        "destination": "北滘",
+        "type": "G"
+    },
+    {
+        "source": "顺德",
+        "destination": "顺德学院",
+        "type": "G"
+    },
+    {
+        "source": "顺德学院",
+        "destination": "顺德",
+        "type": "G"
+    },
+    {
+        "source": "顺德学院",
+        "destination": "容桂",
+        "type": "G"
+    },
+    {
+        "source": "容桂",
+        "destination": "顺德学院",
+        "type": "G"
+    },
+    {
+        "source": "容桂",
+        "destination": "南头",
+        "type": "G"
+    },
+    {
+        "source": "南头",
+        "destination": "容桂",
+        "type": "G"
+    },
+    {
+        "source": "南头",
+        "destination": "小榄",
+        "type": "G"
+    },
+    {
+        "source": "小榄",
+        "destination": "南头",
+        "type": "G"
+    },
+    {
+        "source": "小榄",
+        "destination": "古镇",
+        "type": "G"
+    },
+    {
+        "source": "潮汕",
+        "destination": "龙湖",
+        "type": "G"
+    },
+    {
+        "source": "潮汕",
+        "destination": "潮阳",
+        "type": "G"
+    },
+    {
+        "source": "潮阳",
+        "destination": "潮汕",
+        "type": "G"
+    },
+    {
+        "source": "潮阳",
+        "destination": "普宁",
+        "type": "G"
+    },
+    {
+        "source": "普宁",
+        "destination": "潮阳",
+        "type": "G"
+    },
+    {
+        "source": "普宁",
+        "destination": "葵潭",
+        "type": "G"
+    },
+    {
+        "source": "葵潭",
+        "destination": "普宁",
+        "type": "G"
+    },
+    {
+        "source": "葵潭",
+        "destination": "陆丰",
+        "type": "G"
+    },
+    {
+        "source": "陆丰",
+        "destination": "葵潭",
+        "type": "G"
+    },
+    {
+        "source": "陆丰",
+        "destination": "汕尾",
+        "type": "G"
+    },
+    {
+        "source": "汕尾",
+        "destination": "陆丰",
+        "type": "G"
+    },
+    {
+        "source": "汕尾",
+        "destination": "鲘门",
+        "type": "G"
+    },
+    {
+        "source": "鲘门",
+        "destination": "汕尾",
+        "type": "G"
+    },
+    {
+        "source": "鲘门",
+        "destination": "惠东",
+        "type": "G"
+    },
+    {
+        "source": "惠州南",
+        "destination": "惠东",
+        "type": "G"
+    },
+    {
+        "source": "惠州南",
+        "destination": "深圳坪山",
+        "type": "G"
+    },
+    {
+        "source": "深圳坪山",
+        "destination": "深圳北",
+        "type": "G"
+    },
+    {
+        "source": "深圳坪山",
+        "destination": "惠州南",
+        "type": "G"
+    },
+    {
+        "source": "北京",
+        "destination": "北京南",
+        "type": "K"
+    },
+    {
+        "source": "北京",
+        "destination": "北京东",
+        "type": "K"
+    },
+    {
+        "source": "北京丰台",
+        "destination": "北京南",
+        "type": "K"
+    },
+    {
+        "source": "良乡",
+        "destination": "北京西",
+        "type": "K"
+    },
+    {
+        "source": "良乡",
+        "destination": "窦店",
+        "type": "K"
+    },
+    {
+        "source": "窦店",
+        "destination": "良乡",
+        "type": "K"
+    },
+    {
+        "source": "窦店",
+        "destination": "琉璃河",
+        "type": "K"
+    },
+    {
+        "source": "琉璃河",
+        "destination": "窦店",
+        "type": "K"
+    },
+    {
+        "source": "琉璃河",
+        "destination": "琉璃河南",
+        "type": "K"
+    },
+    {
+        "source": "琉璃河南",
+        "destination": "涿州",
+        "type": "K"
+    },
+    {
+        "source": "琉璃河南",
+        "destination": "琉璃河",
+        "type": "K"
+    },
+    {
+        "source": "高碑店",
+        "destination": "涿州",
+        "type": "K"
+    },
+    {
+        "source": "高碑店",
+        "destination": "徐水",
+        "type": "K"
+    },
+    {
+        "source": "徐水",
+        "destination": "高碑店",
+        "type": "K"
+    },
+    {
+        "source": "徐水",
+        "destination": "保定",
+        "type": "K"
+    },
+    {
+        "source": "保定",
+        "destination": "徐水",
+        "type": "K"
+    },
+    {
+        "source": "保定",
+        "destination": "保定南",
+        "type": "K"
+    },
+    {
+        "source": "保定南",
+        "destination": "保定",
+        "type": "K"
+    },
+    {
+        "source": "保定南",
+        "destination": "于家庄",
+        "type": "K"
+    },
+    {
+        "source": "于家庄",
+        "destination": "保定南",
+        "type": "K"
+    },
+    {
+        "source": "于家庄",
+        "destination": "完县",
+        "type": "K"
+    },
+    {
+        "source": "完县",
+        "destination": "于家庄",
+        "type": "K"
+    },
+    {
+        "source": "完县",
+        "destination": "望都",
+        "type": "K"
+    },
+    {
+        "source": "望都",
+        "destination": "完县",
+        "type": "K"
+    },
+    {
+        "source": "望都",
+        "destination": "清风店",
+        "type": "K"
+    },
+    {
+        "source": "清风店",
+        "destination": "望都",
+        "type": "K"
+    },
+    {
+        "source": "清风店",
+        "destination": "定州",
+        "type": "K"
+    },
+    {
+        "source": "定州",
+        "destination": "清风店",
+        "type": "K"
+    },
+    {
+        "source": "定州",
+        "destination": "寨西店",
+        "type": "K"
+    },
+    {
+        "source": "寨西店",
+        "destination": "定州",
+        "type": "K"
+    },
+    {
+        "source": "寨西店",
+        "destination": "新乐",
+        "type": "K"
+    },
+    {
+        "source": "新乐",
+        "destination": "寨西店",
+        "type": "K"
+    },
+    {
+        "source": "新乐",
+        "destination": "正定",
+        "type": "K"
+    },
+    {
+        "source": "正定",
+        "destination": "石家庄",
+        "type": "K"
+    },
+    {
+        "source": "正定",
+        "destination": "新乐",
+        "type": "K"
+    },
+    {
+        "source": "元氏",
+        "destination": "石家庄",
+        "type": "K"
+    },
+    {
+        "source": "元氏",
+        "destination": "高邑",
+        "type": "K"
+    },
+    {
+        "source": "高邑",
+        "destination": "元氏",
+        "type": "K"
+    },
+    {
+        "source": "高邑",
+        "destination": "内邱",
+        "type": "K"
+    },
+    {
+        "source": "内邱",
+        "destination": "高邑",
+        "type": "K"
+    },
+    {
+        "source": "内邱",
+        "destination": "官庄",
+        "type": "K"
+    },
+    {
+        "source": "官庄",
+        "destination": "内邱",
+        "type": "K"
+    },
+    {
+        "source": "官庄",
+        "destination": "邢台",
+        "type": "K"
+    },
+    {
+        "source": "邢台",
+        "destination": "官庄",
+        "type": "K"
+    },
+    {
+        "source": "邢台",
+        "destination": "小康庄",
+        "type": "K"
+    },
+    {
+        "source": "小康庄",
+        "destination": "邢台",
+        "type": "K"
+    },
+    {
+        "source": "小康庄",
+        "destination": "沙河市",
+        "type": "K"
+    },
+    {
+        "source": "沙河市",
+        "destination": "小康庄",
+        "type": "K"
+    },
+    {
+        "source": "沙河市",
+        "destination": "临洺关",
+        "type": "K"
+    },
+    {
+        "source": "临洺关",
+        "destination": "沙河市",
+        "type": "K"
+    },
+    {
+        "source": "临洺关",
+        "destination": "邯郸",
+        "type": "K"
+    },
+    {
+        "source": "邯郸",
+        "destination": "临洺关",
+        "type": "K"
+    },
+    {
+        "source": "邯郸",
+        "destination": "邯郸南",
+        "type": "K"
+    },
+    {
+        "source": "邯郸",
+        "destination": "河沙镇",
+        "type": "K"
+    },
+    {
+        "source": "邯郸南",
+        "destination": "邯郸",
+        "type": "K"
+    },
+    {
+        "source": "邯郸南",
+        "destination": "马头",
+        "type": "K"
+    },
+    {
+        "source": "马头",
+        "destination": "邯郸南",
+        "type": "K"
+    },
+    {
+        "source": "马头",
+        "destination": "磁县",
+        "type": "K"
+    },
+    {
+        "source": "磁县",
+        "destination": "马头",
+        "type": "K"
+    },
+    {
+        "source": "磁县",
+        "destination": "安阳",
+        "type": "K"
+    },
+    {
+        "source": "安阳",
+        "destination": "磁县",
+        "type": "K"
+    },
+    {
+        "source": "安阳",
+        "destination": "汤阴",
+        "type": "K"
+    },
+    {
+        "source": "汤阴",
+        "destination": "安阳",
+        "type": "K"
+    },
+    {
+        "source": "汤阴",
+        "destination": "鹤壁",
+        "type": "K"
+    },
+    {
+        "source": "鹤壁",
+        "destination": "汤阴",
+        "type": "K"
+    },
+    {
+        "source": "鹤壁",
+        "destination": "淇县",
+        "type": "K"
+    },
+    {
+        "source": "淇县",
+        "destination": "鹤壁",
+        "type": "K"
+    },
+    {
+        "source": "淇县",
+        "destination": "卫辉",
+        "type": "K"
+    },
+    {
+        "source": "卫辉",
+        "destination": "淇县",
+        "type": "K"
+    },
+    {
+        "source": "卫辉",
+        "destination": "新乡北",
+        "type": "K"
+    },
+    {
+        "source": "新乡北",
+        "destination": "卫辉",
+        "type": "K"
+    },
+    {
+        "source": "新乡北",
+        "destination": "新乡",
+        "type": "K"
+    },
+    {
+        "source": "新乡",
+        "destination": "新乡北",
+        "type": "K"
+    },
+    {
+        "source": "新乡",
+        "destination": "七里营",
+        "type": "K"
+    },
+    {
+        "source": "七里营",
+        "destination": "新乡",
+        "type": "K"
+    },
+    {
+        "source": "七里营",
+        "destination": "焦作东",
+        "type": "K"
+    },
+    {
+        "source": "焦作东",
+        "destination": "七里营",
+        "type": "K"
+    },
+    {
+        "source": "焦作东",
+        "destination": "广武",
+        "type": "K"
+    },
+    {
+        "source": "广武",
+        "destination": "海棠寺",
+        "type": "K"
+    },
+    {
+        "source": "广武",
+        "destination": "焦作东",
+        "type": "K"
+    },
+    {
+        "source": "五里堡",
+        "destination": "郑州",
+        "type": "K"
+    },
+    {
+        "source": "五里堡",
+        "destination": "新郑",
+        "type": "K"
+    },
+    {
+        "source": "新郑",
+        "destination": "五里堡",
+        "type": "K"
+    },
+    {
+        "source": "新郑",
+        "destination": "官亭",
+        "type": "K"
+    },
+    {
+        "source": "官亭",
+        "destination": "新郑",
+        "type": "K"
+    },
+    {
+        "source": "官亭",
+        "destination": "长葛",
+        "type": "K"
+    },
+    {
+        "source": "长葛",
+        "destination": "官亭",
+        "type": "K"
+    },
+    {
+        "source": "长葛",
+        "destination": "许昌",
+        "type": "K"
+    },
+    {
+        "source": "许昌",
+        "destination": "长葛",
+        "type": "K"
+    },
+    {
+        "source": "许昌",
+        "destination": "小商桥",
+        "type": "K"
+    },
+    {
+        "source": "小商桥",
+        "destination": "许昌",
+        "type": "K"
+    },
+    {
+        "source": "小商桥",
+        "destination": "孟庙",
+        "type": "K"
+    },
+    {
+        "source": "孟庙",
+        "destination": "小商桥",
+        "type": "K"
+    },
+    {
+        "source": "孟庙",
+        "destination": "漯河",
+        "type": "K"
+    },
+    {
+        "source": "漯河",
+        "destination": "孟庙",
+        "type": "K"
+    },
+    {
+        "source": "漯河",
+        "destination": "西平",
+        "type": "K"
+    },
+    {
+        "source": "西平",
+        "destination": "漯河",
+        "type": "K"
+    },
+    {
+        "source": "西平",
+        "destination": "遂平",
+        "type": "K"
+    },
+    {
+        "source": "遂平",
+        "destination": "西平",
+        "type": "K"
+    },
+    {
+        "source": "遂平",
+        "destination": "驻马店",
+        "type": "K"
+    },
+    {
+        "source": "驻马店",
+        "destination": "遂平",
+        "type": "K"
+    },
+    {
+        "source": "驻马店",
+        "destination": "确山",
+        "type": "K"
+    },
+    {
+        "source": "确山",
+        "destination": "驻马店",
+        "type": "K"
+    },
+    {
+        "source": "确山",
+        "destination": "明港",
+        "type": "K"
+    },
+    {
+        "source": "明港",
+        "destination": "确山",
+        "type": "K"
+    },
+    {
+        "source": "明港",
+        "destination": "信阳",
+        "type": "K"
+    },
+    {
+        "source": "信阳",
+        "destination": "明港",
+        "type": "K"
+    },
+    {
+        "source": "信阳",
+        "destination": "广水",
+        "type": "K"
+    },
+    {
+        "source": "广水",
+        "destination": "信阳",
+        "type": "K"
+    },
+    {
+        "source": "广水",
+        "destination": "杨寨",
+        "type": "K"
+    },
+    {
+        "source": "杨寨",
+        "destination": "广水",
+        "type": "K"
+    },
+    {
+        "source": "杨寨",
+        "destination": "花园",
+        "type": "K"
+    },
+    {
+        "source": "花园",
+        "destination": "杨寨",
+        "type": "K"
+    },
+    {
+        "source": "花园",
+        "destination": "孝感",
+        "type": "K"
+    },
+    {
+        "source": "孝感",
+        "destination": "花园",
+        "type": "K"
+    },
+    {
+        "source": "孝感",
+        "destination": "横店",
+        "type": "K"
+    },
+    {
+        "source": "横店",
+        "destination": "孝感",
+        "type": "K"
+    },
+    {
+        "source": "横店",
+        "destination": "丹水池",
+        "type": "K"
+    },
+    {
+        "source": "丹水池",
+        "destination": "横店",
+        "type": "K"
+    },
+    {
+        "source": "丹水池",
+        "destination": "汉口",
+        "type": "K"
+    },
+    {
+        "source": "汉口",
+        "destination": "丹水池",
+        "type": "K"
+    },
+    {
+        "source": "汉口",
+        "destination": "汉西",
+        "type": "K"
+    },
+    {
+        "source": "汉西",
+        "destination": "汉口",
+        "type": "K"
+    },
+    {
+        "source": "汉西",
+        "destination": "汉阳",
+        "type": "K"
+    },
+    {
+        "source": "汉阳",
+        "destination": "汉西",
+        "type": "K"
+    },
+    {
+        "source": "汉阳",
+        "destination": "武昌",
+        "type": "K"
+    },
+    {
+        "source": "武昌",
+        "destination": "汉阳",
+        "type": "K"
+    },
+    {
+        "source": "北京东",
+        "destination": "北京",
+        "type": "K"
+    },
+    {
+        "source": "北京东",
+        "destination": "双桥",
+        "type": "K"
+    },
+    {
+        "source": "双桥",
+        "destination": "北京东",
+        "type": "K"
+    },
+    {
+        "source": "双桥",
+        "destination": "通州西",
+        "type": "K"
+    },
+    {
+        "source": "石景山南",
+        "destination": "三家店",
+        "type": "K"
+    },
+    {
+        "source": "石景山南",
+        "destination": "丰台",
+        "type": "K"
+    },
+    {
+        "source": "沙城",
+        "destination": "新保安",
+        "type": "K"
+    },
+    {
+        "source": "沙城",
+        "destination": "沿河城西",
+        "type": "K"
+    },
+    {
+        "source": "新保安",
+        "destination": "沙城",
+        "type": "K"
+    },
+    {
+        "source": "新保安",
+        "destination": "西八里",
+        "type": "K"
+    },
+    {
+        "source": "西八里",
+        "destination": "新保安",
+        "type": "K"
+    },
+    {
+        "source": "西八里",
+        "destination": "下花园",
+        "type": "K"
+    },
+    {
+        "source": "下花园",
+        "destination": "西八里",
+        "type": "K"
+    },
+    {
+        "source": "下花园",
+        "destination": "辛庄子",
+        "type": "K"
+    },
+    {
+        "source": "辛庄子",
+        "destination": "下花园",
+        "type": "K"
+    },
+    {
+        "source": "辛庄子",
+        "destination": "宣化",
+        "type": "K"
+    },
+    {
+        "source": "宣化",
+        "destination": "辛庄子",
+        "type": "K"
+    },
+    {
+        "source": "宣化",
+        "destination": "沙岭子",
+        "type": "K"
+    },
+    {
+        "source": "沙岭子",
+        "destination": "宣化",
+        "type": "K"
+    },
+    {
+        "source": "沙岭子",
+        "destination": "张家口南",
+        "type": "K"
+    },
+    {
+        "source": "张家口南",
+        "destination": "张家口",
+        "type": "K"
+    },
+    {
+        "source": "张家口南",
+        "destination": "沙岭子",
+        "type": "K"
+    },
+    {
+        "source": "孔家庄",
+        "destination": "张家口",
+        "type": "K"
+    },
+    {
+        "source": "孔家庄",
+        "destination": "郭磊庄",
+        "type": "K"
+    },
+    {
+        "source": "郭磊庄",
+        "destination": "孔家庄",
+        "type": "K"
+    },
+    {
+        "source": "郭磊庄",
+        "destination": "柴沟堡",
+        "type": "K"
+    },
+    {
+        "source": "柴沟堡",
+        "destination": "郭磊庄",
+        "type": "K"
+    },
+    {
+        "source": "柴沟堡",
+        "destination": "西湾堡",
+        "type": "K"
+    },
+    {
+        "source": "西湾堡",
+        "destination": "柴沟堡",
+        "type": "K"
+    },
+    {
+        "source": "西湾堡",
+        "destination": "永嘉堡",
+        "type": "K"
+    },
+    {
+        "source": "永嘉堡",
+        "destination": "西湾堡",
+        "type": "K"
+    },
+    {
+        "source": "永嘉堡",
+        "destination": "阳高",
+        "type": "K"
+    },
+    {
+        "source": "阳高",
+        "destination": "永嘉堡",
+        "type": "K"
+    },
+    {
+        "source": "阳高",
+        "destination": "王官人屯",
+        "type": "K"
+    },
+    {
+        "source": "王官人屯",
+        "destination": "阳高",
+        "type": "K"
+    },
+    {
+        "source": "王官人屯",
+        "destination": "周士庄",
+        "type": "K"
+    },
+    {
+        "source": "周士庄",
+        "destination": "王官人屯",
+        "type": "K"
+    },
+    {
+        "source": "周士庄",
+        "destination": "大同",
+        "type": "K"
+    },
+    {
+        "source": "大同",
+        "destination": "周士庄",
+        "type": "K"
+    },
+    {
+        "source": "通州西",
+        "destination": "双桥",
+        "type": "K"
+    },
+    {
+        "source": "通州西",
+        "destination": "顺义",
+        "type": "K"
+    },
+    {
+        "source": "顺义",
+        "destination": "通州西",
+        "type": "K"
+    },
+    {
+        "source": "顺义",
+        "destination": "怀柔",
+        "type": "K"
+    },
+    {
+        "source": "怀柔",
+        "destination": "顺义",
+        "type": "K"
+    },
+    {
+        "source": "怀柔",
+        "destination": "统军庄",
+        "type": "K"
+    },
+    {
+        "source": "统军庄",
+        "destination": "怀柔",
+        "type": "K"
+    },
+    {
+        "source": "统军庄",
+        "destination": "密云北",
+        "type": "K"
+    },
+    {
+        "source": "密云北",
+        "destination": "统军庄",
+        "type": "K"
+    },
+    {
+        "source": "密云北",
+        "destination": "巨各庄",
+        "type": "K"
+    },
+    {
+        "source": "巨各庄",
+        "destination": "密云北",
+        "type": "K"
+    },
+    {
+        "source": "巨各庄",
+        "destination": "墙子路",
+        "type": "K"
+    },
+    {
+        "source": "墙子路",
+        "destination": "巨各庄",
+        "type": "K"
+    },
+    {
+        "source": "墙子路",
+        "destination": "六道河子",
+        "type": "K"
+    },
+    {
+        "source": "六道河子",
+        "destination": "墙子路",
+        "type": "K"
+    },
+    {
+        "source": "六道河子",
+        "destination": "前苇塘",
+        "type": "K"
+    },
+    {
+        "source": "前苇塘",
+        "destination": "六道河子",
+        "type": "K"
+    },
+    {
+        "source": "前苇塘",
+        "destination": "兴隆县",
+        "type": "K"
+    },
+    {
+        "source": "兴隆县",
+        "destination": "前苇塘",
+        "type": "K"
+    },
+    {
+        "source": "兴隆县",
+        "destination": "北马圈子",
+        "type": "K"
+    },
+    {
+        "source": "北马圈子",
+        "destination": "兴隆县",
+        "type": "K"
+    },
+    {
+        "source": "北马圈子",
+        "destination": "鹰手营子",
+        "type": "K"
+    },
+    {
+        "source": "鹰手营子",
+        "destination": "北马圈子",
+        "type": "K"
+    },
+    {
+        "source": "鹰手营子",
+        "destination": "洞庙河",
+        "type": "K"
+    },
+    {
+        "source": "洞庙河",
+        "destination": "鹰手营子",
+        "type": "K"
+    },
+    {
+        "source": "洞庙河",
+        "destination": "潘家店",
+        "type": "K"
+    },
+    {
+        "source": "潘家店",
+        "destination": "洞庙河",
+        "type": "K"
+    },
+    {
+        "source": "潘家店",
+        "destination": "南湾子",
+        "type": "K"
+    },
+    {
+        "source": "南湾子",
+        "destination": "潘家店",
+        "type": "K"
+    },
+    {
+        "source": "南湾子",
+        "destination": "新杖子",
+        "type": "K"
+    },
+    {
+        "source": "新杖子",
+        "destination": "南湾子",
+        "type": "K"
+    },
+    {
+        "source": "新杖子",
+        "destination": "西大庙",
+        "type": "K"
+    },
+    {
+        "source": "西大庙",
+        "destination": "新杖子",
+        "type": "K"
+    },
+    {
+        "source": "西大庙",
+        "destination": "上板城南",
+        "type": "K"
+    },
+    {
+        "source": "上板城南",
+        "destination": "西大庙",
+        "type": "K"
+    },
+    {
+        "source": "上板城南",
+        "destination": "上板城",
+        "type": "K"
+    },
+    {
+        "source": "上板城",
+        "destination": "上板城南",
+        "type": "K"
+    },
+    {
+        "source": "上板城",
+        "destination": "承德东",
+        "type": "K"
+    },
+    {
+        "source": "承德东",
+        "destination": "上板城",
+        "type": "K"
+    },
+    {
+        "source": "承德东",
+        "destination": "承德",
+        "type": "K"
+    },
+    {
+        "source": "承德",
+        "destination": "承德东",
+        "type": "K"
+    },
+    {
+        "source": "昆明东",
+        "destination": "昆明南",
+        "type": "K"
+    },
+    {
+        "source": "昆明东",
+        "destination": "昆明",
+        "type": "G"
+    },
+    {
+        "source": "昆明",
+        "destination": "昆明东",
+        "type": "G"
+    },
+    {
+        "source": "昆明",
+        "destination": "昆明西",
+        "type": "G"
+    },
+    {
+        "source": "茂名",
+        "destination": "电白",
+        "type": "G"
+    },
+    {
+        "source": "茂名",
+        "destination": "吴川",
+        "type": "G"
+    },
+    {
+        "source": "温泉",
+        "destination": "读书铺",
+        "type": "G"
+    },
+    {
+        "source": "温泉",
+        "destination": "双湄村",
+        "type": "G"
+    },
+    {
+        "source": "读书铺",
+        "destination": "温泉",
+        "type": "G"
+    },
+    {
+        "source": "读书铺",
+        "destination": "昆明西",
+        "type": "G"
+    },
+    {
+        "source": "昆明西",
+        "destination": "昆明",
+        "type": "G"
+    },
+    {
+        "source": "昆明西",
+        "destination": "读书铺",
+        "type": "G"
+    },
+    {
+        "source": "双水镇",
+        "destination": "新会",
+        "type": "G"
+    },
+    {
+        "source": "双水镇",
+        "destination": "台山",
+        "type": "G"
+    },
+    {
+        "source": "台山",
+        "destination": "双水镇",
+        "type": "G"
+    },
+    {
+        "source": "台山",
+        "destination": "开平南",
+        "type": "G"
+    },
+    {
+        "source": "开平南",
+        "destination": "台山",
+        "type": "G"
+    },
+    {
+        "source": "开平南",
+        "destination": "恩平",
+        "type": "G"
+    },
+    {
+        "source": "恩平",
+        "destination": "开平南",
+        "type": "G"
+    },
+    {
+        "source": "恩平",
+        "destination": "阳东",
+        "type": "G"
+    },
+    {
+        "source": "阳东",
+        "destination": "恩平",
+        "type": "G"
+    },
+    {
+        "source": "阳东",
+        "destination": "阳江",
+        "type": "G"
+    },
+    {
+        "source": "阳江",
+        "destination": "阳东",
+        "type": "G"
+    },
+    {
+        "source": "阳江",
+        "destination": "阳西",
+        "type": "G"
+    },
+    {
+        "source": "阳西",
+        "destination": "阳江",
+        "type": "G"
+    },
+    {
+        "source": "阳西",
+        "destination": "马踏",
+        "type": "G"
+    },
+    {
+        "source": "马踏",
+        "destination": "阳西",
+        "type": "G"
+    },
+    {
+        "source": "马踏",
+        "destination": "电白",
+        "type": "G"
+    },
+    {
+        "source": "电白",
+        "destination": "茂名",
+        "type": "G"
+    },
+    {
+        "source": "电白",
+        "destination": "马踏",
+        "type": "G"
+    },
+    {
+        "source": "吴川",
+        "destination": "茂名",
+        "type": "G"
+    },
+    {
+        "source": "吴川",
+        "destination": "湛江西",
+        "type": "G"
+    },
+    {
+        "source": "湛江西",
+        "destination": "吴川",
+        "type": "G"
+    },
+    {
+        "source": "胶州",
+        "destination": "芝兰庄",
+        "type": "K"
+    },
+    {
+        "source": "胶州",
+        "destination": "蓝村西",
+        "type": "K"
+    },
+    {
+        "source": "河沙镇",
+        "destination": "邯郸",
+        "type": "K"
+    },
+    {
+        "source": "河沙镇",
+        "destination": "肥乡",
+        "type": "K"
+    },
+    {
+        "source": "肥乡",
+        "destination": "河沙镇",
+        "type": "K"
+    },
+    {
+        "source": "肥乡",
+        "destination": "广平",
+        "type": "K"
+    },
+    {
+        "source": "广平",
+        "destination": "肥乡",
+        "type": "K"
+    },
+    {
+        "source": "广平",
+        "destination": "大名",
+        "type": "K"
+    },
+    {
+        "source": "大名",
+        "destination": "广平",
+        "type": "K"
+    },
+    {
+        "source": "大名",
+        "destination": "馆陶",
+        "type": "K"
+    },
+    {
+        "source": "馆陶",
+        "destination": "大名",
+        "type": "K"
+    },
+    {
+        "source": "馆陶",
+        "destination": "冠县",
+        "type": "K"
+    },
+    {
+        "source": "冠县",
+        "destination": "馆陶",
+        "type": "K"
+    },
+    {
+        "source": "冠县",
+        "destination": "堂邑",
+        "type": "K"
+    },
+    {
+        "source": "堂邑",
+        "destination": "冠县",
+        "type": "K"
+    },
+    {
+        "source": "堂邑",
+        "destination": "解庄",
+        "type": "K"
+    },
+    {
+        "source": "解庄",
+        "destination": "堂邑",
+        "type": "K"
+    },
+    {
+        "source": "解庄",
+        "destination": "济南",
+        "type": "K"
+    },
+    {
+        "source": "济南",
+        "destination": "大明湖",
+        "type": "K"
+    },
+    {
+        "source": "济南",
+        "destination": "解庄",
+        "type": "K"
+    },
+    {
+        "source": "蓝村",
+        "destination": "蓝村西",
+        "type": "K"
+    },
+    {
+        "source": "蓝村",
+        "destination": "即墨",
+        "type": "K"
+    },
+    {
+        "source": "双湄村",
+        "destination": "温泉",
+        "type": "G"
+    },
+    {
+        "source": "双湄村",
+        "destination": "禄丰南",
+        "type": "G"
+    },
+    {
+        "source": "禄丰南",
+        "destination": "双湄村",
+        "type": "G"
+    },
+    {
+        "source": "禄丰南",
+        "destination": "广通北",
+        "type": "G"
+    },
+    {
+        "source": "楚雄",
+        "destination": "广通北",
+        "type": "G"
+    },
+    {
+        "source": "楚雄",
+        "destination": "南华",
+        "type": "G"
+    },
+    {
+        "source": "南华",
+        "destination": "楚雄",
+        "type": "G"
+    },
+    {
+        "source": "南华",
+        "destination": "普棚",
+        "type": "G"
+    },
+    {
+        "source": "普棚",
+        "destination": "南华",
+        "type": "G"
+    },
+    {
+        "source": "普棚",
+        "destination": "云南驿",
+        "type": "G"
+    },
+    {
+        "source": "云南驿",
+        "destination": "普棚",
+        "type": "G"
+    },
+    {
+        "source": "云南驿",
+        "destination": "祥云",
+        "type": "G"
+    },
+    {
+        "source": "祥云",
+        "destination": "云南驿",
+        "type": "G"
+    },
+    {
+        "source": "祥云",
+        "destination": "大理东",
+        "type": "G"
+    },
+    {
+        "source": "大理东",
+        "destination": "祥云",
+        "type": "G"
+    },
+    {
+        "source": "大理东",
+        "destination": "大理",
+        "type": "G"
+    },
+    {
+        "source": "大理",
+        "destination": "大理东",
+        "type": "G"
+    },
+    {
+        "source": "芝兰庄",
+        "destination": "胶州",
+        "type": "K"
+    },
+    {
+        "source": "芝兰庄",
+        "destination": "姚哥庄",
+        "type": "K"
+    },
+    {
+        "source": "丰台",
+        "destination": "石景山南",
+        "type": "K"
+    },
+    {
+        "source": "三家店",
+        "destination": "石景山南",
+        "type": "K"
+    },
+    {
+        "source": "三家店",
+        "destination": "落坡岭",
+        "type": "K"
+    },
+    {
+        "source": "落坡岭",
+        "destination": "三家店",
+        "type": "K"
+    },
+    {
+        "source": "落坡岭",
+        "destination": "安家庄",
+        "type": "K"
+    },
+    {
+        "source": "安家庄",
+        "destination": "落坡岭",
+        "type": "K"
+    },
+    {
+        "source": "安家庄",
+        "destination": "雁翅",
+        "type": "K"
+    },
+    {
+        "source": "雁翅",
+        "destination": "安家庄",
+        "type": "K"
+    },
+    {
+        "source": "雁翅",
+        "destination": "珠窝东",
+        "type": "K"
+    },
+    {
+        "source": "珠窝东",
+        "destination": "雁翅",
+        "type": "K"
+    },
+    {
+        "source": "珠窝东",
+        "destination": "沿河城西",
+        "type": "K"
+    },
+    {
+        "source": "沿河城西",
+        "destination": "沙城",
+        "type": "K"
+    },
+    {
+        "source": "沿河城西",
+        "destination": "珠窝东",
+        "type": "K"
+    },
+    {
+        "source": "龙湖",
+        "destination": "潮汕",
+        "type": "G"
+    },
+    {
+        "source": "龙湖",
+        "destination": "潮安",
+        "type": "G"
+    },
+    {
+        "source": "潮安",
+        "destination": "龙湖",
+        "type": "G"
+    },
+    {
+        "source": "潮安",
+        "destination": "汕头北",
+        "type": "G"
+    },
+    {
+        "source": "汕头北",
+        "destination": "潮安",
+        "type": "G"
+    },
+    {
+        "source": "汕头北",
+        "destination": "汕头",
+        "type": "G"
+    },
+    {
+        "source": "汕头",
+        "destination": "汕头北",
+        "type": "G"
+    },
+    {
+        "source": "临淄",
+        "destination": "金岭镇",
+        "type": "K"
+    },
+    {
+        "source": "临淄",
+        "destination": "青州市南",
+        "type": "K"
+    },
+    {
+        "source": "权庄",
+        "destination": "章丘",
+        "type": "K"
+    },
+    {
+        "source": "权庄",
+        "destination": "平陵城",
+        "type": "K"
+    },
+    {
+        "source": "古镇",
+        "destination": "小榄",
+        "type": "G"
+    },
+    {
+        "source": "古镇",
+        "destination": "江海",
+        "type": "G"
+    },
+    {
+        "source": "江海",
+        "destination": "古镇",
+        "type": "G"
+    },
+    {
+        "source": "江海",
+        "destination": "外海",
+        "type": "G"
+    },
+    {
+        "source": "外海",
+        "destination": "江海",
+        "type": "G"
+    },
+    {
+        "source": "外海",
+        "destination": "江门东",
+        "type": "G"
+    },
+    {
+        "source": "江门东",
+        "destination": "外海",
+        "type": "G"
+    },
+    {
+        "source": "江门东",
+        "destination": "礼乐",
+        "type": "G"
+    },
+    {
+        "source": "礼乐",
+        "destination": "江门东",
+        "type": "G"
+    },
+    {
+        "source": "礼乐",
+        "destination": "新会",
+        "type": "G"
+    },
+    {
+        "source": "新会",
+        "destination": "双水镇",
+        "type": "G"
+    },
+    {
+        "source": "新会",
+        "destination": "礼乐",
+        "type": "G"
+    },
+    {
+        "source": "青州市南",
+        "destination": "临淄",
+        "type": "K"
+    },
+    {
+        "source": "青州市南",
+        "destination": "草庙",
+        "type": "K"
+    },
+    {
+        "source": "草庙",
+        "destination": "青州市南",
+        "type": "K"
+    },
+    {
+        "source": "草庙",
+        "destination": "张家河",
+        "type": "K"
+    },
+    {
+        "source": "张家河",
+        "destination": "草庙",
+        "type": "K"
+    },
+    {
+        "source": "张家河",
+        "destination": "谭家坊",
+        "type": "K"
+    },
+    {
+        "source": "娄山",
+        "destination": "青岛北",
+        "type": "K"
+    },
+    {
+        "source": "娄山",
+        "destination": "城阳",
+        "type": "K"
+    },
+    {
+        "source": "即墨",
+        "destination": "城阳",
+        "type": "K"
+    },
+    {
+        "source": "即墨",
+        "destination": "蓝村",
+        "type": "K"
+    },
+    {
+        "source": "蓝村西",
+        "destination": "胶州",
+        "type": "K"
+    },
+    {
+        "source": "蓝村西",
+        "destination": "蓝村",
+        "type": "K"
+    },
+    {
+        "source": "姚哥庄",
+        "destination": "高密",
+        "type": "K"
+    },
+    {
+        "source": "姚哥庄",
+        "destination": "芝兰庄",
+        "type": "K"
+    },
+    {
+        "source": "峡山",
+        "destination": "高密",
+        "type": "K"
+    },
+    {
+        "source": "峡山",
+        "destination": "潍坊东",
+        "type": "K"
+    },
+    {
+        "source": "潍坊东",
+        "destination": "潍坊",
+        "type": "K"
+    },
+    {
+        "source": "潍坊东",
+        "destination": "峡山",
+        "type": "K"
+    },
+    {
+        "source": "谭家坊",
+        "destination": "昌乐",
+        "type": "K"
+    },
+    {
+        "source": "谭家坊",
+        "destination": "张家河",
+        "type": "K"
+    },
+    {
+        "source": "金岭镇",
+        "destination": "临淄",
+        "type": "K"
+    },
+    {
+        "source": "金岭镇",
+        "destination": "湖田",
+        "type": "K"
+    },
+    {
+        "source": "湖田",
+        "destination": "淄博",
+        "type": "K"
+    },
+    {
+        "source": "湖田",
+        "destination": "金岭镇",
+        "type": "K"
+    },
+    {
+        "source": "马尚",
+        "destination": "淄博",
+        "type": "K"
+    },
+    {
+        "source": "马尚",
+        "destination": "周村",
+        "type": "K"
+    },
+    {
+        "source": "周村",
+        "destination": "章丘",
+        "type": "K"
+    },
+    {
+        "source": "周村",
+        "destination": "马尚",
+        "type": "K"
+    },
+    {
+        "source": "平陵城",
+        "destination": "权庄",
+        "type": "K"
+    },
+    {
+        "source": "平陵城",
+        "destination": "黄台",
+        "type": "K"
+    },
+    {
+        "source": "黄台",
+        "destination": "大明湖",
+        "type": "K"
+    },
+    {
+        "source": "黄台",
+        "destination": "平陵城",
+        "type": "K"
+    },
+    {
+        "source": "惠东",
+        "destination": "鲘门",
+        "type": "G"
+    },
+    {
+        "source": "惠东",
+        "destination": "惠州南",
+        "type": "G"
+    },
+    {
+        "source": "广通北",
+        "destination": "禄丰南",
+        "type": "G"
+    },
+    {
+        "source": "广通北",
+        "destination": "楚雄",
+        "type": "G"
+    }
+]

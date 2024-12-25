@@ -1,0 +1,115 @@
+{
+    "station_list": [
+        {
+            "arrive_day_str": "当日到达",
+            "station_name": "广州南",
+            "train_class_name": "动车",
+            "is_start": "Y",
+            "service_type": "2",
+            "end_station_name": "珠海",
+            "arrive_time": "----",
+            "start_station_name": "广州南",
+            "station_train_code": "C7699",
+            "arrive_day_diff": "0",
+            "start_time": "20:10",
+            "station_no": "01",
+            "wz_num": "--",
+            "running_time": "00:00"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "20:18",
+            "station_train_code": "C7699",
+            "station_name": "顺德",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "20:20",
+            "wz_num": "--",
+            "station_no": "02",
+            "running_time": "00:08"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "20:29",
+            "station_train_code": "C7699",
+            "station_name": "容桂",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "20:31",
+            "wz_num": "--",
+            "station_no": "03",
+            "running_time": "00:19"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "20:38",
+            "station_train_code": "C7699",
+            "station_name": "小榄",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "20:40",
+            "wz_num": "--",
+            "station_no": "04",
+            "running_time": "00:28"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "20:58",
+            "station_train_code": "C7699",
+            "station_name": "珠海北",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "21:00",
+            "wz_num": "--",
+            "station_no": "05",
+            "running_time": "00:48"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "21:03",
+            "station_train_code": "C7699",
+            "station_name": "唐家湾",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "21:05",
+            "wz_num": "--",
+            "station_no": "06",
+            "running_time": "00:53"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "21:12",
+            "station_train_code": "C7699",
+            "station_name": "明珠",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "21:13",
+            "wz_num": "--",
+            "station_no": "07",
+            "running_time": "01:02"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "21:24",
+            "station_train_code": "C7699",
+            "station_name": "珠海",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "21:24",
+            "wz_num": "--",
+            "station_no": "08",
+            "running_time": "01:14"
+        }
+    ],
+    "station_names": [
+        "广州南",
+        "顺德",
+        "容桂",
+        "小榄",
+        "珠海北",
+        "唐家湾",
+        "明珠",
+        "珠海"
+    ],
+    "train_search_no": "6c000C769908"
+}

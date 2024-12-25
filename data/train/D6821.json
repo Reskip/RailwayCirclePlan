@@ -1,0 +1,50 @@
+{
+    "station_list": [
+        {
+            "arrive_day_str": "当日到达",
+            "station_name": "西安北",
+            "train_class_name": "动车",
+            "is_start": "Y",
+            "service_type": "2",
+            "end_station_name": "彬州东",
+            "arrive_time": "----",
+            "start_station_name": "西安北",
+            "station_train_code": "D6821",
+            "arrive_day_diff": "0",
+            "start_time": "07:00",
+            "station_no": "01",
+            "wz_num": "--",
+            "running_time": "00:00"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "07:13",
+            "station_train_code": "D6821",
+            "station_name": "咸阳北",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "07:15",
+            "wz_num": "--",
+            "station_no": "02",
+            "running_time": "00:13"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "07:47",
+            "station_train_code": "D6821",
+            "station_name": "彬州东",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "07:47",
+            "wz_num": "--",
+            "station_no": "03",
+            "running_time": "00:47"
+        }
+    ],
+    "station_names": [
+        "西安北",
+        "咸阳北",
+        "彬州东"
+    ],
+    "train_search_no": "4f000D68210O"
+}

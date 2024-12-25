@@ -1,0 +1,128 @@
+{
+    "station_list": [
+        {
+            "arrive_day_str": "当日到达",
+            "station_name": "郑州东",
+            "train_class_name": "高速",
+            "is_start": "Y",
+            "service_type": "2",
+            "end_station_name": "上海虹桥",
+            "arrive_time": "----",
+            "start_station_name": "郑州东",
+            "station_train_code": "G1808",
+            "arrive_day_diff": "0",
+            "start_time": "10:01",
+            "station_no": "01",
+            "wz_num": "--",
+            "running_time": "00:00"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "10:50",
+            "station_train_code": "G1808",
+            "station_name": "商丘",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "10:52",
+            "wz_num": "--",
+            "station_no": "02",
+            "running_time": "00:49"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "11:37",
+            "station_train_code": "G1805",
+            "station_name": "徐州东",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "11:43",
+            "wz_num": "--",
+            "station_no": "03",
+            "running_time": "01:36"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "12:43",
+            "station_train_code": "G1805",
+            "station_name": "滁州",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "12:45",
+            "wz_num": "--",
+            "station_no": "04",
+            "running_time": "02:42"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "13:04",
+            "station_train_code": "G1805",
+            "station_name": "南京南",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "13:09",
+            "wz_num": "--",
+            "station_no": "05",
+            "running_time": "03:03"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "13:40",
+            "station_train_code": "G1805",
+            "station_name": "常州北",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "13:42",
+            "wz_num": "--",
+            "station_no": "06",
+            "running_time": "03:39"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "13:59",
+            "station_train_code": "G1805",
+            "station_name": "无锡东",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "14:01",
+            "wz_num": "--",
+            "station_no": "07",
+            "running_time": "03:58"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "14:18",
+            "station_train_code": "G1805",
+            "station_name": "昆山南",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "14:24",
+            "wz_num": "--",
+            "station_no": "08",
+            "running_time": "04:17"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "14:41",
+            "station_train_code": "G1805",
+            "station_name": "上海虹桥",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "14:41",
+            "wz_num": "--",
+            "station_no": "09",
+            "running_time": "04:40"
+        }
+    ],
+    "station_names": [
+        "郑州东",
+        "商丘",
+        "徐州东",
+        "滁州",
+        "南京南",
+        "常州北",
+        "无锡东",
+        "昆山南",
+        "上海虹桥"
+    ],
+    "train_search_no": "38000G18080A"
+}

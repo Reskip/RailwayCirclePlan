@@ -1,0 +1,76 @@
+{
+    "station_list": [
+        {
+            "arrive_day_str": "当日到达",
+            "station_name": "六盘水",
+            "train_class_name": "高速",
+            "is_start": "Y",
+            "service_type": "2",
+            "end_station_name": "荔波",
+            "arrive_time": "----",
+            "start_station_name": "六盘水",
+            "station_train_code": "G8708",
+            "arrive_day_diff": "0",
+            "start_time": "17:41",
+            "station_no": "01",
+            "wz_num": "--",
+            "running_time": "00:00"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "18:10",
+            "station_train_code": "G8708",
+            "station_name": "六枝南",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "18:12",
+            "wz_num": "--",
+            "station_no": "02",
+            "running_time": "00:29"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "18:32",
+            "station_train_code": "G8708",
+            "station_name": "安顺西",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "18:34",
+            "wz_num": "--",
+            "station_no": "03",
+            "running_time": "00:51"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "19:05",
+            "station_train_code": "G8705",
+            "station_name": "贵阳北",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "19:13",
+            "wz_num": "--",
+            "station_no": "04",
+            "running_time": "01:24"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "20:18",
+            "station_train_code": "G8705",
+            "station_name": "荔波",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "20:18",
+            "wz_num": "--",
+            "station_no": "05",
+            "running_time": "02:37"
+        }
+    ],
+    "station_names": [
+        "六盘水",
+        "六枝南",
+        "安顺西",
+        "贵阳北",
+        "荔波"
+    ],
+    "train_search_no": "78000G870801"
+}

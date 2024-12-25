@@ -1,0 +1,76 @@
+{
+    "station_list": [
+        {
+            "arrive_day_str": "当日到达",
+            "station_name": "南阳寨",
+            "train_class_name": "动车",
+            "is_start": "Y",
+            "service_type": "2",
+            "end_station_name": "焦作西",
+            "arrive_time": "----",
+            "start_station_name": "南阳寨",
+            "station_train_code": "C2810",
+            "arrive_day_diff": "0",
+            "start_time": "10:32",
+            "station_no": "01",
+            "wz_num": "--",
+            "running_time": "00:00"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "10:42",
+            "station_train_code": "C2810",
+            "station_name": "黄河景区",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "10:44",
+            "wz_num": "--",
+            "station_no": "02",
+            "running_time": "00:10"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "10:54",
+            "station_train_code": "C2810",
+            "station_name": "武陟",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "10:56",
+            "wz_num": "--",
+            "station_no": "03",
+            "running_time": "00:22"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "11:12",
+            "station_train_code": "C2810",
+            "station_name": "焦作",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "11:18",
+            "wz_num": "--",
+            "station_no": "04",
+            "running_time": "00:40"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "11:27",
+            "station_train_code": "C2810",
+            "station_name": "焦作西",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "11:27",
+            "wz_num": "--",
+            "station_no": "05",
+            "running_time": "00:55"
+        }
+    ],
+    "station_names": [
+        "南阳寨",
+        "黄河景区",
+        "武陟",
+        "焦作",
+        "焦作西"
+    ],
+    "train_search_no": "38000C281005"
+}

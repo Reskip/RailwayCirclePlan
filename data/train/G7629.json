@@ -1,0 +1,89 @@
+{
+    "station_list": [
+        {
+            "arrive_day_str": "当日到达",
+            "station_name": "南京南",
+            "train_class_name": "高速",
+            "is_start": "Y",
+            "service_type": "2",
+            "end_station_name": "温州南",
+            "arrive_time": "----",
+            "start_station_name": "南京南",
+            "station_train_code": "G7629",
+            "arrive_day_diff": "0",
+            "start_time": "19:51",
+            "station_no": "01",
+            "wz_num": "--",
+            "running_time": "00:00"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "20:18",
+            "station_train_code": "G7629",
+            "station_name": "溧阳",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "20:20",
+            "wz_num": "--",
+            "station_no": "02",
+            "running_time": "00:27"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "20:32",
+            "station_train_code": "G7629",
+            "station_name": "宜兴",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "20:35",
+            "wz_num": "--",
+            "station_no": "03",
+            "running_time": "00:41"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "21:08",
+            "station_train_code": "G7629",
+            "station_name": "杭州东",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "21:12",
+            "wz_num": "--",
+            "station_no": "04",
+            "running_time": "01:17"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "22:27",
+            "station_train_code": "G7629",
+            "station_name": "丽水",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "22:29",
+            "wz_num": "--",
+            "station_no": "05",
+            "running_time": "02:36"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "23:05",
+            "station_train_code": "G7629",
+            "station_name": "温州南",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "23:05",
+            "wz_num": "--",
+            "station_no": "06",
+            "running_time": "03:14"
+        }
+    ],
+    "station_names": [
+        "南京南",
+        "溧阳",
+        "宜兴",
+        "杭州东",
+        "丽水",
+        "温州南"
+    ],
+    "train_search_no": "5l000G7629A0"
+}

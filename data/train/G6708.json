@@ -1,0 +1,89 @@
+{
+    "station_list": [
+        {
+            "arrive_day_str": "当日到达",
+            "station_name": "石家庄",
+            "train_class_name": "高速",
+            "is_start": "Y",
+            "service_type": "1",
+            "end_station_name": "北京丰台",
+            "arrive_time": "----",
+            "start_station_name": "石家庄",
+            "station_train_code": "G6708",
+            "arrive_day_diff": "0",
+            "start_time": "06:09",
+            "station_no": "01",
+            "wz_num": "--",
+            "running_time": "00:00"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "06:32",
+            "station_train_code": "G6708",
+            "station_name": "定州东",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "06:34",
+            "wz_num": "--",
+            "station_no": "02",
+            "running_time": "00:23"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "06:51",
+            "station_train_code": "G6708",
+            "station_name": "保定东",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "06:53",
+            "wz_num": "--",
+            "station_no": "03",
+            "running_time": "00:42"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "07:10",
+            "station_train_code": "G6708",
+            "station_name": "高碑店东",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "07:12",
+            "wz_num": "--",
+            "station_no": "04",
+            "running_time": "01:01"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "07:21",
+            "station_train_code": "G6708",
+            "station_name": "涿州东",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "07:23",
+            "wz_num": "--",
+            "station_no": "05",
+            "running_time": "01:12"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "07:46",
+            "station_train_code": "G6708",
+            "station_name": "北京丰台",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "07:46",
+            "wz_num": "--",
+            "station_no": "06",
+            "running_time": "01:37"
+        }
+    ],
+    "station_names": [
+        "石家庄",
+        "定州东",
+        "保定东",
+        "高碑店东",
+        "涿州东",
+        "北京丰台"
+    ],
+    "train_search_no": "26000G67080F"
+}

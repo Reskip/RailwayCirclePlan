@@ -1,0 +1,141 @@
+{
+    "station_list": [
+        {
+            "arrive_day_str": "当日到达",
+            "station_name": "沈阳",
+            "train_class_name": "动车",
+            "is_start": "Y",
+            "service_type": "2",
+            "end_station_name": "赤峰",
+            "arrive_time": "----",
+            "start_station_name": "沈阳",
+            "station_train_code": "C1154",
+            "arrive_day_diff": "0",
+            "start_time": "09:50",
+            "station_no": "01",
+            "wz_num": "--",
+            "running_time": "00:00"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "10:18",
+            "station_train_code": "C1154",
+            "station_name": "新民北",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "10:21",
+            "wz_num": "--",
+            "station_no": "02",
+            "running_time": "00:28"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "10:36",
+            "station_train_code": "C1154",
+            "station_name": "黑山北",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "10:47",
+            "wz_num": "--",
+            "station_no": "03",
+            "running_time": "00:46"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "11:07",
+            "station_train_code": "C1154",
+            "station_name": "阜新",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "11:14",
+            "wz_num": "--",
+            "station_no": "04",
+            "running_time": "01:17"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "11:49",
+            "station_train_code": "C1154",
+            "station_name": "辽宁朝阳",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "11:52",
+            "wz_num": "--",
+            "station_no": "05",
+            "running_time": "01:59"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "12:14",
+            "station_train_code": "C1151",
+            "station_name": "喀左",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "12:16",
+            "wz_num": "--",
+            "station_no": "06",
+            "running_time": "02:24"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "12:33",
+            "station_train_code": "C1151",
+            "station_name": "建平",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "12:35",
+            "wz_num": "--",
+            "station_no": "07",
+            "running_time": "02:43"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "12:49",
+            "station_train_code": "C1151",
+            "station_name": "宁城",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "12:51",
+            "wz_num": "--",
+            "station_no": "08",
+            "running_time": "02:59"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "13:06",
+            "station_train_code": "C1151",
+            "station_name": "平庄",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "13:08",
+            "wz_num": "--",
+            "station_no": "09",
+            "running_time": "03:16"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "13:28",
+            "station_train_code": "C1151",
+            "station_name": "赤峰",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "13:28",
+            "wz_num": "--",
+            "station_no": "10",
+            "running_time": "03:38"
+        }
+    ],
+    "station_names": [
+        "沈阳",
+        "新民北",
+        "黑山北",
+        "阜新",
+        "辽宁朝阳",
+        "喀左",
+        "建平",
+        "宁城",
+        "平庄",
+        "赤峰"
+    ],
+    "train_search_no": "12000C115402"
+}

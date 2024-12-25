@@ -1,0 +1,76 @@
+{
+    "station_list": [
+        {
+            "arrive_day_str": "当日到达",
+            "station_name": "密山",
+            "train_class_name": "快速",
+            "is_start": "Y",
+            "service_type": "1",
+            "end_station_name": "鸡西",
+            "arrive_time": "----",
+            "start_station_name": "密山",
+            "station_train_code": "K7256",
+            "arrive_day_diff": "0",
+            "start_time": "17:10",
+            "station_no": "01",
+            "wz_num": "--",
+            "running_time": "00:00"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "17:36",
+            "station_train_code": "K7256",
+            "station_name": "黑台",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "17:38",
+            "wz_num": "--",
+            "station_no": "02",
+            "running_time": "00:26"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "17:52",
+            "station_train_code": "K7256",
+            "station_name": "永安乡",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "17:54",
+            "wz_num": "--",
+            "station_no": "03",
+            "running_time": "00:42"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "18:23",
+            "station_train_code": "K7256",
+            "station_name": "鸡东",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "18:26",
+            "wz_num": "--",
+            "station_no": "05",
+            "running_time": "01:13"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "18:45",
+            "station_train_code": "K7256",
+            "station_name": "鸡西",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "18:45",
+            "wz_num": "--",
+            "station_no": "06",
+            "running_time": "01:35"
+        }
+    ],
+    "station_names": [
+        "密山",
+        "黑台",
+        "永安乡",
+        "鸡东",
+        "鸡西"
+    ],
+    "train_search_no": "03000K725601"
+}

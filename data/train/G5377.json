@@ -1,0 +1,89 @@
+{
+    "station_list": [
+        {
+            "arrive_day_str": "当日到达",
+            "station_name": "济南东",
+            "train_class_name": "高速",
+            "is_start": "Y",
+            "service_type": "2",
+            "end_station_name": "钢城",
+            "arrive_time": "----",
+            "start_station_name": "济南东",
+            "station_train_code": "G5377",
+            "arrive_day_diff": "0",
+            "start_time": "16:30",
+            "station_no": "01",
+            "wz_num": "--",
+            "running_time": "00:00"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "16:41",
+            "station_train_code": "G5377",
+            "station_name": "历城",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "16:43",
+            "wz_num": "--",
+            "station_no": "02",
+            "running_time": "00:11"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "16:56",
+            "station_train_code": "G5377",
+            "station_name": "章丘南",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "16:58",
+            "wz_num": "--",
+            "station_no": "03",
+            "running_time": "00:26"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "17:06",
+            "station_train_code": "G5377",
+            "station_name": "雪野",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "17:08",
+            "wz_num": "--",
+            "station_no": "04",
+            "running_time": "00:36"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "17:19",
+            "station_train_code": "G5377",
+            "station_name": "莱芜北",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "17:21",
+            "wz_num": "--",
+            "station_no": "05",
+            "running_time": "00:49"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "17:33",
+            "station_train_code": "G5377",
+            "station_name": "钢城",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "17:33",
+            "wz_num": "--",
+            "station_no": "06",
+            "running_time": "01:03"
+        }
+    ],
+    "station_names": [
+        "济南东",
+        "历城",
+        "章丘南",
+        "雪野",
+        "莱芜北",
+        "钢城"
+    ],
+    "train_search_no": "47000G537700"
+}

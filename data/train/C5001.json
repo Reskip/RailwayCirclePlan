@@ -1,0 +1,128 @@
+{
+    "station_list": [
+        {
+            "arrive_day_str": "当日到达",
+            "station_name": "武昌",
+            "train_class_name": "动车",
+            "is_start": "Y",
+            "service_type": "2",
+            "end_station_name": "咸宁南",
+            "arrive_time": "----",
+            "start_station_name": "武昌",
+            "station_train_code": "C5001",
+            "arrive_day_diff": "0",
+            "start_time": "06:53",
+            "station_no": "01",
+            "wz_num": "--",
+            "running_time": "00:00"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "07:05",
+            "station_train_code": "C5001",
+            "station_name": "南湖东",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "07:08",
+            "wz_num": "--",
+            "station_no": "02",
+            "running_time": "00:12"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "07:14",
+            "station_train_code": "C5001",
+            "station_name": "汤逊湖",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "07:17",
+            "wz_num": "--",
+            "station_no": "03",
+            "running_time": "00:21"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "07:22",
+            "station_train_code": "C5001",
+            "station_name": "庙山",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "07:25",
+            "wz_num": "--",
+            "station_no": "04",
+            "running_time": "00:29"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "07:32",
+            "station_train_code": "C5001",
+            "station_name": "纸坊东",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "07:34",
+            "wz_num": "--",
+            "station_no": "05",
+            "running_time": "00:39"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "07:45",
+            "station_train_code": "C5001",
+            "station_name": "山坡东",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "07:47",
+            "wz_num": "--",
+            "station_no": "06",
+            "running_time": "00:52"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "07:54",
+            "station_train_code": "C5001",
+            "station_name": "贺胜桥东",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "07:56",
+            "wz_num": "--",
+            "station_no": "07",
+            "running_time": "01:01"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "08:02",
+            "station_train_code": "C5001",
+            "station_name": "横沟桥东",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "08:04",
+            "wz_num": "--",
+            "station_no": "08",
+            "running_time": "01:09"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "08:14",
+            "station_train_code": "C5001",
+            "station_name": "咸宁南",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "08:14",
+            "wz_num": "--",
+            "station_no": "09",
+            "running_time": "01:21"
+        }
+    ],
+    "station_names": [
+        "武昌",
+        "南湖东",
+        "汤逊湖",
+        "庙山",
+        "纸坊东",
+        "山坡东",
+        "贺胜桥东",
+        "横沟桥东",
+        "咸宁南"
+    ],
+    "train_search_no": "39000C50010L"
+}

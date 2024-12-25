@@ -1,0 +1,76 @@
+{
+    "station_list": [
+        {
+            "arrive_day_str": "当日到达",
+            "station_name": "西安",
+            "train_class_name": "动车",
+            "is_start": "Y",
+            "service_type": "1",
+            "end_station_name": "定边",
+            "arrive_time": "----",
+            "start_station_name": "西安",
+            "station_train_code": "D220",
+            "arrive_day_diff": "0",
+            "start_time": "08:56",
+            "station_no": "01",
+            "wz_num": "--",
+            "running_time": "00:00"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "11:05",
+            "station_train_code": "D220",
+            "station_name": "延安",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "11:12",
+            "wz_num": "--",
+            "station_no": "02",
+            "running_time": "02:09"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "12:50",
+            "station_train_code": "D221",
+            "station_name": "绥德",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "12:52",
+            "wz_num": "--",
+            "station_no": "03",
+            "running_time": "03:54"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "13:56",
+            "station_train_code": "D221",
+            "station_name": "靖边",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "13:58",
+            "wz_num": "--",
+            "station_no": "04",
+            "running_time": "05:00"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "14:48",
+            "station_train_code": "D221",
+            "station_name": "定边",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "14:48",
+            "wz_num": "--",
+            "station_no": "05",
+            "running_time": "05:52"
+        }
+    ],
+    "station_names": [
+        "西安",
+        "延安",
+        "绥德",
+        "靖边",
+        "定边"
+    ],
+    "train_search_no": "410000D22000"
+}

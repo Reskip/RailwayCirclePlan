@@ -1,0 +1,102 @@
+{
+    "station_list": [
+        {
+            "arrive_day_str": "当日到达",
+            "station_name": "北辰",
+            "train_class_name": "动车",
+            "is_start": "Y",
+            "service_type": "1",
+            "end_station_name": "北京",
+            "arrive_time": "----",
+            "start_station_name": "北辰",
+            "station_train_code": "D6606",
+            "arrive_day_diff": "0",
+            "start_time": "13:00",
+            "station_no": "01",
+            "wz_num": "--",
+            "running_time": "00:00"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "13:13",
+            "station_train_code": "D6606",
+            "station_name": "宝坻南",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "13:16",
+            "wz_num": "--",
+            "station_no": "02",
+            "running_time": "00:13"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "13:26",
+            "station_train_code": "D6606",
+            "station_name": "宝坻",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "13:29",
+            "wz_num": "--",
+            "station_no": "03",
+            "running_time": "00:26"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "13:40",
+            "station_train_code": "D6606",
+            "station_name": "香河",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "13:42",
+            "wz_num": "--",
+            "station_no": "04",
+            "running_time": "00:40"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "13:53",
+            "station_train_code": "D6606",
+            "station_name": "大厂",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "13:55",
+            "wz_num": "--",
+            "station_no": "05",
+            "running_time": "00:53"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "14:02",
+            "station_train_code": "D6606",
+            "station_name": "燕郊",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "14:04",
+            "wz_num": "--",
+            "station_no": "06",
+            "running_time": "01:02"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "14:34",
+            "station_train_code": "D6606",
+            "station_name": "北京",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "14:34",
+            "wz_num": "--",
+            "station_no": "07",
+            "running_time": "01:34"
+        }
+    ],
+    "station_names": [
+        "北辰",
+        "宝坻南",
+        "宝坻",
+        "香河",
+        "大厂",
+        "燕郊",
+        "北京"
+    ],
+    "train_search_no": "25000D660603"
+}

@@ -1,0 +1,115 @@
+{
+    "station_list": [
+        {
+            "arrive_day_str": "当日到达",
+            "station_name": "东莞东",
+            "train_class_name": "快速",
+            "is_start": "Y",
+            "service_type": "1",
+            "end_station_name": "重庆北",
+            "arrive_time": "----",
+            "start_station_name": "东莞东",
+            "station_train_code": "K777",
+            "arrive_day_diff": "0",
+            "start_time": "12:20",
+            "station_no": "01",
+            "wz_num": "--",
+            "running_time": "00:00"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "13:41",
+            "station_train_code": "K776",
+            "station_name": "广州北",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "13:47",
+            "wz_num": "--",
+            "station_no": "02",
+            "running_time": "01:21"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "14:51",
+            "station_train_code": "K776",
+            "station_name": "英德",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "14:54",
+            "wz_num": "--",
+            "station_no": "03",
+            "running_time": "02:31"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "15:54",
+            "station_train_code": "K776",
+            "station_name": "韶关东",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "16:03",
+            "wz_num": "--",
+            "station_no": "04",
+            "running_time": "03:34"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "17:47",
+            "station_train_code": "K776",
+            "station_name": "郴州",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "17:52",
+            "wz_num": "--",
+            "station_no": "05",
+            "running_time": "05:27"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "19:35",
+            "station_train_code": "K776",
+            "station_name": "衡阳",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "20:00",
+            "wz_num": "--",
+            "station_no": "06",
+            "running_time": "07:15"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "21:46",
+            "station_train_code": "K776",
+            "station_name": "邵阳",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "21:51",
+            "wz_num": "--",
+            "station_no": "07",
+            "running_time": "09:26"
+        },
+        {
+            "arrive_day_str": "次日到达",
+            "arrive_time": "08:28",
+            "station_train_code": "K776",
+            "station_name": "重庆北",
+            "arrive_day_diff": "1",
+            "OT": [],
+            "start_time": "08:28",
+            "wz_num": "--",
+            "station_no": "08",
+            "running_time": "20:08"
+        }
+    ],
+    "station_names": [
+        "东莞东",
+        "广州北",
+        "英德",
+        "韶关东",
+        "郴州",
+        "衡阳",
+        "邵阳",
+        "重庆北"
+    ],
+    "train_search_no": "670000K7770G"
+}

@@ -1,0 +1,76 @@
+{
+    "station_list": [
+        {
+            "arrive_day_str": "当日到达",
+            "station_name": "乌鲁木齐",
+            "train_class_name": "普快",
+            "is_start": "Y",
+            "service_type": "2",
+            "end_station_name": "阿拉山口",
+            "arrive_time": "----",
+            "start_station_name": "乌鲁木齐",
+            "station_train_code": "5801",
+            "arrive_day_diff": "0",
+            "start_time": "22:29",
+            "station_no": "01",
+            "wz_num": "--",
+            "running_time": "00:00"
+        },
+        {
+            "arrive_day_str": "次日到达",
+            "arrive_time": "00:34",
+            "station_train_code": "5801",
+            "station_name": "石河子",
+            "arrive_day_diff": "1",
+            "OT": [],
+            "start_time": "00:36",
+            "wz_num": "--",
+            "station_no": "03",
+            "running_time": "02:05"
+        },
+        {
+            "arrive_day_str": "次日到达",
+            "arrive_time": "02:23",
+            "station_train_code": "5801",
+            "station_name": "奎屯",
+            "arrive_day_diff": "1",
+            "OT": [],
+            "start_time": "02:25",
+            "wz_num": "--",
+            "station_no": "04",
+            "running_time": "03:54"
+        },
+        {
+            "arrive_day_str": "次日到达",
+            "arrive_time": "06:40",
+            "station_train_code": "5804",
+            "station_name": "博乐",
+            "arrive_day_diff": "1",
+            "OT": [],
+            "start_time": "07:17",
+            "wz_num": "--",
+            "station_no": "05",
+            "running_time": "08:11"
+        },
+        {
+            "arrive_day_str": "次日到达",
+            "arrive_time": "08:54",
+            "station_train_code": "5805",
+            "station_name": "阿拉山口",
+            "arrive_day_diff": "1",
+            "OT": [],
+            "start_time": "08:54",
+            "wz_num": "--",
+            "station_no": "06",
+            "running_time": "10:25"
+        }
+    ],
+    "station_names": [
+        "乌鲁木齐",
+        "石河子",
+        "奎屯",
+        "博乐",
+        "阿拉山口"
+    ],
+    "train_search_no": "93000058010N"
+}

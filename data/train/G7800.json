@@ -1,0 +1,50 @@
+{
+    "station_list": [
+        {
+            "arrive_day_str": "当日到达",
+            "station_name": "杭州东",
+            "train_class_name": "高速",
+            "is_start": "Y",
+            "service_type": "2",
+            "end_station_name": "宜兴",
+            "arrive_time": "----",
+            "start_station_name": "杭州东",
+            "station_train_code": "G7800",
+            "arrive_day_diff": "0",
+            "start_time": "22:30",
+            "station_no": "01",
+            "wz_num": "--",
+            "running_time": "00:00"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "22:51",
+            "station_train_code": "G7800",
+            "station_name": "湖州",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "22:53",
+            "wz_num": "--",
+            "station_no": "02",
+            "running_time": "00:21"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "23:10",
+            "station_train_code": "G7800",
+            "station_name": "宜兴",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "23:10",
+            "wz_num": "--",
+            "station_no": "03",
+            "running_time": "00:40"
+        }
+    ],
+    "station_names": [
+        "杭州东",
+        "湖州",
+        "宜兴"
+    ],
+    "train_search_no": "56000G780000"
+}

@@ -1,0 +1,141 @@
+{
+    "station_list": [
+        {
+            "arrive_day_str": "当日到达",
+            "station_name": "上海",
+            "train_class_name": "高速",
+            "is_start": "Y",
+            "service_type": "2",
+            "end_station_name": "盐城",
+            "arrive_time": "----",
+            "start_station_name": "上海",
+            "station_train_code": "G8294",
+            "arrive_day_diff": "0",
+            "start_time": "14:44",
+            "station_no": "01",
+            "wz_num": "--",
+            "running_time": "00:00"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "15:06",
+            "station_train_code": "G8294",
+            "station_name": "昆山南",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "15:08",
+            "wz_num": "--",
+            "station_no": "02",
+            "running_time": "00:22"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "15:20",
+            "station_train_code": "G8294",
+            "station_name": "苏州",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "15:22",
+            "wz_num": "--",
+            "station_no": "03",
+            "running_time": "00:36"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "15:42",
+            "station_train_code": "G8294",
+            "station_name": "惠山",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "15:43",
+            "wz_num": "--",
+            "station_no": "04",
+            "running_time": "00:58"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "15:53",
+            "station_train_code": "G8294",
+            "station_name": "常州",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "15:55",
+            "wz_num": "--",
+            "station_no": "05",
+            "running_time": "01:09"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "16:46",
+            "station_train_code": "G8294",
+            "station_name": "高邮",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "16:48",
+            "wz_num": "--",
+            "station_no": "06",
+            "running_time": "02:02"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "17:16",
+            "station_train_code": "G8295",
+            "station_name": "淮安东",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "17:37",
+            "wz_num": "--",
+            "station_no": "07",
+            "running_time": "02:32"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "17:54",
+            "station_train_code": "G8295",
+            "station_name": "阜宁南",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "17:56",
+            "wz_num": "--",
+            "station_no": "08",
+            "running_time": "03:10"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "18:04",
+            "station_train_code": "G8295",
+            "station_name": "建湖",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "18:06",
+            "wz_num": "--",
+            "station_no": "09",
+            "running_time": "03:20"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "18:22",
+            "station_train_code": "G8295",
+            "station_name": "盐城",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "18:22",
+            "wz_num": "--",
+            "station_no": "10",
+            "running_time": "03:38"
+        }
+    ],
+    "station_names": [
+        "上海",
+        "昆山南",
+        "苏州",
+        "惠山",
+        "常州",
+        "高邮",
+        "淮安东",
+        "阜宁南",
+        "建湖",
+        "盐城"
+    ],
+    "train_search_no": "55000G829430"
+}

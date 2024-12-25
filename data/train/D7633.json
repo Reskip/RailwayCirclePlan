@@ -1,0 +1,89 @@
+{
+    "station_list": [
+        {
+            "arrive_day_str": "当日到达",
+            "station_name": "沈阳北",
+            "train_class_name": "动车",
+            "is_start": "Y",
+            "service_type": "2",
+            "end_station_name": "丹东",
+            "arrive_time": "----",
+            "start_station_name": "沈阳北",
+            "station_train_code": "D7633",
+            "arrive_day_diff": "0",
+            "start_time": "16:36",
+            "station_no": "01",
+            "wz_num": "--",
+            "running_time": "00:00"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "16:51",
+            "station_train_code": "D7633",
+            "station_name": "沈阳南",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "16:53",
+            "wz_num": "--",
+            "station_no": "02",
+            "running_time": "00:15"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "17:17",
+            "station_train_code": "D7633",
+            "station_name": "本溪",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "17:19",
+            "wz_num": "--",
+            "station_no": "03",
+            "running_time": "00:41"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "17:39",
+            "station_train_code": "D7633",
+            "station_name": "通远堡西",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "17:41",
+            "wz_num": "--",
+            "station_no": "04",
+            "running_time": "01:03"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "17:55",
+            "station_train_code": "D7633",
+            "station_name": "凤城东",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "17:57",
+            "wz_num": "--",
+            "station_no": "05",
+            "running_time": "01:19"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "18:14",
+            "station_train_code": "D7633",
+            "station_name": "丹东",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "18:14",
+            "wz_num": "--",
+            "station_no": "06",
+            "running_time": "01:38"
+        }
+    ],
+    "station_names": [
+        "沈阳北",
+        "沈阳南",
+        "本溪",
+        "通远堡西",
+        "凤城东",
+        "丹东"
+    ],
+    "train_search_no": "12000D763306"
+}

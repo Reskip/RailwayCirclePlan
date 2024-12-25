@@ -1,0 +1,115 @@
+{
+    "station_list": [
+        {
+            "arrive_day_str": "当日到达",
+            "station_name": "庐江西",
+            "train_class_name": "高速",
+            "is_start": "Y",
+            "service_type": "2",
+            "end_station_name": "上海虹桥",
+            "arrive_time": "----",
+            "start_station_name": "庐江西",
+            "station_train_code": "G7388",
+            "arrive_day_diff": "0",
+            "start_time": "14:14",
+            "station_no": "01",
+            "wz_num": "--",
+            "running_time": "00:00"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "14:25",
+            "station_train_code": "G7388",
+            "station_name": "舒城东",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "14:27",
+            "wz_num": "--",
+            "station_no": "02",
+            "running_time": "00:11"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "14:47",
+            "station_train_code": "G7388",
+            "station_name": "合肥南",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "14:50",
+            "wz_num": "--",
+            "station_no": "03",
+            "running_time": "00:33"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "15:44",
+            "station_train_code": "G7385",
+            "station_name": "南京南",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "15:48",
+            "wz_num": "--",
+            "station_no": "04",
+            "running_time": "01:30"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "16:21",
+            "station_train_code": "G7385",
+            "station_name": "常州北",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "16:23",
+            "wz_num": "--",
+            "station_no": "05",
+            "running_time": "02:07"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "16:40",
+            "station_train_code": "G7385",
+            "station_name": "无锡东",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "16:42",
+            "wz_num": "--",
+            "station_no": "06",
+            "running_time": "02:26"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "16:53",
+            "station_train_code": "G7385",
+            "station_name": "苏州北",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "16:55",
+            "wz_num": "--",
+            "station_no": "07",
+            "running_time": "02:39"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "17:18",
+            "station_train_code": "G7385",
+            "station_name": "上海虹桥",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "17:18",
+            "wz_num": "--",
+            "station_no": "08",
+            "running_time": "03:04"
+        }
+    ],
+    "station_names": [
+        "庐江西",
+        "舒城东",
+        "合肥南",
+        "南京南",
+        "常州北",
+        "无锡东",
+        "苏州北",
+        "上海虹桥"
+    ],
+    "train_search_no": "59000G738802"
+}

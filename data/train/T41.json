@@ -1,0 +1,128 @@
+{
+    "station_list": [
+        {
+            "arrive_day_str": "当日到达",
+            "station_name": "北京西",
+            "train_class_name": "特快",
+            "is_start": "Y",
+            "service_type": "1",
+            "end_station_name": "西安",
+            "arrive_time": "----",
+            "start_station_name": "北京西",
+            "station_train_code": "T41",
+            "arrive_day_diff": "0",
+            "start_time": "18:46",
+            "station_no": "01",
+            "wz_num": "--",
+            "running_time": "00:00"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "20:07",
+            "station_train_code": "T41",
+            "station_name": "保定",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "20:11",
+            "wz_num": "--",
+            "station_no": "02",
+            "running_time": "01:21"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "23:36",
+            "station_train_code": "T41",
+            "station_name": "太原",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "23:50",
+            "wz_num": "--",
+            "station_no": "04",
+            "running_time": "04:50"
+        },
+        {
+            "arrive_day_str": "次日到达",
+            "arrive_time": "00:37",
+            "station_train_code": "T41",
+            "station_name": "文水",
+            "arrive_day_diff": "1",
+            "OT": [],
+            "start_time": "00:39",
+            "wz_num": "--",
+            "station_no": "05",
+            "running_time": "05:51"
+        },
+        {
+            "arrive_day_str": "次日到达",
+            "arrive_time": "00:51",
+            "station_train_code": "T41",
+            "station_name": "汾阳",
+            "arrive_day_diff": "1",
+            "OT": [],
+            "start_time": "00:54",
+            "wz_num": "--",
+            "station_no": "06",
+            "running_time": "06:05"
+        },
+        {
+            "arrive_day_str": "次日到达",
+            "arrive_time": "01:41",
+            "station_train_code": "T41",
+            "station_name": "吕梁",
+            "arrive_day_diff": "1",
+            "OT": [],
+            "start_time": "01:45",
+            "wz_num": "--",
+            "station_no": "07",
+            "running_time": "06:55"
+        },
+        {
+            "arrive_day_str": "次日到达",
+            "arrive_time": "03:05",
+            "station_train_code": "T41",
+            "station_name": "绥德",
+            "arrive_day_diff": "1",
+            "OT": [],
+            "start_time": "03:35",
+            "wz_num": "--",
+            "station_no": "08",
+            "running_time": "08:19"
+        },
+        {
+            "arrive_day_str": "次日到达",
+            "arrive_time": "05:02",
+            "station_train_code": "T41",
+            "station_name": "延安",
+            "arrive_day_diff": "1",
+            "OT": [],
+            "start_time": "05:07",
+            "wz_num": "--",
+            "station_no": "09",
+            "running_time": "10:16"
+        },
+        {
+            "arrive_day_str": "次日到达",
+            "arrive_time": "08:01",
+            "station_train_code": "T41",
+            "station_name": "西安",
+            "arrive_day_diff": "1",
+            "OT": [],
+            "start_time": "08:01",
+            "wz_num": "--",
+            "station_no": "10",
+            "running_time": "13:15"
+        }
+    ],
+    "station_names": [
+        "北京西",
+        "保定",
+        "太原",
+        "文水",
+        "汾阳",
+        "吕梁",
+        "绥德",
+        "延安",
+        "西安"
+    ],
+    "train_search_no": "2400000T4116"
+}

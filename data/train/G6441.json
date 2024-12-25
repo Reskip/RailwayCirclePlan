@@ -1,0 +1,76 @@
+{
+    "station_list": [
+        {
+            "arrive_day_str": "当日到达",
+            "station_name": "长沙南",
+            "train_class_name": "高速",
+            "is_start": "Y",
+            "service_type": "1",
+            "end_station_name": "邵阳",
+            "arrive_time": "----",
+            "start_station_name": "长沙南",
+            "station_train_code": "G6441",
+            "arrive_day_diff": "0",
+            "start_time": "16:27",
+            "station_no": "01",
+            "wz_num": "--",
+            "running_time": "00:00"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "16:50",
+            "station_train_code": "G6441",
+            "station_name": "韶山南",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "16:52",
+            "wz_num": "--",
+            "station_no": "02",
+            "running_time": "00:23"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "17:09",
+            "station_train_code": "G6441",
+            "station_name": "娄底南",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "17:11",
+            "wz_num": "--",
+            "station_no": "03",
+            "running_time": "00:42"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "17:22",
+            "station_train_code": "G6441",
+            "station_name": "双峰北",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "17:24",
+            "wz_num": "--",
+            "station_no": "04",
+            "running_time": "00:55"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "17:57",
+            "station_train_code": "G6441",
+            "station_name": "邵阳",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "17:57",
+            "wz_num": "--",
+            "station_no": "05",
+            "running_time": "01:30"
+        }
+    ],
+    "station_names": [
+        "长沙南",
+        "韶山南",
+        "娄底南",
+        "双峰北",
+        "邵阳"
+    ],
+    "train_search_no": "6c000G644109"
+}

@@ -1,0 +1,141 @@
+{
+    "station_list": [
+        {
+            "arrive_day_str": "当日到达",
+            "station_name": "安庆",
+            "train_class_name": "高速",
+            "is_start": "Y",
+            "service_type": "2",
+            "end_station_name": "上海虹桥",
+            "arrive_time": "----",
+            "start_station_name": "安庆",
+            "station_train_code": "G7146",
+            "arrive_day_diff": "0",
+            "start_time": "14:01",
+            "station_no": "01",
+            "wz_num": "--",
+            "running_time": "00:00"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "14:18",
+            "station_train_code": "G7146",
+            "station_name": "池州",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "14:20",
+            "wz_num": "--",
+            "station_no": "02",
+            "running_time": "00:17"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "15:02",
+            "station_train_code": "G7146",
+            "station_name": "芜湖",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "15:04",
+            "wz_num": "--",
+            "station_no": "03",
+            "running_time": "01:01"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "15:17",
+            "station_train_code": "G7146",
+            "station_name": "当涂东",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "15:19",
+            "wz_num": "--",
+            "station_no": "04",
+            "running_time": "01:16"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "15:40",
+            "station_train_code": "G7143",
+            "station_name": "南京南",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "15:44",
+            "wz_num": "--",
+            "station_no": "05",
+            "running_time": "01:39"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "16:20",
+            "station_train_code": "G7143",
+            "station_name": "丹阳",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "16:29",
+            "wz_num": "--",
+            "station_no": "06",
+            "running_time": "02:19"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "16:44",
+            "station_train_code": "G7143",
+            "station_name": "常州",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "16:46",
+            "wz_num": "--",
+            "station_no": "07",
+            "running_time": "02:43"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "17:00",
+            "station_train_code": "G7143",
+            "station_name": "无锡",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "17:02",
+            "wz_num": "--",
+            "station_no": "08",
+            "running_time": "02:59"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "17:17",
+            "station_train_code": "G7143",
+            "station_name": "苏州",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "17:19",
+            "wz_num": "--",
+            "station_no": "09",
+            "running_time": "03:16"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "17:44",
+            "station_train_code": "G7143",
+            "station_name": "上海虹桥",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "17:44",
+            "wz_num": "--",
+            "station_no": "10",
+            "running_time": "03:43"
+        }
+    ],
+    "station_names": [
+        "安庆",
+        "池州",
+        "芜湖",
+        "当涂东",
+        "南京南",
+        "丹阳",
+        "常州",
+        "无锡",
+        "苏州",
+        "上海虹桥"
+    ],
+    "train_search_no": "59000G714602"
+}

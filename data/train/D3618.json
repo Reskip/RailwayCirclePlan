@@ -1,0 +1,102 @@
+{
+    "station_list": [
+        {
+            "arrive_day_str": "当日到达",
+            "station_name": "广州南",
+            "train_class_name": "动车",
+            "is_start": "Y",
+            "service_type": "1",
+            "end_station_name": "南宁东",
+            "arrive_time": "----",
+            "start_station_name": "广州南",
+            "station_train_code": "D3618",
+            "arrive_day_diff": "0",
+            "start_time": "15:34",
+            "station_no": "01",
+            "wz_num": "--",
+            "running_time": "00:00"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "15:52",
+            "station_train_code": "D3618",
+            "station_name": "佛山西",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "15:54",
+            "wz_num": "--",
+            "station_no": "02",
+            "running_time": "00:18"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "16:32",
+            "station_train_code": "D3618",
+            "station_name": "云浮东",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "16:34",
+            "wz_num": "--",
+            "station_no": "03",
+            "running_time": "00:58"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "17:28",
+            "station_train_code": "D3618",
+            "station_name": "平南南",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "17:30",
+            "wz_num": "--",
+            "station_no": "04",
+            "running_time": "01:53"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "17:44",
+            "station_train_code": "D3618",
+            "station_name": "桂平",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "17:46",
+            "wz_num": "--",
+            "station_no": "05",
+            "running_time": "02:09"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "18:20",
+            "station_train_code": "D3618",
+            "station_name": "宾阳",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "18:22",
+            "wz_num": "--",
+            "station_no": "06",
+            "running_time": "02:45"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "18:49",
+            "station_train_code": "D3618",
+            "station_name": "南宁东",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "18:49",
+            "wz_num": "--",
+            "station_no": "07",
+            "running_time": "03:15"
+        }
+    ],
+    "station_names": [
+        "广州南",
+        "佛山西",
+        "云浮东",
+        "平南南",
+        "桂平",
+        "宾阳",
+        "南宁东"
+    ],
+    "train_search_no": "6c000D36180F"
+}

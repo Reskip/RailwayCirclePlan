@@ -1,0 +1,128 @@
+{
+    "station_list": [
+        {
+            "arrive_day_str": "当日到达",
+            "station_name": "苍南",
+            "train_class_name": "高速",
+            "is_start": "Y",
+            "service_type": "2",
+            "end_station_name": "上海虹桥",
+            "arrive_time": "----",
+            "start_station_name": "苍南",
+            "station_train_code": "G7322",
+            "arrive_day_diff": "0",
+            "start_time": "12:08",
+            "station_no": "01",
+            "wz_num": "--",
+            "running_time": "00:00"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "12:31",
+            "station_train_code": "G7322",
+            "station_name": "温州南",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "12:34",
+            "wz_num": "--",
+            "station_no": "02",
+            "running_time": "00:23"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "13:08",
+            "station_train_code": "G7322",
+            "station_name": "丽水",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "13:10",
+            "wz_num": "--",
+            "station_no": "03",
+            "running_time": "01:00"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "13:30",
+            "station_train_code": "G7322",
+            "station_name": "永康南",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "13:32",
+            "wz_num": "--",
+            "station_no": "04",
+            "running_time": "01:22"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "13:50",
+            "station_train_code": "G7322",
+            "station_name": "金华南",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "13:53",
+            "wz_num": "--",
+            "station_no": "05",
+            "running_time": "01:42"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "14:40",
+            "station_train_code": "G7322",
+            "station_name": "杭州东",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "14:43",
+            "wz_num": "--",
+            "station_no": "06",
+            "running_time": "02:32"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "15:06",
+            "station_train_code": "G7322",
+            "station_name": "嘉兴南",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "15:08",
+            "wz_num": "--",
+            "station_no": "07",
+            "running_time": "02:58"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "15:22",
+            "station_train_code": "G7322",
+            "station_name": "金山北",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "15:25",
+            "wz_num": "--",
+            "station_no": "08",
+            "running_time": "03:14"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "15:43",
+            "station_train_code": "G7322",
+            "station_name": "上海虹桥",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "15:43",
+            "wz_num": "--",
+            "station_no": "09",
+            "running_time": "03:35"
+        }
+    ],
+    "station_names": [
+        "苍南",
+        "温州南",
+        "丽水",
+        "永康南",
+        "金华南",
+        "杭州东",
+        "嘉兴南",
+        "金山北",
+        "上海虹桥"
+    ],
+    "train_search_no": "5j000G732272"
+}

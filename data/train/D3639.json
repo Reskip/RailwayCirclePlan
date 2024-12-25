@@ -1,0 +1,115 @@
+{
+    "station_list": [
+        {
+            "arrive_day_str": "当日到达",
+            "station_name": "南宁东",
+            "train_class_name": "动车",
+            "is_start": "Y",
+            "service_type": "2",
+            "end_station_name": "广州南",
+            "arrive_time": "----",
+            "start_station_name": "南宁东",
+            "station_train_code": "D3639",
+            "arrive_day_diff": "0",
+            "start_time": "18:27",
+            "station_no": "01",
+            "wz_num": "--",
+            "running_time": "00:00"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "19:07",
+            "station_train_code": "D3639",
+            "station_name": "贵港",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "19:13",
+            "wz_num": "--",
+            "station_no": "02",
+            "running_time": "00:40"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "19:32",
+            "station_train_code": "D3639",
+            "station_name": "桂平",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "19:42",
+            "wz_num": "--",
+            "station_no": "03",
+            "running_time": "01:05"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "20:10",
+            "station_train_code": "D3639",
+            "station_name": "藤县",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "20:12",
+            "wz_num": "--",
+            "station_no": "04",
+            "running_time": "01:43"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "20:24",
+            "station_train_code": "D3639",
+            "station_name": "梧州南",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "20:29",
+            "wz_num": "--",
+            "station_no": "05",
+            "running_time": "01:57"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "20:54",
+            "station_train_code": "D3639",
+            "station_name": "南江口",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "20:56",
+            "wz_num": "--",
+            "station_no": "06",
+            "running_time": "02:27"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "21:26",
+            "station_train_code": "D3639",
+            "station_name": "肇庆东",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "21:28",
+            "wz_num": "--",
+            "station_no": "07",
+            "running_time": "02:59"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "22:03",
+            "station_train_code": "D3639",
+            "station_name": "广州南",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "22:03",
+            "wz_num": "--",
+            "station_no": "08",
+            "running_time": "03:36"
+        }
+    ],
+    "station_names": [
+        "南宁东",
+        "贵港",
+        "桂平",
+        "藤县",
+        "梧州南",
+        "南江口",
+        "肇庆东",
+        "广州南"
+    ],
+    "train_search_no": "71000D36390K"
+}

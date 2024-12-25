@@ -1,0 +1,128 @@
+{
+    "station_list": [
+        {
+            "arrive_day_str": "当日到达",
+            "station_name": "鄂尔多斯",
+            "train_class_name": "快速",
+            "is_start": "Y",
+            "service_type": "1",
+            "end_station_name": "北京丰台",
+            "arrive_time": "----",
+            "start_station_name": "鄂尔多斯",
+            "station_train_code": "K90",
+            "arrive_day_diff": "0",
+            "start_time": "17:27",
+            "station_no": "01",
+            "wz_num": "--",
+            "running_time": "00:00"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "18:56",
+            "station_train_code": "K90",
+            "station_name": "包头",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "19:04",
+            "wz_num": "--",
+            "station_no": "02",
+            "running_time": "01:29"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "20:32",
+            "station_train_code": "K90",
+            "station_name": "察素齐",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "20:51",
+            "wz_num": "--",
+            "station_no": "03",
+            "running_time": "03:05"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "21:29",
+            "station_train_code": "K90",
+            "station_name": "呼和浩特",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "21:37",
+            "wz_num": "--",
+            "station_no": "04",
+            "running_time": "04:02"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "21:49",
+            "station_train_code": "K90",
+            "station_name": "呼和浩特东",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "22:00",
+            "wz_num": "--",
+            "station_no": "05",
+            "running_time": "04:22"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "23:29",
+            "station_train_code": "K90",
+            "station_name": "集宁南",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "23:37",
+            "wz_num": "--",
+            "station_no": "06",
+            "running_time": "06:02"
+        },
+        {
+            "arrive_day_str": "次日到达",
+            "arrive_time": "01:25",
+            "station_train_code": "K90",
+            "station_name": "大同",
+            "arrive_day_diff": "1",
+            "OT": [],
+            "start_time": "01:37",
+            "wz_num": "--",
+            "station_no": "07",
+            "running_time": "07:58"
+        },
+        {
+            "arrive_day_str": "次日到达",
+            "arrive_time": "03:57",
+            "station_train_code": "K90",
+            "station_name": "张家口",
+            "arrive_day_diff": "1",
+            "OT": [],
+            "start_time": "04:03",
+            "wz_num": "--",
+            "station_no": "08",
+            "running_time": "10:30"
+        },
+        {
+            "arrive_day_str": "次日到达",
+            "arrive_time": "07:07",
+            "station_train_code": "K90",
+            "station_name": "北京丰台",
+            "arrive_day_diff": "1",
+            "OT": [],
+            "start_time": "07:07",
+            "wz_num": "--",
+            "station_no": "09",
+            "running_time": "13:40"
+        }
+    ],
+    "station_names": [
+        "鄂尔多斯",
+        "包头",
+        "察素齐",
+        "呼和浩特",
+        "呼和浩特东",
+        "集宁南",
+        "大同",
+        "张家口",
+        "北京丰台"
+    ],
+    "train_search_no": "3d00000K9010"
+}

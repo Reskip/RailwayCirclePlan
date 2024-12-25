@@ -1,0 +1,89 @@
+{
+    "station_list": [
+        {
+            "arrive_day_str": "当日到达",
+            "station_name": "鄂尔多斯",
+            "train_class_name": "动车",
+            "is_start": "Y",
+            "service_type": "1",
+            "end_station_name": "集宁南",
+            "arrive_time": "----",
+            "start_station_name": "鄂尔多斯",
+            "station_train_code": "C648",
+            "arrive_day_diff": "0",
+            "start_time": "11:32",
+            "station_no": "01",
+            "wz_num": "--",
+            "running_time": "00:00"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "11:51",
+            "station_train_code": "C648",
+            "station_name": "东胜东",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "11:53",
+            "wz_num": "--",
+            "station_no": "02",
+            "running_time": "00:19"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "13:24",
+            "station_train_code": "C648",
+            "station_name": "呼和浩特",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "13:27",
+            "wz_num": "--",
+            "station_no": "03",
+            "running_time": "01:52"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "13:37",
+            "station_train_code": "C648",
+            "station_name": "呼和浩特东",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "13:43",
+            "wz_num": "--",
+            "station_no": "04",
+            "running_time": "02:05"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "14:22",
+            "station_train_code": "C648",
+            "station_name": "卓资东",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "14:24",
+            "wz_num": "--",
+            "station_no": "05",
+            "running_time": "02:50"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "14:50",
+            "station_train_code": "C648",
+            "station_name": "集宁南",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "14:50",
+            "wz_num": "--",
+            "station_no": "06",
+            "running_time": "03:18"
+        }
+    ],
+    "station_names": [
+        "鄂尔多斯",
+        "东胜东",
+        "呼和浩特",
+        "呼和浩特东",
+        "卓资东",
+        "集宁南"
+    ],
+    "train_search_no": "3d0000C64806"
+}

@@ -1,0 +1,128 @@
+{
+    "station_list": [
+        {
+            "arrive_day_str": "当日到达",
+            "station_name": "丹东",
+            "train_class_name": "快速",
+            "is_start": "Y",
+            "service_type": "2",
+            "end_station_name": "北京",
+            "arrive_time": "----",
+            "start_station_name": "丹东",
+            "station_train_code": "K28",
+            "arrive_day_diff": "0",
+            "start_time": "18:18",
+            "station_no": "01",
+            "wz_num": "--",
+            "running_time": "00:00"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "19:11",
+            "station_train_code": "K28",
+            "station_name": "凤凰城",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "19:13",
+            "wz_num": "--",
+            "station_no": "02",
+            "running_time": "00:53"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "20:58",
+            "station_train_code": "K28",
+            "station_name": "本溪",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "21:01",
+            "wz_num": "--",
+            "station_no": "03",
+            "running_time": "02:40"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "22:07",
+            "station_train_code": "K28",
+            "station_name": "沈阳",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "22:24",
+            "wz_num": "--",
+            "station_no": "04",
+            "running_time": "03:49"
+        },
+        {
+            "arrive_day_str": "次日到达",
+            "arrive_time": "02:58",
+            "station_train_code": "K28",
+            "station_name": "山海关",
+            "arrive_day_diff": "1",
+            "OT": [],
+            "start_time": "03:04",
+            "wz_num": "--",
+            "station_no": "05",
+            "running_time": "08:40"
+        },
+        {
+            "arrive_day_str": "次日到达",
+            "arrive_time": "05:21",
+            "station_train_code": "K28",
+            "station_name": "唐山",
+            "arrive_day_diff": "1",
+            "OT": [],
+            "start_time": "05:23",
+            "wz_num": "--",
+            "station_no": "06",
+            "running_time": "11:03"
+        },
+        {
+            "arrive_day_str": "次日到达",
+            "arrive_time": "06:49",
+            "station_train_code": "K28",
+            "station_name": "天津",
+            "arrive_day_diff": "1",
+            "OT": [],
+            "start_time": "06:55",
+            "wz_num": "--",
+            "station_no": "07",
+            "running_time": "12:31"
+        },
+        {
+            "arrive_day_str": "次日到达",
+            "arrive_time": "07:39",
+            "station_train_code": "K28",
+            "station_name": "广阳",
+            "arrive_day_diff": "1",
+            "OT": [],
+            "start_time": "07:42",
+            "wz_num": "--",
+            "station_no": "08",
+            "running_time": "13:21"
+        },
+        {
+            "arrive_day_str": "次日到达",
+            "arrive_time": "08:40",
+            "station_train_code": "K28",
+            "station_name": "北京",
+            "arrive_day_diff": "1",
+            "OT": [],
+            "start_time": "08:40",
+            "wz_num": "--",
+            "station_no": "09",
+            "running_time": "14:22"
+        }
+    ],
+    "station_names": [
+        "丹东",
+        "凤凰城",
+        "本溪",
+        "沈阳",
+        "山海关",
+        "唐山",
+        "天津",
+        "广阳",
+        "北京"
+    ],
+    "train_search_no": "1200000K280L"
+}

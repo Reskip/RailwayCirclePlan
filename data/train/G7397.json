@@ -1,0 +1,89 @@
+{
+    "station_list": [
+        {
+            "arrive_day_str": "当日到达",
+            "station_name": "南京南",
+            "train_class_name": "高速",
+            "is_start": "Y",
+            "service_type": "2",
+            "end_station_name": "上海虹桥",
+            "arrive_time": "----",
+            "start_station_name": "南京南",
+            "station_train_code": "G7397",
+            "arrive_day_diff": "0",
+            "start_time": "18:34",
+            "station_no": "01",
+            "wz_num": "--",
+            "running_time": "00:00"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "19:02",
+            "station_train_code": "G7397",
+            "station_name": "溧阳",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "19:04",
+            "wz_num": "--",
+            "station_no": "02",
+            "running_time": "00:28"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "19:15",
+            "station_train_code": "G7397",
+            "station_name": "宜兴",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "19:17",
+            "wz_num": "--",
+            "station_no": "03",
+            "running_time": "00:41"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "19:56",
+            "station_train_code": "G7396",
+            "station_name": "杭州",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "20:23",
+            "wz_num": "--",
+            "station_no": "04",
+            "running_time": "01:22"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "20:52",
+            "station_train_code": "G7396",
+            "station_name": "嘉兴南",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "20:54",
+            "wz_num": "--",
+            "station_no": "05",
+            "running_time": "02:18"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "21:22",
+            "station_train_code": "G7396",
+            "station_name": "上海虹桥",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "21:22",
+            "wz_num": "--",
+            "station_no": "06",
+            "running_time": "02:48"
+        }
+    ],
+    "station_names": [
+        "南京南",
+        "溧阳",
+        "宜兴",
+        "杭州",
+        "嘉兴南",
+        "上海虹桥"
+    ],
+    "train_search_no": "5l000G739781"
+}

@@ -1,0 +1,50 @@
+{
+    "station_list": [
+        {
+            "arrive_day_str": "当日到达",
+            "station_name": "广州南",
+            "train_class_name": "高速",
+            "is_start": "Y",
+            "service_type": "2",
+            "end_station_name": "深圳北",
+            "arrive_time": "----",
+            "start_station_name": "广州南",
+            "station_train_code": "G6201",
+            "arrive_day_diff": "0",
+            "start_time": "20:06",
+            "station_no": "01",
+            "wz_num": "--",
+            "running_time": "00:00"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "20:23",
+            "station_train_code": "G6201",
+            "station_name": "虎门",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "20:25",
+            "wz_num": "--",
+            "station_no": "02",
+            "running_time": "00:17"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "20:43",
+            "station_train_code": "G6201",
+            "station_name": "深圳北",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "20:43",
+            "wz_num": "--",
+            "station_no": "03",
+            "running_time": "00:36"
+        }
+    ],
+    "station_names": [
+        "广州南",
+        "虎门",
+        "深圳北"
+    ],
+    "train_search_no": "6c000G62010H"
+}

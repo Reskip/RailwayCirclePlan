@@ -1,0 +1,115 @@
+{
+    "station_list": [
+        {
+            "arrive_day_str": "当日到达",
+            "station_name": "香港西九龙",
+            "train_class_name": "高速",
+            "is_start": "Y",
+            "service_type": "1",
+            "end_station_name": "北京西",
+            "arrive_time": "----",
+            "start_station_name": "香港西九龙",
+            "station_train_code": "G80",
+            "arrive_day_diff": "0",
+            "start_time": "11:20",
+            "station_no": "01",
+            "wz_num": "--",
+            "running_time": "00:00"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "11:38",
+            "station_train_code": "G80",
+            "station_name": "深圳北",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "11:41",
+            "wz_num": "--",
+            "station_no": "02",
+            "running_time": "00:18"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "12:10",
+            "station_train_code": "G80",
+            "station_name": "广州南",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "12:13",
+            "wz_num": "--",
+            "station_no": "03",
+            "running_time": "00:50"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "14:16",
+            "station_train_code": "G80",
+            "station_name": "长沙南",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "14:19",
+            "wz_num": "--",
+            "station_no": "04",
+            "running_time": "02:56"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "15:31",
+            "station_train_code": "G80",
+            "station_name": "武汉",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "15:34",
+            "wz_num": "--",
+            "station_no": "05",
+            "running_time": "04:11"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "17:08",
+            "station_train_code": "G80",
+            "station_name": "郑州东",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "17:11",
+            "wz_num": "--",
+            "station_no": "06",
+            "running_time": "05:48"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "18:27",
+            "station_train_code": "G80",
+            "station_name": "石家庄",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "18:29",
+            "wz_num": "--",
+            "station_no": "07",
+            "running_time": "07:07"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "19:30",
+            "station_train_code": "G80",
+            "station_name": "北京西",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "19:30",
+            "wz_num": "--",
+            "station_no": "08",
+            "running_time": "08:10"
+        }
+    ],
+    "station_names": [
+        "香港西九龙",
+        "深圳北",
+        "广州南",
+        "长沙南",
+        "武汉",
+        "郑州东",
+        "石家庄",
+        "北京西"
+    ],
+    "train_search_no": "6x00000G8005"
+}

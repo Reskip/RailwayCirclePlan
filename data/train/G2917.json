@@ -1,0 +1,128 @@
+{
+    "station_list": [
+        {
+            "arrive_day_str": "当日到达",
+            "station_name": "北海",
+            "train_class_name": "高速",
+            "is_start": "Y",
+            "service_type": "2",
+            "end_station_name": "深圳北",
+            "arrive_time": "----",
+            "start_station_name": "北海",
+            "station_train_code": "G2920",
+            "arrive_day_diff": "0",
+            "start_time": "18:32",
+            "station_no": "01",
+            "wz_num": "--",
+            "running_time": "00:00"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "19:30",
+            "station_train_code": "G2917",
+            "station_name": "南宁东",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "19:49",
+            "wz_num": "--",
+            "station_no": "02",
+            "running_time": "00:58"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "20:29",
+            "station_train_code": "G2917",
+            "station_name": "贵港",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "20:31",
+            "wz_num": "--",
+            "station_no": "03",
+            "running_time": "01:57"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "21:23",
+            "station_train_code": "G2917",
+            "station_name": "梧州南",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "21:26",
+            "wz_num": "--",
+            "station_no": "04",
+            "running_time": "02:51"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "22:00",
+            "station_train_code": "G2917",
+            "station_name": "云浮东",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "22:02",
+            "wz_num": "--",
+            "station_no": "05",
+            "running_time": "03:28"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "22:22",
+            "station_train_code": "G2917",
+            "station_name": "肇庆东",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "22:24",
+            "wz_num": "--",
+            "station_no": "06",
+            "running_time": "03:50"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "22:44",
+            "station_train_code": "G2917",
+            "station_name": "佛山西",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "22:46",
+            "wz_num": "--",
+            "station_no": "07",
+            "running_time": "04:12"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "23:06",
+            "station_train_code": "G2917",
+            "station_name": "广州南",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "23:10",
+            "wz_num": "--",
+            "station_no": "08",
+            "running_time": "04:34"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "23:40",
+            "station_train_code": "G2917",
+            "station_name": "深圳北",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "23:40",
+            "wz_num": "--",
+            "station_no": "09",
+            "running_time": "05:08"
+        }
+    ],
+    "station_names": [
+        "北海",
+        "南宁东",
+        "贵港",
+        "梧州南",
+        "云浮东",
+        "肇庆东",
+        "佛山西",
+        "广州南",
+        "深圳北"
+    ],
+    "train_search_no": "73000G292001"
+}
