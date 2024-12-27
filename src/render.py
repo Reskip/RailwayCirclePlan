@@ -2,7 +2,7 @@ import matplotlib.pyplot as plt
 
 import src.const as const
 
-plt.rcParams['font.family'] = 'Heiti TC'
+# plt.rcParams['font.family'] = 'Heiti TC'
 
 def render(stations, paths=[]):
     fig, ax = plt.subplots(figsize=(12, 8))
@@ -25,6 +25,9 @@ def render(stations, paths=[]):
             rail_type = sorted(rail_type)
             color = const.NON_COVER_COLOR_MAP[rail_type[0]]
             dest_lng, dest_lat = stations[destination].get_location()
+
+            if stations[destination].distance(now_station) > 100:
+                print(s, destination)
 
             plt.plot([lng, dest_lng], [lat, dest_lat], color=color)
 

@@ -33,7 +33,7 @@ TRAIN_URL = "https://kyfw.12306.cn/otn/queryTrainInfo/query?leftTicketDTO.train_
 TRAIN_TIMEOUT = 10
 STATION_TIMEOUT = 10
 
-STATION_FILE = "data/station.json"
+STATION_FILE = "data/stations.json"
 RAILS_FILE = "data/rails.json"
 COVER_FILE = "data/cover.json"
 TRAIN_FILE = "data/train/{train_no}.json"
@@ -41,30 +41,30 @@ SCREEN_FILE = "data/screen/{station_name}.json"
 
 COVER_COLOR_MAP = {
     'G': "#F96E2A",
-    "K": "#0A5EB0",
-    "P": "#1F4529",
+    "C": "#0A5EB0",
+    "K": "#1F4529",
 }
 
 NON_COVER_COLOR_MAP = {
     'G': "#BCEAF6",
+    "C": "#D9DFC6",
     "K": "#E1FAC7",
-    "P": "#D9DFC6",
     "E": "#FDB3C4",
 }
 
 NEW_LINE_COLOR_MAP = {
     'G': "#FBA2B7",
+    "C": "#FBA2B7",
     "K": "#FBA2B7",
-    "P": "#FBA2B7",
     "E": "#FBA2B7",
 }
 
-def RAILS_SPEED_MAP(speed):
-    if speed < 100:
-        return "P"
-    if speed < 200:
-        return "K"
-    return "G"
+RAILS_SPEED_MAP = {
+    'LINK': 'K',
+    'CONV': 'K',
+    'HSR': 'G',
+    'RR': 'C',
+}
 
 def CONN_DIST_TRANS(distance):
     return distance ** 1.5 + 10
@@ -72,22 +72,22 @@ def CONN_DIST_TRANS(distance):
 def CONN_RAIL_TRANS(train_type, rail_type, distance):
     if train_type == "G":
         if rail_type == "G":
-            return distance
+            return distance * 1
+        if rail_type == "C":
+            return distance * 1.3
         if rail_type == "K":
             return distance * 2
-        if rail_type == "P":
-            return distance * 4
+    if train_type == "C":
+        if rail_type == "G":
+            return distance * 1.1
+        if rail_type == "C":
+            return distance * 1
+        if rail_type == "K":
+            return distance * 1.8
     if train_type == "K":
         if rail_type == "G":
-            return distance * 2
-        if rail_type == "K":
-            return distance * 1
-        if rail_type == "P":
-            return distance * 2
-    if train_type == "P":
-        if rail_type == "G":
             return distance * 3
+        if rail_type == "C":
+            return distance * 2
         if rail_type == "K":
-            return distance * 1.5
-        if rail_type == "P":
             return distance * 1
