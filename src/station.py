@@ -4,12 +4,13 @@ import math
 import src.const as const
 
 class Station(object):
-    def __init__(self, json_obj, logger=None):
+    def __init__(self, name, json_obj, logger=None):
         self._logger = logger
 
-        self._lng, self._lat = json_obj["coordinates"]
-        self._station_name = json_obj["name"]
-        self._train_num = json_obj["train_num"]
+        self._lng = json_obj["lng"]
+        self._lat = json_obj["lat"]
+        self._station_name = name
+        self._data = json_obj
 
         self._conn_station = dict()
         self._covered = dict()
@@ -23,11 +24,11 @@ class Station(object):
     def get_location(self):
         return self._lng, self._lat
 
-    def update_direct_conn_station(self, destination, speed):
+    def update_direct_conn_station(self, destination, rail_type):
         if destination not in self._conn_station:
             self._conn_station[destination] = set()
         self._conn_station[destination].add(
-            const.RAILS_SPEED_MAP(speed)
+            const.RAILS_SPEED_MAP[rail_type]
         )
 
     def update_cover_station(self, destination, rail_type):
@@ -51,29 +52,27 @@ class Station(object):
 
 def get_station_info(logger=None):
     station_dict = dict()
-    station_info = json.loads(open(const.STATION_FILE).read())
-    for station in station_info:
-        name = station["name"]
-        station_dict[name] = Station(station, logger)
+    station_info = json.loads(open(const.STATION_FILE, encoding='utf-8').read())
+    for name in station_info:
+        station = station_info[name]
+        station_dict[name] = Station(name, station, logger)
     return station_dict
 
 
 def enable_rails_on_station(station_dict):
-    rails_info = json.loads(open(const.RAILS_FILE).read())
+    rails_info = json.loads(open(const.RAILS_FILE, encoding='utf-8').read())
     for rail in rails_info:
         info = rails_info[rail]
-        stations = info["stations"]
-        speed = info["speed"]
+        diagram = info["diagram"]
+        rail_type = info["railType"]
 
-        for i in range(len(stations)-1):
-            source_station = stations[i]
-            destination_station = stations[i+1]
-            station_dict[source_station].update_direct_conn_station(destination_station, speed)
-            station_dict[destination_station].update_direct_conn_station(source_station, speed)
+        for start, end in diagram:
+            station_dict[start].update_direct_conn_station(end, rail_type)
+            station_dict[end].update_direct_conn_station(start, rail_type)
 
 
 def enable_cover_on_station(station_dict):
-    cover_info = json.loads(open(const.COVER_FILE).read())
+    cover_info = json.loads(open(const.COVER_FILE, encoding='utf-8').read())
     for cover in cover_info:
         source = cover["source"]
         destination = cover["destination"]
@@ -81,7 +80,3 @@ def enable_cover_on_station(station_dict):
 
         station_dict[source].update_cover_station(destination, rail_type)
         station_dict[destination].update_cover_station(source, rail_type)
-
-if __name__ == "__main__":
-    station_dict = get_station_info(open("test_log", "w"))
-    enable_rails_on_station(station_dict)
