@@ -41,15 +41,15 @@ SCREEN_FILE = "data/screen/{station_name}.json"
 
 COVER_COLOR_MAP = {
     'G': "#F96E2A",
-    "C": "#0A5EB0",
-    "K": "#1F4529",
+    "C": "#096CCD",
+    "K": "#17B240",
+    "E": "#1B0107",
 }
 
 NON_COVER_COLOR_MAP = {
-    'G': "#BCEAF6",
-    "C": "#D9DFC6",
-    "K": "#E1FAC7",
-    "E": "#FDB3C4",
+    'G': "#F9DCCE",
+    "C": "#CCE2F8",
+    "K": "#D6F8DF",
 }
 
 NEW_LINE_COLOR_MAP = {
@@ -65,6 +65,8 @@ RAILS_SPEED_MAP = {
     'HSR': 'G',
     'RR': 'C',
 }
+
+RAILS_RENDER_RANK = ["K", "C", "G", "E"]
 
 def CONN_DIST_TRANS(distance):
     return distance ** 1.5 + 10

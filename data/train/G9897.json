@@ -1,0 +1,89 @@
+{
+    "station_list": [
+        {
+            "arrive_day_str": "当日到达",
+            "station_name": "北京",
+            "train_class_name": "高速",
+            "is_start": "Y",
+            "service_type": "1",
+            "end_station_name": "北戴河",
+            "arrive_time": "----",
+            "start_station_name": "北京",
+            "station_train_code": "G9897",
+            "arrive_day_diff": "0",
+            "start_time": "15:47",
+            "station_no": "01",
+            "wz_num": "--",
+            "running_time": "00:00"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "16:27",
+            "station_train_code": "G9897",
+            "station_name": "香河",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "16:34",
+            "wz_num": "--",
+            "station_no": "02",
+            "running_time": "00:40"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "16:44",
+            "station_train_code": "G9897",
+            "station_name": "宝坻",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "16:46",
+            "wz_num": "--",
+            "station_no": "03",
+            "running_time": "00:57"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "17:01",
+            "station_train_code": "G9897",
+            "station_name": "玉田南",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "17:03",
+            "wz_num": "--",
+            "station_no": "04",
+            "running_time": "01:14"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "17:12",
+            "station_train_code": "G9897",
+            "station_name": "唐山西",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "17:19",
+            "wz_num": "--",
+            "station_no": "05",
+            "running_time": "01:25"
+        },
+        {
+            "arrive_day_str": "当日到达",
+            "arrive_time": "17:52",
+            "station_train_code": "G9897",
+            "station_name": "北戴河",
+            "arrive_day_diff": "0",
+            "OT": [],
+            "start_time": "17:52",
+            "wz_num": "--",
+            "station_no": "06",
+            "running_time": "02:05"
+        }
+    ],
+    "station_names": [
+        "北京",
+        "香河",
+        "宝坻",
+        "玉田南",
+        "唐山西",
+        "北戴河"
+    ],
+    "train_search_no": "24000G989740"
+}

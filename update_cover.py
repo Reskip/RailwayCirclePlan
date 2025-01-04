@@ -7,7 +7,7 @@ from src.utils import update_cover, dump_cover_to_file
 if __name__ == "__main__":
     station_dict = get_station_info()
     enable_rails_on_station(station_dict)
-    update_cover("K1456", station_dict, "北京丰台", "承德")
+    update_cover("C2601", station_dict, "北京南", "天津西")
     render(station_dict)
 
     enable_cover_on_station(station_dict)

@@ -2,34 +2,42 @@ import matplotlib.pyplot as plt
 
 import src.const as const
 
-# plt.rcParams['font.family'] = 'Heiti TC'
+plt.rcParams['font.family'] = 'Heiti TC'
 
 def render(stations, paths=[]):
     fig, ax = plt.subplots(figsize=(12, 8))
 
     lats = list()
     lngs = list()
+    text = set()
+
+    for rail_type_selected in const.RAILS_RENDER_RANK:
+        for s in stations:
+            now_station = stations[s]
+            if len(now_station._conn_station) == 0:
+                continue
+            lng, lat = now_station.get_location()
+            lats.append(lat)
+            lngs.append(lng)
+
+            for destination in now_station._conn_station:
+                if destination >= s:
+                    continue
+                rail_type = list(now_station._conn_station[destination])
+                if rail_type_selected not in rail_type:
+                    continue
+                color = const.NON_COVER_COLOR_MAP[rail_type_selected]
+                dest_lng, dest_lat = stations[destination].get_location()
+                plt.plot([lng, dest_lng], [lat, dest_lat], color=color, linewidth=2)
+                text.add(s)
+                text.add(destination)
 
     for s in stations:
-        now_station = stations[s]
-        if len(now_station._conn_station) == 0:
+        if s not in text:
             continue
+        now_station = stations[s]
         lng, lat = now_station.get_location()
-        lats.append(lat)
-        lngs.append(lng)
-
-        for destination in now_station._conn_station:
-            if destination >= s:
-                continue
-            rail_type = list(now_station._conn_station[destination])
-            rail_type = sorted(rail_type)
-            color = const.NON_COVER_COLOR_MAP[rail_type[0]]
-            dest_lng, dest_lat = stations[destination].get_location()
-
-            if stations[destination].distance(now_station) > 100:
-                print(s, destination)
-
-            plt.plot([lng, dest_lng], [lat, dest_lat], color=color)
+        # plt.text(lng, lat, s)
 
     for train in paths:
         path = train._real_path
